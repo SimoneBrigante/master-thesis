@@ -1,0 +1,49 @@
+ 1) avg_days_since_beginning                           - 54.74088
+ 2) Session3_QCM_time_to_best_grade                    - 40.54721
+ 3) avg_time_to_best_grade                             - 33.30996
+ 4) Prime_time_to_best_grade                           - 28.14662
+ 5) Session9_QCM_time_to_best_grade                    - 25.70486
+ 6) StudentInit_days_since_beginning                   - 25.11808
+ 7) MergeList_attempts                                 - 24.70350
+ 8) Factorial_time_to_best_grade                       - 24.57586
+ 9) Prime_days_since_beginning                         - 23.83146
+10) AmazonConstructor_attempts                         - 21.60130
+11) Session1_QCM_days_since_beginning                  - 21.25214
+12) Coordinates_attempts                               - 19.73873
+13) LinkedListInsert_attempts                          - 18.10633
+14) Session2_QCM_time_to_best_grade                    - 17.49539
+15) Ticket_attempts                                    - 16.85419
+16) PairOpposite_time_to_best_grade                    - 16.25217
+17) DiffCount_days_since_beginning                     - 14.20421
+18) RSTTable_attempts                                  - 14.15250
+19) SumToComplete_time_to_best_grade                   - 13.33338
+20) Remainder_time_to_best_grade                       - 11.32199
+21) ComprehensionTranslation_time_to_best_grade        - 11.27308
+22) SumToComplete_days_since_beginning                 - 11.13090
+23) LinkedListInit_attempts                            - 10.98225
+24) Hello_time_to_best_grade                           - 10.60827
+25) FirstSum_time_to_best_grade                        - 9.78149
+26) Session4_QCM_attempts                              - 9.43604
+27) avg_attempted                                      - 9.39039
+28) REAL05_best_grade                                  - 9.30223
+29) MergeList_attempted                                - 8.82237
+30) REAL04_best_grade                                  - 8.64237
+31) PairSame_days_since_beginning                      - 8.59283
+32) Testing_days_since_beginning                       - 8.58505
+33) MergeList_days_since_beginning                     - 8.56831
+34) Bath_attempts                                      - 7.33523
+35) StudentConstructor_time_to_best_grade              - 7.26462
+36) RecursiveSum_attempts                              - 7.11143
+37) PairOrdered_days_since_beginning                   - 7.02799
+38) Sum_time_to_best_grade                             - 6.75849
+39) Remainder_attempts                                 - 6.70785
+40) Session7_QCM_time_to_best_grade                    - 6.70748
+41) Factorial_attempts                                 - 6.49448
+42) Prime_attempts                                     - 6.39831
+43) Session6_QCM_best_grade                            - 6.16023
+44) 2degree_days_since_beginning                       - 5.94517
+45) Average_time_to_best_grade                         - 5.92900
+46) Polynomial_days_since_beginning                    - 5.81138
+47) Session1_QCM_time_to_best_grade                    - 5.78293
+48) Exceptions_best_grade                              - 5.38625
+49) Session9_QCM_days_since_beginning                  - 4.85914

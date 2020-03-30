@@ -1,0 +1,139 @@
+{
+    "mission_01": [
+        "Session1_QCM",
+        "REAL01",
+        "FirstSum",
+        "Polynomial",
+        "Factorial",
+        "Bath"
+    ],
+    "mission_02": [
+        "Session2_QCM",
+        "SumToComplete",
+        "Prime",
+        "REAL02",
+        "Interval",
+        "Min",
+        "FizzBuzz",
+        "Remainder"
+    ],
+    "mission_03": [
+        "Session3_QCM",
+        "SimpleMax",
+        "SimpleFactorial",
+        "SimpleMath",
+        "REAL03",
+        "GD",
+        "Interests",
+        "GCD",
+        "Fibonacci",
+        "Quetelet",
+        "SpeedingFine",
+        "2degree"
+    ],
+    "mission_04": [
+        "Session4_QCM",
+        "Hello",
+        "Max",
+        "Testing",
+        "ComprehensionTranslation",
+        "Primes",
+        "REAL04",
+        "Sum",
+        "Average",
+        "DiffCount",
+        "2degree2",
+        "Hogwarts-I",
+        "PatternExtraction-I",
+        "PatternExtraction-II"
+    ],
+    "mission_05": [
+        "Session5_QCM",
+        "Count",
+        "Count2",
+        "Append",
+        "Participants",
+        "NestParticipants",
+        "BinarySearch",
+        "REAL05",
+        "MergeList",
+        "Sort",
+        "Hogwarts-II"
+    ],
+    "mission_06": [
+        "Session6_QCM",
+        "FileReading",
+        "Coordinates",
+        "Exceptions",
+        "REAL06",
+        "RSTTable",
+        "Hogwarts-III",
+        "Hogwarts-IV",
+        "LoadSaveGame"
+    ],
+    "mission_07": [
+        "Session7_QCM",
+        "Equals",
+        "DictCreation",
+        "DictCreationMax",
+        "TextToDic",
+        "DictKeyAccess",
+        "REAL07",
+        "REAL07Review",
+        "Hogwarts-V",
+        "PatternExtraction-III",
+        "Morse",
+        "Translator",
+        "DebtReminder"
+    ],
+    "mission_08": [
+        "Session8_QCM",
+        "RecursiveSum",
+        "CountNested",
+        "Flatten",
+        "Assistant",
+        "Map",
+        "Compose",
+        "REAL08",
+        "NestedMin",
+        "NCompose",
+        "DeepConcat",
+        "Acc",
+        "HighOrder",
+        "Sieve"
+    ],
+    "mission_09": [
+        "Session9_QCM",
+        "StudentInit",
+        "PairOpposite",
+        "PairSame",
+        "PairOrdered",
+        "REAL09",
+        "SMSStore",
+        "StudentFileReading"
+    ],
+    "mission_10": [
+        "Session10_QCM",
+        "Ticket",
+        "REAL10",
+        "StudentConstructor",
+        "AmazonConstructor",
+        "ZooGame"
+    ],
+    "mission_11": [
+        "Session11_QCM",
+        "LinkedListInit",
+        "LinkedListRemove",
+        "LinkedListInsert",
+        "REAL11",
+        "LinkedListStr",
+        "LinkedListEndRemove",
+        "LinkedList",
+        "DoubleLink",
+        "LinkedListChildren"
+    ],
+    "mission_12": [
+        "Counters",
+        "REAL12"
+    ]
+}
