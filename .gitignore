@@ -130,3 +130,5 @@ files
 code/corpus
 code/.DS_Store
 .DS_Store
+/code2vec_input_data/
+/my_code2vec/
