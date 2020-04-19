@@ -5,7 +5,7 @@ import csv
 def make_input_file():
 	students = {}
 
-	with open('../data/exam.json', 'r') as f:
+	with open('../data/exam_TF.json', 'r') as f:
 		stud_exam = json.load(f)
 
 	with open('../data/exercises.json', 'r') as f:
@@ -20,9 +20,6 @@ def make_input_file():
 			students[name]['exam'] = int(stud_exam[name])
 
 	print("Students: {}".format(len(students)))
-
-	with open('../data/input.json', 'w') as fp:
-		json.dump(students, fp, indent=4)
 
 	with open('../data/input.csv', 'w') as fp:
 		file_writer = csv.writer(fp, delimiter=',')
