@@ -48,20 +48,18 @@ class StudentExam:
 		return s
 
 
-class Exam:
-
-	def __init__(self):
-		self.exam_tasks = {}
-
-
 def make_json(students):
 	dictionary = {}
 
 	for username, student in students:
 		# print("{:20s}: avg_best_grade - {:.3f} - {}".format(username, student.get_final_grade(), student.session))
-		dictionary[username] = student.is_passed()
+		dictionary[username] = {
+			'session': student.session,
+			'is_passed': student.is_passed(),
+			'grade': float('{:.1f}'.format(student.get_final_grade()))
+		}
 
-	with open('../data/exam.json', 'w') as fp:
+	with open('../data/students_exam_results.json', 'w') as fp:
 		json.dump(dictionary, fp, indent=4)
 
 
@@ -70,14 +68,14 @@ def get_students_for_exam():
 	db, collection, fs = connect_to_db()
 	# print(" # Database connected")
 
-	with open('../data/exams_tasks_grades.json', 'r') as file:
-		exams = json.load(file)
+	with open('../data/input/exams_tasks_grades.json', 'r') as file:
+		exams_tasks_grades = json.load(file)
 
 	students = {}
 
 	stud_exams = {}
 
-	for exam, tasks in exams.items():
+	for exam, tasks in exams_tasks_grades.items():
 		submissions = dumps(db.submissions.find({'courseid': exam}))
 
 		submissions_string_list = json.loads(submissions)
@@ -117,6 +115,7 @@ def get_students_for_exam():
 
 		print("{:20s} New: {:3d} - Updated: {:3d} - Passed: {:3d}/{:3d} ({:.2f})".format(exam, count_new, count_update, count_passed, len(students), count_passed/len(students)))
 
+	print("\nStudents with more than one session:")
 	for username, exams in stud_exams.items():
 		if len(exams) > 1:
 			print("{:20s}".format(username), end=" ")
