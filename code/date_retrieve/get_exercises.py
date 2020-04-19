@@ -69,11 +69,13 @@ class Task:
 
 def make_json(students):
 	dictionary = {}
+	dictionary_summary = {}
 
 	for username, student in students:
 		dictionary[username] = make_summary_features(student)
+		dictionary_summary[username] = make_summary_features(student)
 
-		print("{:20s}: avg_best_grade - {:.3f}".format(username, dictionary[username]['avg_best_grade']))
+		# print("{:20s}: avg_best_grade - {:.3f}".format(username, dictionary[username]['avg_best_grade']))
 
 		for task_name, task in student.tasks.items():
 			dictionary[username][task_name + '_best_grade'] = task.best_grade
@@ -81,6 +83,9 @@ def make_json(students):
 			dictionary[username][task_name + '_attempts'] = task.attempts
 			dictionary[username][task_name + '_time_to_best_grade'] = int((task.best_grade_timestamp - task.first_submission_timestamp) / 1000)
 			dictionary[username][task_name + '_days_since_beginning'] = task.days_since_beginning
+
+	with open('../data/students_exercises_summary_results.json', 'w') as file_summary:
+		json.dump(dictionary_summary, file_summary, indent=4)
 
 	with open('../data/exercises.json', 'w') as fp:
 		json.dump(dictionary, fp, indent=4)
@@ -94,22 +99,34 @@ def make_summary_features(student):
 	tot_attempts = 0
 	tot_time_to_best_grade = 0
 	tot_days_since_beginning = 0
+	tot_100 = 0
+	tot_80 = 0
+	tot_50 = 0
 	for task_name, task in student.tasks.items():
 		tot_best_grade += task.best_grade
 		tot_attempted += task.attempted
 		tot_attempts += task.attempts
 		tot_time_to_best_grade += int((task.best_grade_timestamp - task.first_submission_timestamp) / 1000)
 		tot_days_since_beginning += task.days_since_beginning
-	dictionary['avg_best_grade'] = tot_best_grade / tot_tasks
-	dictionary['avg_attempted'] = tot_attempted / tot_tasks
-	dictionary['avg_attempts'] = tot_attempts / tot_tasks
-	dictionary['avg_time_to_best_grade'] = tot_time_to_best_grade / tot_tasks
-	dictionary['avg_days_since_beginning'] = tot_days_since_beginning / tot_tasks
+		if task.best_grade >= 50:
+			tot_50 += 1
+		if task.best_grade >= 80:
+			tot_80 += 1
+		if task.best_grade >= 100:
+			tot_100 += 1
+	dictionary['avg_best_grade'] = float('{:.3f}'.format(tot_best_grade / tot_attempted))
+	dictionary['tot_100'] = tot_100
+	# dictionary['tot_80'] = tot_80
+	# dictionary['tot_50'] = tot_50
+	dictionary['tot_attempted'] = tot_attempted
+	dictionary['avg_attempts'] = float('{:.3f}'.format(tot_attempts / tot_attempted))
+	dictionary['avg_time_to_best_grade'] = float('{:.3f}'.format(tot_time_to_best_grade / tot_attempted))
+	dictionary['avg_days_since_beginning'] = float('{:.3f}'.format(tot_days_since_beginning / tot_attempted))
 
 	return dictionary
 
 
-def get_students_for_exercises(tasks_list=[]):
+def get_students_for_exercises(tasks_list=None):
 	# print(" # Connection to database...")
 	db, collection, fs = utils.connect_to_db()
 	# print(" # Database connected")
@@ -118,13 +135,15 @@ def get_students_for_exercises(tasks_list=[]):
 	with open('../data/missions_tasks.json', 'r') as file:
 		missions = json.load(file)
 
-	if not tasks_list:
-		for mission, tasks in missions.items():
-			tasks_list.extend(tasks)
+	if tasks_list is None:
+		tasks_list = []
+		for mission, exercises in missions.items():
+			for ex_num, exercise in exercises.items():
+				tasks_list.append(exercise[0])
 
 	students = {}
 
-	for task in tasks_list:
+	for num, task in enumerate(tasks_list):
 
 		submissions = dumps(db.submissions.find({'courseid': 'LINFO1101', 'taskid': task}))
 
@@ -140,6 +159,8 @@ def get_students_for_exercises(tasks_list=[]):
 				students[username] = StudentExercise(username, tasks_list)
 
 			(students[username]).get_task(task_id).new_attempt(grade, submitted_on)
+
+		print('{}/{} - {:20s} - Stud: {}'.format(num + 1, len(tasks_list), task, len(students)))
 
 	print("Tot Students: %d" % (len(students)))
 	sorted_students = sorted(students.items(), key=lambda kv: (kv[1]).sum_of_grades(), reverse=True)
