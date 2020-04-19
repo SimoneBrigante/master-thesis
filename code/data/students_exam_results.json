@@ -1,0 +1,3562 @@
+{
+    "tdebels": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 20.0
+    },
+    "ogoletti": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 20.0
+    },
+    "bploumhans": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 20.0
+    },
+    "lefebvrearn": {
+        "session": "LINFO1101-0619",
+        "is_passed": true,
+        "grade": 20.0
+    },
+    "chle": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 20.0
+    },
+    "chnoiset": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 20.0
+    },
+    "chlohest": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 20.0
+    },
+    "amarlair": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 20.0
+    },
+    "flpecheur": {
+        "session": "LINFO1101-0619",
+        "is_passed": true,
+        "grade": 20.0
+    },
+    "deckersma": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 20.0
+    },
+    "cbureau": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 20.0
+    },
+    "jloriau": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 20.0
+    },
+    "mmagain": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 20.0
+    },
+    "collado": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 20.0
+    },
+    "bendardenne": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 20.0
+    },
+    "andebelle": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 20.0
+    },
+    "bealambert": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 20.0
+    },
+    "goosseju": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 20.0
+    },
+    "derminel": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 20.0
+    },
+    "salaerts": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 20.0
+    },
+    "cdeterme": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 20.0
+    },
+    "bderosendebo": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 20.0
+    },
+    "lmalevez": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 20.0
+    },
+    "robalinorobl": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 20.0
+    },
+    "straparta": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 20.0
+    },
+    "vdeyndec": {
+        "session": "LINFO1101-0619",
+        "is_passed": true,
+        "grade": 20.0
+    },
+    "guvanderrest": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 20.0
+    },
+    "vvauchel": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 20.0
+    },
+    "bdeval": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 20.0
+    },
+    "gegoa": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 20.0
+    },
+    "Altemporao": {
+        "session": "LINFO1101-0619",
+        "is_passed": true,
+        "grade": 20.0
+    },
+    "sbosschaerr": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 20.0
+    },
+    "Erjapova": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 20.0
+    },
+    "guillaumemartin": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 20.0
+    },
+    "coda": {
+        "session": "LINFO1101-0619",
+        "is_passed": true,
+        "grade": 20.0
+    },
+    "Lallemandsa": {
+        "session": "LINFO1101-0619",
+        "is_passed": true,
+        "grade": 20.0
+    },
+    "Alexandre": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 20.0
+    },
+    "AntoineDupas": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 20.0
+    },
+    "Jonah": {
+        "session": "LINFO1101-0619",
+        "is_passed": true,
+        "grade": 20.0
+    },
+    "Augustin": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 20.0
+    },
+    "Cecile": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 20.0
+    },
+    "Thibault": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 20.0
+    },
+    "Covanypersel": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 20.0
+    },
+    "Ludovic": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 20.0
+    },
+    "Moulin": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 20.0
+    },
+    "lengelel": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 20.0
+    },
+    "Christophe": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 20.0
+    },
+    "Aftersmill": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 20.0
+    },
+    "sivilain": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 20.0
+    },
+    "dhamers": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 19.6
+    },
+    "riccil": {
+        "session": "LINFO1101-0619",
+        "is_passed": true,
+        "grade": 19.5
+    },
+    "rencelotm": {
+        "session": "LINFO1101-0619",
+        "is_passed": true,
+        "grade": 19.5
+    },
+    "andetaille": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 19.4
+    },
+    "fgaudin": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 19.1
+    },
+    "etrubbers": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 19.0
+    },
+    "lohuybrechts": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 19.0
+    },
+    "heneffec": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 19.0
+    },
+    "edelaminnede": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 19.0
+    },
+    "andumoulin": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 19.0
+    },
+    "tmortiaux": {
+        "session": "LINFO1101-0619",
+        "is_passed": true,
+        "grade": 18.9
+    },
+    "rchauvaux": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 18.8
+    },
+    "llovat": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 18.8
+    },
+    "tbary": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 18.8
+    },
+    "dschorochoff": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 18.8
+    },
+    "wiauxb": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 18.8
+    },
+    "arvandroogen": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 18.8
+    },
+    "sjasselette": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 18.7
+    },
+    "boucqueymat": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 18.4
+    },
+    "mahadjili": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 18.4
+    },
+    "jodessy": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 18.3
+    },
+    "lsartenaer": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 18.2
+    },
+    "gdeside": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 18.2
+    },
+    "clingier": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 18.2
+    },
+    "wgrollinger": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 18.1
+    },
+    "coppeet": {
+        "session": "LINFO1101-0619",
+        "is_passed": true,
+        "grade": 18.1
+    },
+    "mattondeur": {
+        "session": "LINFO1101-0619",
+        "is_passed": true,
+        "grade": 18.1
+    },
+    "julesuisse": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 18.0
+    },
+    "vogelaere": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 18.0
+    },
+    "belpairev": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 17.9
+    },
+    "tmaerten": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 17.9
+    },
+    "michelfra": {
+        "session": "LINFO1101-0619",
+        "is_passed": true,
+        "grade": 17.8
+    },
+    "ademblon": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 17.8
+    },
+    "bronval": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 17.7
+    },
+    "vdegrooff": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 17.5
+    },
+    "alarue": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 17.5
+    },
+    "mounzera": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 17.5
+    },
+    "lbrants": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 17.3
+    },
+    "dabej": {
+        "session": "LINFO1101-0619",
+        "is_passed": true,
+        "grade": 17.3
+    },
+    "piremacle": {
+        "session": "LINFO1101-0619",
+        "is_passed": true,
+        "grade": 17.3
+    },
+    "deselliersda": {
+        "session": "LINFO1101-0619",
+        "is_passed": true,
+        "grade": 17.3
+    },
+    "wmerlini": {
+        "session": "LINFO1101-0619",
+        "is_passed": true,
+        "grade": 17.3
+    },
+    "meyerh": {
+        "session": "LINFO1101-0619",
+        "is_passed": true,
+        "grade": 17.3
+    },
+    "vaklein": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 17.3
+    },
+    "abombaert": {
+        "session": "LINFO1101-0619",
+        "is_passed": true,
+        "grade": 17.3
+    },
+    "LoizeauH": {
+        "session": "LINFO1101-0619",
+        "is_passed": true,
+        "grade": 17.3
+    },
+    "Argaland": {
+        "session": "LINFO1101-0619",
+        "is_passed": true,
+        "grade": 17.3
+    },
+    "Lvanaverbeke": {
+        "session": "LINFO1101-0619",
+        "is_passed": true,
+        "grade": 17.3
+    },
+    "beuel": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 17.2
+    },
+    "kpeng": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 17.2
+    },
+    "lgrumiaux": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 17.2
+    },
+    "armahy": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 17.1
+    },
+    "catecate99": {
+        "session": "LINFO1101-0619",
+        "is_passed": true,
+        "grade": 17.1
+    },
+    "nszelagowski": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 17.1
+    },
+    "lohenrotte": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 17.1
+    },
+    "durieuxt": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 17.0
+    },
+    "vicponcelet": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 17.0
+    },
+    "analeroy": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 17.0
+    },
+    "acoppine": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 17.0
+    },
+    "mborzee": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 17.0
+    },
+    "icambier": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 17.0
+    },
+    "mernierj": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 17.0
+    },
+    "ldelaet": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 17.0
+    },
+    "ldomine": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 17.0
+    },
+    "ledecqp": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 17.0
+    },
+    "daalexander": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 17.0
+    },
+    "brandtl": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 17.0
+    },
+    "zgajewskidec": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 17.0
+    },
+    "wezhang": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 17.0
+    },
+    "nbertholet": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 17.0
+    },
+    "roline": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 17.0
+    },
+    "youmour": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 17.0
+    },
+    "rverschuren": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 17.0
+    },
+    "vierinj": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 17.0
+    },
+    "boterberg": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 17.0
+    },
+    "rluyeyebidi": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 17.0
+    },
+    "clementito": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 17.0
+    },
+    "Lisevrard": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 17.0
+    },
+    "artlefebvre": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 17.0
+    },
+    "romainlefebvre": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 17.0
+    },
+    "npatesson": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 17.0
+    },
+    "Jubrichart": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 17.0
+    },
+    "timothee": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 17.0
+    },
+    "LambertThom": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 17.0
+    },
+    "qu07": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 17.0
+    },
+    "Marti12": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 17.0
+    },
+    "dylan": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 17.0
+    },
+    "Eliott": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 17.0
+    },
+    "OttilieB": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 17.0
+    },
+    "NathanS": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 17.0
+    },
+    "jeromelct": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 17.0
+    },
+    "thomas": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 17.0
+    },
+    "nicodj": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 17.0
+    },
+    "BDESEVEAUX": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 17.0
+    },
+    "achung": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 16.9
+    },
+    "ghislaincec": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 16.9
+    },
+    "xdeliedekerk": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 16.9
+    },
+    "laurentgw": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 16.9
+    },
+    "lovdabbeele": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 16.9
+    },
+    "adelavalleep": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 16.8
+    },
+    "sanlejeune": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 16.8
+    },
+    "sbettaieb": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 16.8
+    },
+    "cassartma": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 16.7
+    },
+    "tklauner": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 16.7
+    },
+    "sigeorges": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 16.7
+    },
+    "jacobsfr": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 16.7
+    },
+    "gujadin": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 16.7
+    },
+    "gquerinjean": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 16.5
+    },
+    "jschot": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 16.5
+    },
+    "sovaridis": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 16.4
+    },
+    "gsavarykerne": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 16.4
+    },
+    "desurayp": {
+        "session": "LINFO1101-0619",
+        "is_passed": true,
+        "grade": 16.3
+    },
+    "mhamer": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 16.3
+    },
+    "gonzalezmeri": {
+        "session": "LINFO1101-0619",
+        "is_passed": true,
+        "grade": 16.2
+    },
+    "jklauner": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 16.2
+    },
+    "alwinand": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 16.2
+    },
+    "pahermans": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 16.1
+    },
+    "jujacoby": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 16.0
+    },
+    "gmaudoux": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 16.0
+    },
+    "valentint": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 16.0
+    },
+    "michaelalarcon": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 16.0
+    },
+    "rdethienne": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 16.0
+    },
+    "adgiot": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 15.9
+    },
+    "arfranck": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 15.9
+    },
+    "nenin": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 15.8
+    },
+    "dhoutart": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 15.8
+    },
+    "poudrel": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 15.8
+    },
+    "mvanmollekot": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 15.8
+    },
+    "pstormme": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 15.7
+    },
+    "lemairethe": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 15.7
+    },
+    "tvddriessche": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 15.7
+    },
+    "gervaisc": {
+        "session": "LINFO1101-0619",
+        "is_passed": true,
+        "grade": 15.5
+    },
+    "parmentierto": {
+        "session": "LINFO1101-0619",
+        "is_passed": true,
+        "grade": 15.5
+    },
+    "tzvetkov": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 15.5
+    },
+    "chaverstraet": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 15.5
+    },
+    "aderwa": {
+        "session": "LINFO1101-0619",
+        "is_passed": true,
+        "grade": 15.5
+    },
+    "roisint": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 15.4
+    },
+    "arslaurent": {
+        "session": "LINFO1101-0619",
+        "is_passed": true,
+        "grade": 15.4
+    },
+    "ivraux": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 15.4
+    },
+    "mansj": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 15.3
+    },
+    "prieurg": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 15.3
+    },
+    "nbaguet": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 15.3
+    },
+    "rtilman": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 15.2
+    },
+    "cleenewerk": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 15.1
+    },
+    "usoltsev": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 15.0
+    },
+    "zaleschi": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 15.0
+    },
+    "palaviolette": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 15.0
+    },
+    "boulangerfra": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 14.9
+    },
+    "thojacquet": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 14.9
+    },
+    "becaudron": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 14.9
+    },
+    "manjacquemin": {
+        "session": "LINFO1101-0619",
+        "is_passed": true,
+        "grade": 14.9
+    },
+    "Allverlaine": {
+        "session": "LINFO1101-0619",
+        "is_passed": true,
+        "grade": 14.9
+    },
+    "natcollard": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 14.8
+    },
+    "devauxje": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 14.8
+    },
+    "ncorbisier": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 14.7
+    },
+    "jfunesalbane": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 14.7
+    },
+    "doumontt": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 14.7
+    },
+    "michelk": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 14.7
+    },
+    "mlonfils": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 14.6
+    },
+    "anclarinval": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 14.6
+    },
+    "jeremie": {
+        "session": "LINFO1101-0619",
+        "is_passed": true,
+        "grade": 14.6
+    },
+    "poncingu": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 14.6
+    },
+    "matderidder": {
+        "session": "LINFO1101-0619",
+        "is_passed": true,
+        "grade": 14.6
+    },
+    "ngiot": {
+        "session": "LINFO1101-0619",
+        "is_passed": true,
+        "grade": 14.6
+    },
+    "armichot": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 14.6
+    },
+    "lemathot": {
+        "session": "LINFO1101-0619",
+        "is_passed": true,
+        "grade": 14.6
+    },
+    "jcayman": {
+        "session": "LINFO1101-0619",
+        "is_passed": true,
+        "grade": 14.6
+    },
+    "hdetollenaer": {
+        "session": "LINFO1101-0619",
+        "is_passed": true,
+        "grade": 14.6
+    },
+    "rvoos": {
+        "session": "LINFO1101-0619",
+        "is_passed": true,
+        "grade": 14.6
+    },
+    "Romain": {
+        "session": "LINFO1101-0619",
+        "is_passed": true,
+        "grade": 14.6
+    },
+    "hugo": {
+        "session": "LINFO1101-0619",
+        "is_passed": true,
+        "grade": 14.6
+    },
+    "arnaud_deckers": {
+        "session": "LINFO1101-0619",
+        "is_passed": true,
+        "grade": 14.6
+    },
+    "Hheackers": {
+        "session": "LINFO1101-0619",
+        "is_passed": true,
+        "grade": 14.6
+    },
+    "Badak": {
+        "session": "LINFO1101-0619",
+        "is_passed": true,
+        "grade": 14.6
+    },
+    "Ddefrenne": {
+        "session": "LINFO1101-0619",
+        "is_passed": true,
+        "grade": 14.6
+    },
+    "jposkin1997": {
+        "session": "LINFO1101-0619",
+        "is_passed": true,
+        "grade": 14.6
+    },
+    "ZavenS": {
+        "session": "LINFO1101-0619",
+        "is_passed": true,
+        "grade": 14.6
+    },
+    "MargauxScaillet": {
+        "session": "LINFO1101-0619",
+        "is_passed": true,
+        "grade": 14.6
+    },
+    "ckafrouni": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 14.5
+    },
+    "jweverbergh": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 14.5
+    },
+    "bbosseler": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 14.4
+    },
+    "Jean-Baudouin": {
+        "session": "LINFO1101-0619",
+        "is_passed": true,
+        "grade": 14.4
+    },
+    "ladyns": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 14.4
+    },
+    "vuille": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 14.4
+    },
+    "jlalieu": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 14.4
+    },
+    "hcotroux": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 14.4
+    },
+    "dormalv": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 14.3
+    },
+    "tgregoir": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 14.3
+    },
+    "slepercq": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 14.2
+    },
+    "anbalthazar": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 14.1
+    },
+    "algiot": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 14.1
+    },
+    "taffin": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 14.0
+    },
+    "bernardth": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 14.0
+    },
+    "nunezkessler": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 14.0
+    },
+    "thedenis": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 14.0
+    },
+    "phuyghe": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 14.0
+    },
+    "ldeconde": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 14.0
+    },
+    "alboborodea": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 14.0
+    },
+    "buamulunguka": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 14.0
+    },
+    "martbernard": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 14.0
+    },
+    "jniyongere": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 14.0
+    },
+    "baudouxt": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 14.0
+    },
+    "qlecart": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 14.0
+    },
+    "aldoneux": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 14.0
+    },
+    "ndineur": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 14.0
+    },
+    "achariot": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 14.0
+    },
+    "opponcelet": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 14.0
+    },
+    "ldebois": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 14.0
+    },
+    "pironcha": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 14.0
+    },
+    "heinenl": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 14.0
+    },
+    "devillenfagh": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 14.0
+    },
+    "alexamichel": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 14.0
+    },
+    "sderosa": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 14.0
+    },
+    "tgaussin": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 14.0
+    },
+    "lkamto": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 14.0
+    },
+    "guettier": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 14.0
+    },
+    "almignot": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 14.0
+    },
+    "rolannoy": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 14.0
+    },
+    "cmelsens": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 14.0
+    },
+    "spatesson": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 14.0
+    },
+    "tkramer": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 14.0
+    },
+    "juvanderhaeg": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 14.0
+    },
+    "kury": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 14.0
+    },
+    "lcaprasse": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 14.0
+    },
+    "ndayisabashi": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 14.0
+    },
+    "cbakashika": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 14.0
+    },
+    "gadupont": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 14.0
+    },
+    "pauparmentie": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 14.0
+    },
+    "Arnaud": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 14.0
+    },
+    "Anton": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 14.0
+    },
+    "alexandreduvieusart": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 14.0
+    },
+    "Phytinfo": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 14.0
+    },
+    "rojasrodigu": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 14.0
+    },
+    "Lukman": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 14.0
+    },
+    "AntoineG": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 14.0
+    },
+    "3032-18-00": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 14.0
+    },
+    "Mokeev": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 14.0
+    },
+    "rbrabants": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 14.0
+    },
+    "Haga": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 14.0
+    },
+    "Anissa": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 14.0
+    },
+    "dallemagnmax": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 13.9
+    },
+    "misonnee": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 13.9
+    },
+    "smataigne": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 13.9
+    },
+    "thorobert": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 13.9
+    },
+    "leclercqde": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 13.8
+    },
+    "abray": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 13.8
+    },
+    "lwinter": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 13.8
+    },
+    "lannoyed": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 13.7
+    },
+    "lparragabarr": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 13.7
+    },
+    "oranwez": {
+        "session": "LINFO1101-0619",
+        "is_passed": true,
+        "grade": 13.7
+    },
+    "lamottea": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 13.6
+    },
+    "lgabrys": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 13.6
+    },
+    "onciul": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 13.5
+    },
+    "dekeyserca": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 13.5
+    },
+    "adekock": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 13.5
+    },
+    "keutgeng": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 13.4
+    },
+    "aubuxant": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 13.4
+    },
+    "catasiaux": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 13.4
+    },
+    "swierzewski": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 13.4
+    },
+    "vbaillieux": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 13.3
+    },
+    "vandeveldtho": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 13.3
+    },
+    "pdan": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 13.2
+    },
+    "tterwagne": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 13.2
+    },
+    "isenguerre": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 13.2
+    },
+    "fchenoy": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 13.2
+    },
+    "nhenrydegene": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 13.2
+    },
+    "lthirifay": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 13.2
+    },
+    "mbardiau": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 13.0
+    },
+    "kayokashambu": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 13.0
+    },
+    "mabano": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 13.0
+    },
+    "detryv": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 13.0
+    },
+    "hsonnet": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 13.0
+    },
+    "alex": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 13.0
+    },
+    "jucaudron": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 12.9
+    },
+    "guileonard": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 12.9
+    },
+    "lcharon": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 12.8
+    },
+    "toussainty": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 12.8
+    },
+    "npermanne": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 12.8
+    },
+    "lubury": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 12.8
+    },
+    "rclaessens": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 12.8
+    },
+    "faroud": {
+        "session": "LINFO1101-0619",
+        "is_passed": true,
+        "grade": 12.8
+    },
+    "sjuffern": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 12.8
+    },
+    "fmonette": {
+        "session": "LINFO1101-0619",
+        "is_passed": true,
+        "grade": 12.8
+    },
+    "cassiman": {
+        "session": "LINFO1101-0619",
+        "is_passed": true,
+        "grade": 12.8
+    },
+    "masta": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 12.8
+    },
+    "praux": {
+        "session": "LINFO1101-0619",
+        "is_passed": true,
+        "grade": 12.8
+    },
+    "delignes": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 12.7
+    },
+    "febontemps": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 12.7
+    },
+    "baram": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 12.7
+    },
+    "leverard": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 12.7
+    },
+    "nadecock": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 12.7
+    },
+    "sepulchreant": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 12.6
+    },
+    "jkuperblum": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 12.6
+    },
+    "dvenderick": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 12.6
+    },
+    "camidubois": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 12.6
+    },
+    "mabelleflamm": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 12.5
+    },
+    "edesjardin": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 12.5
+    },
+    "rwats": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 12.5
+    },
+    "gios": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 12.5
+    },
+    "dvanoldeneel": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 12.5
+    },
+    "genond": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 12.5
+    },
+    "mezasemet": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 12.5
+    },
+    "tacqa": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 12.4
+    },
+    "DiegoML": {
+        "session": "LINFO1101-0619",
+        "is_passed": true,
+        "grade": 12.4
+    },
+    "sacrecl": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 12.4
+    },
+    "amarchetto": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 12.3
+    },
+    "sdelforno": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 12.3
+    },
+    "saegerman": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 12.3
+    },
+    "maxsion": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 12.3
+    },
+    "hverdoodt": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 12.3
+    },
+    "jjoveneau": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 12.3
+    },
+    "dubucql": {
+        "session": "LINFO1101-0619",
+        "is_passed": true,
+        "grade": 12.3
+    },
+    "nnepper": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 12.2
+    },
+    "mboyens": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 12.2
+    },
+    "roggenc": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 12.2
+    },
+    "jtonglet": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 12.2
+    },
+    "taminiaut": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 12.2
+    },
+    "gdraye": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 12.2
+    },
+    "mayencem": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 12.2
+    },
+    "anciauxv": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 12.1
+    },
+    "shocine": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 12.1
+    },
+    "blaterre": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 12.0
+    },
+    "alyoussef": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 12.0
+    },
+    "ldavreux": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 11.9
+    },
+    "chenutc": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 11.9
+    },
+    "iaghezzaf": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 11.9
+    },
+    "dourov": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 11.9
+    },
+    "alevieux": {
+        "session": "LINFO1101-0619",
+        "is_passed": true,
+        "grade": 11.8
+    },
+    "dadriaens": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 11.8
+    },
+    "shamaide": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 11.8
+    },
+    "argolenvaux": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 11.7
+    },
+    "fltinant": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 11.7
+    },
+    "thollevoet": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 11.7
+    },
+    "martinflor": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 11.7
+    },
+    "bconet": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 11.7
+    },
+    "lpaucot": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 11.6
+    },
+    "arherbiet": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 11.6
+    },
+    "degeorgi": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 11.6
+    },
+    "theo46": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 11.6
+    },
+    "aponet": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 11.6
+    },
+    "tranky": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 11.6
+    },
+    "pousseurs": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 11.5
+    },
+    "tbrouwers": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 11.5
+    },
+    "tschepers": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 11.4
+    },
+    "bhourant": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 11.3
+    },
+    "rtourpe": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 11.3
+    },
+    "bertrandcat": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 11.3
+    },
+    "tydgatb": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 11.3
+    },
+    "wmarette": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 11.3
+    },
+    "edespineux": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 11.3
+    },
+    "jvillebrun": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 11.3
+    },
+    "alduthoit": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 11.3
+    },
+    "pcauderlier": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 11.2
+    },
+    "gchaidron": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 11.2
+    },
+    "odeselliersd": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 11.2
+    },
+    "bbalon": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 11.2
+    },
+    "libertlo": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 11.1
+    },
+    "psldv": {
+        "session": "LINFO1101-0619",
+        "is_passed": true,
+        "grade": 11.1
+    },
+    "pmoulliard": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 11.0
+    },
+    "amoore": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 11.0
+    },
+    "jercharlier": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 11.0
+    },
+    "vamignon": {
+        "session": "LINFO1101-0619",
+        "is_passed": true,
+        "grade": 11.0
+    },
+    "gusbinc": {
+        "session": "LINFO1101-0619",
+        "is_passed": true,
+        "grade": 11.0
+    },
+    "raphaeln24": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 11.0
+    },
+    "ehougardy": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 11.0
+    },
+    "abanier": {
+        "session": "LINFO1101-0619",
+        "is_passed": true,
+        "grade": 10.9
+    },
+    "merciercl": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 10.9
+    },
+    "ldeman": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 10.9
+    },
+    "QuentinDullier": {
+        "session": "LINFO1101-0619",
+        "is_passed": true,
+        "grade": 10.9
+    },
+    "axdenis": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 10.9
+    },
+    "grubbers": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 10.8
+    },
+    "indriets": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 10.8
+    },
+    "lmisselyn": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 10.8
+    },
+    "gallezt": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 10.7
+    },
+    "smalbrancke": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 10.7
+    },
+    "elipeeters": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 10.7
+    },
+    "thiservais": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 10.6
+    },
+    "copetre": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 10.4
+    },
+    "lrigot": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 10.4
+    },
+    "Arthur": {
+        "session": "LINFO1101-0619",
+        "is_passed": true,
+        "grade": 10.4
+    },
+    "aferier": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 10.3
+    },
+    "nicolbernard": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 10.3
+    },
+    "bvanespen": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 10.3
+    },
+    "artgilles": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 10.3
+    },
+    "nijadoul": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 10.2
+    },
+    "ldelacre": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 10.2
+    },
+    "ageonet": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 10.2
+    },
+    "chob": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 10.2
+    },
+    "ticco": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 10.2
+    },
+    "lejeunegui": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 10.1
+    },
+    "mihail": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 10.1
+    },
+    "maxiremix": {
+        "session": "LINFO1101-0619",
+        "is_passed": true,
+        "grade": 10.1
+    },
+    "adrital": {
+        "session": "LINFO1101-0619",
+        "is_passed": true,
+        "grade": 10.1
+    },
+    "vacoenen": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 10.0
+    },
+    "xpinon": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 10.0
+    },
+    "ecreten": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 10.0
+    },
+    "ddumitras": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 10.0
+    },
+    "stefanellia": {
+        "session": "LINFO1101-0119",
+        "is_passed": true,
+        "grade": 10.0
+    },
+    "mwisenezamun": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 10.0
+    },
+    "lemazongbelo": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 10.0
+    },
+    "thiryfaulkne": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 10.0
+    },
+    "czgajewskide": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 10.0
+    },
+    "yungan": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 10.0
+    },
+    "wweber": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 10.0
+    },
+    "kdesomer": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 10.0
+    },
+    "pecheurc": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 10.0
+    },
+    "Kim15": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 10.0
+    },
+    "eleuthere": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 10.0
+    },
+    "Isaac": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 10.0
+    },
+    "Ghislain": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 10.0
+    },
+    "lderu": {
+        "session": "LINFO1101-0819",
+        "is_passed": true,
+        "grade": 10.0
+    },
+    "pletinckxm": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 9.9
+    },
+    "nfore": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 9.8
+    },
+    "gandris": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 9.8
+    },
+    "cacaulier": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 9.8
+    },
+    "locolinet": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 9.8
+    },
+    "peltierl": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 9.8
+    },
+    "ofally": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 9.8
+    },
+    "ncharefokouo": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 9.8
+    },
+    "deneuvillem": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 9.8
+    },
+    "brpierre": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 9.7
+    },
+    "rlaperche": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 9.7
+    },
+    "jvanwichelen": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 9.7
+    },
+    "amaillard": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 9.7
+    },
+    "aweverbergh": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 9.6
+    },
+    "echezuria": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 9.6
+    },
+    "emmlegrand": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 9.6
+    },
+    "whitten": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 9.6
+    },
+    "tabourgeois": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 9.5
+    },
+    "ganshofvande": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 9.5
+    },
+    "schmitzjo": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 9.5
+    },
+    "mpetini": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 9.4
+    },
+    "tschoenauen": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 9.4
+    },
+    "matvdberghe": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 9.4
+    },
+    "lhalkin": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 9.3
+    },
+    "bizere": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 9.3
+    },
+    "depren": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 9.2
+    },
+    "qdullier": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 9.1
+    },
+    "lgagliano": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 9.0
+    },
+    "jungersm": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 9.0
+    },
+    "lopestempora": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 8.8
+    },
+    "kummeler": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 8.8
+    },
+    "hcontor": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 8.7
+    },
+    "tmoriau": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 8.6
+    },
+    "borreyp": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 8.6
+    },
+    "MaxDurand": {
+        "session": "LINFO1101-0819",
+        "is_passed": false,
+        "grade": 8.6
+    },
+    "alverlaine": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 8.6
+    },
+    "smatout": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 8.6
+    },
+    "cordiercl": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 8.5
+    },
+    "sbeauvois": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 8.5
+    },
+    "barochet": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 8.4
+    },
+    "manzimihigo": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 8.4
+    },
+    "bouchatna": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 8.3
+    },
+    "dauem": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 8.3
+    },
+    "meiersp": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 8.3
+    },
+    "collinem": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 8.2
+    },
+    "zsimonian": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 8.2
+    },
+    "ssoille": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 8.2
+    },
+    "rlandes": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 8.2
+    },
+    "lvalkenberg": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 8.2
+    },
+    "michelalex": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 8.1
+    },
+    "diongaketipa": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 8.1
+    },
+    "cdallenogare": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 8.1
+    },
+    "jgelders": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 8.0
+    },
+    "wiberg": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 8.0
+    },
+    "sercornet": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 8.0
+    },
+    "delandsheerc": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 8.0
+    },
+    "davar": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 7.9
+    },
+    "gvanderveen": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 7.9
+    },
+    "ramnauth": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 7.9
+    },
+    "falkenback": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 7.8
+    },
+    "adefer": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 7.8
+    },
+    "sivanroy": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 7.8
+    },
+    "yyousfi": {
+        "session": "LINFO1101-0819",
+        "is_passed": false,
+        "grade": 7.6
+    },
+    "rappel": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 7.5
+    },
+    "matduchene": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 7.5
+    },
+    "martinglenoi": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 7.5
+    },
+    "rollandh": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 7.4
+    },
+    "comartinot": {
+        "session": "LINFO1101-0619",
+        "is_passed": false,
+        "grade": 7.4
+    },
+    "hvervier": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 7.3
+    },
+    "dupasa": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 7.3
+    },
+    "leonardth": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 7.3
+    },
+    "becharles": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 7.3
+    },
+    "zhangyuh": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 7.3
+    },
+    "juscarlier": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 7.2
+    },
+    "lgouders": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 7.2
+    },
+    "benolaurent": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 7.2
+    },
+    "ligu": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 7.1
+    },
+    "jposkin": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 7.1
+    },
+    "deseveaux": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 7.0
+    },
+    "mcolasse": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 7.0
+    },
+    "yburignat": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 7.0
+    },
+    "jubrichart": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 7.0
+    },
+    "Ryan": {
+        "session": "LINFO1101-0819",
+        "is_passed": false,
+        "grade": 7.0
+    },
+    "yassin": {
+        "session": "LINFO1101-0819",
+        "is_passed": false,
+        "grade": 7.0
+    },
+    "trupiaclara": {
+        "session": "LINFO1101-0819",
+        "is_passed": false,
+        "grade": 7.0
+    },
+    "Lucien_": {
+        "session": "LINFO1101-0819",
+        "is_passed": false,
+        "grade": 7.0
+    },
+    "lgayina": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 7.0
+    },
+    "sbosschaert": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 7.0
+    },
+    "andrenico": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 6.9
+    },
+    "auancion": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 6.8
+    },
+    "dehalleuxn": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 6.8
+    },
+    "allegaert": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 6.8
+    },
+    "jzimer": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 6.8
+    },
+    "aziberi": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 6.8
+    },
+    "tdegouys": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 6.8
+    },
+    "hnolf": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 6.8
+    },
+    "pchalantdevl": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 6.7
+    },
+    "argaland": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 6.6
+    },
+    "simonsn": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 6.5
+    },
+    "dewergifossp": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 6.4
+    },
+    "abausart": {
+        "session": "LINFO1101-0619",
+        "is_passed": false,
+        "grade": 6.4
+    },
+    "mathyvi": {
+        "session": "LINFO1101-0619",
+        "is_passed": false,
+        "grade": 6.4
+    },
+    "aurelian": {
+        "session": "LINFO1101-0819",
+        "is_passed": false,
+        "grade": 6.4
+    },
+    "obonfanti": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 6.3
+    },
+    "malcourantj": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 6.3
+    },
+    "hrahamefy": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 6.2
+    },
+    "ghyoota": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 6.2
+    },
+    "lefebvreart": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 6.2
+    },
+    "marmoulin": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 6.2
+    },
+    "erjapova": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 6.2
+    },
+    "ccardondelic": {
+        "session": "LINFO1101-0819",
+        "is_passed": false,
+        "grade": 6.0
+    },
+    "sidevaux": {
+        "session": "LINFO1101-0819",
+        "is_passed": false,
+        "grade": 6.0
+    },
+    "pbizimana": {
+        "session": "LINFO1101-0819",
+        "is_passed": false,
+        "grade": 6.0
+    },
+    "guest100": {
+        "session": "LINFO1101-0819",
+        "is_passed": false,
+        "grade": 6.0
+    },
+    "rgatabazi": {
+        "session": "LINFO1101-0819",
+        "is_passed": false,
+        "grade": 6.0
+    },
+    "fvan": {
+        "session": "LINFO1101-0819",
+        "is_passed": false,
+        "grade": 6.0
+    },
+    "senincordo": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 5.7
+    },
+    "cwaterlot": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 5.5
+    },
+    "debiolleyal": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 5.5
+    },
+    "jkrings": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 5.5
+    },
+    "ardeckers": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 5.5
+    },
+    "thmaniquet": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 5.5
+    },
+    "tvantongelen": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 5.5
+    },
+    "adelcorte": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 5.3
+    },
+    "jkuhn": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 5.2
+    },
+    "avanloocke": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 5.2
+    },
+    "maximleclerc": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 5.1
+    },
+    "lgravy": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 5.1
+    },
+    "covanypersel": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 5.0
+    },
+    "dburgisser": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 5.0
+    },
+    "ndejaegher": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 5.0
+    },
+    "cecrochet": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 5.0
+    },
+    "lbaltus": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 4.9
+    },
+    "lisevrard": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 4.9
+    },
+    "rschyns": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 4.8
+    },
+    "yhao": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 4.8
+    },
+    "floger": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 4.6
+    },
+    "greedhary": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 4.4
+    },
+    "lefebvrerom": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 4.3
+    },
+    "vforget": {
+        "session": "LINFO1101-0819",
+        "is_passed": false,
+        "grade": 4.2
+    },
+    "declerckma": {
+        "session": "LINFO1101-0619",
+        "is_passed": false,
+        "grade": 4.2
+    },
+    "aulamy": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 4.1
+    },
+    "mrodriguezco": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 3.9
+    },
+    "doumonta": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 3.9
+    },
+    "raantoine": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 3.8
+    },
+    "GuillaumeTh": {
+        "session": "LINFO1101-0819",
+        "is_passed": false,
+        "grade": 3.8
+    },
+    "lienardt": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 3.6
+    },
+    "ngenyingondo": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 3.6
+    },
+    "qbrisbois": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 3.6
+    },
+    "lvanaverbeke": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 3.5
+    },
+    "valthiry": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 3.3
+    },
+    "simounet": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 3.3
+    },
+    "muraillem": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 3.0
+    },
+    "mokeev": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 3.0
+    },
+    "cbousmar": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 3.0
+    },
+    "tcastronovo": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 3.0
+    },
+    "gloire": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 3.0
+    },
+    "couchardsche": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 3.0
+    },
+    "lambertthom": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 3.0
+    },
+    "avanbeirs": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 3.0
+    },
+    "elbawab": {
+        "session": "LINFO1101-0819",
+        "is_passed": false,
+        "grade": 3.0
+    },
+    "lbarras": {
+        "session": "LINFO1101-0819",
+        "is_passed": false,
+        "grade": 3.0
+    },
+    "tcheutchoua": {
+        "session": "LINFO1101-0819",
+        "is_passed": false,
+        "grade": 3.0
+    },
+    "alarcon": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 2.9
+    },
+    "vjaupart": {
+        "session": "LINFO1101-0619",
+        "is_passed": false,
+        "grade": 2.7
+    },
+    "remaclelu": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 2.6
+    },
+    "balosseau": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 2.6
+    },
+    "abeigzadeh": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 2.5
+    },
+    "etrigot": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 2.4
+    },
+    "jelechat": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 2.3
+    },
+    "sterckfilion": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 2.3
+    },
+    "hwalravens": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 2.3
+    },
+    "tdursel": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 2.2
+    },
+    "jjaworski": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 2.1
+    },
+    "auramertens": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 2.0
+    },
+    "rojasrodrigu": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 2.0
+    },
+    "pirauxma": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 2.0
+    },
+    "tbutendababa": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 2.0
+    },
+    "andregeo": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 1.7
+    },
+    "talomfotso": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 1.5
+    },
+    "thauvoyeg": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 1.5
+    },
+    "cdandois": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 1.4
+    },
+    "habayc": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 1.2
+    },
+    "trupiac": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 1.2
+    },
+    "lndikumana": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 0.9
+    },
+    "gmarchale": {
+        "session": "LINFO1101-0819",
+        "is_passed": false,
+        "grade": 0.6
+    },
+    "riesb": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 0.6
+    },
+    "servaisqu": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 0.6
+    },
+    "ksanchezalva": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 0.6
+    },
+    "Alban": {
+        "session": "LINFO1101-0619",
+        "is_passed": false,
+        "grade": 0.5
+    },
+    "esanderson": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 0.5
+    },
+    "elhubin": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 0.5
+    },
+    "alduvieusart": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 0.5
+    },
+    "evantongelen": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 0.5
+    },
+    "nuwera": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 0.5
+    },
+    "lallemandsa": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 0.4
+    },
+    "llieutenant": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 0.3
+    },
+    "hloizeau": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 0.3
+    },
+    "martingui": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 0.3
+    },
+    "claerhoutj": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 0.3
+    },
+    "duarteveloso": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 0.3
+    },
+    "thouriez": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 0.3
+    },
+    "kaczmarczyk": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 0.3
+    },
+    "schamrotha": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 0.3
+    },
+    "mens": {
+        "session": "LINFO1101-0819",
+        "is_passed": false,
+        "grade": 0.0
+    },
+    "andegeradon": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 0.0
+    },
+    "aubary": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 0.0
+    },
+    "ltristan": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 0.0
+    },
+    "alexdupont": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 0.0
+    },
+    "rbajraktari": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 0.0
+    },
+    "kfaust": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 0.0
+    },
+    "thomandre": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 0.0
+    },
+    "elyaalaoui": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 0.0
+    },
+    "damouh": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 0.0
+    },
+    "deviss": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 0.0
+    },
+    "ldelait": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 0.0
+    },
+    "theleclercq": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 0.0
+    },
+    "lieukapkekou": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 0.0
+    },
+    "marcolinet": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 0.0
+    },
+    "acha": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 0.0
+    },
+    "iantoci": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 0.0
+    },
+    "thomascha": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 0.0
+    },
+    "vvescera": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 0.0
+    },
+    "filee": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 0.0
+    },
+    "leclercqk": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 0.0
+    },
+    "rachidy": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 0.0
+    },
+    "kulakula": {
+        "session": "LINFO1101-0619",
+        "is_passed": false,
+        "grade": 0.0
+    },
+    "alegay": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 0.0
+    },
+    "vcrasson": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 0.0
+    },
+    "haouattah": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 0.0
+    },
+    "scailletm": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 0.0
+    },
+    "brdebruyne": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 0.0
+    },
+    "hlacoste": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 0.0
+    },
+    "eflore": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 0.0
+    },
+    "elacoste": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 0.0
+    },
+    "vandijcke": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 0.0
+    },
+    "rtcheutchoua": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 0.0
+    },
+    "cmoonen": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 0.0
+    },
+    "vangrevenste": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 0.0
+    },
+    "glekeux": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 0.0
+    },
+    "coeckelbergc": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 0.0
+    },
+    "mamonoyer": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 0.0
+    },
+    "valinykounda": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 0.0
+    },
+    "remymax": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 0.0
+    },
+    "szaghouani": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 0.0
+    },
+    "dadefrenne": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 0.0
+    },
+    "demarteaun": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 0.0
+    },
+    "itshidimba": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 0.0
+    },
+    "vdevilers": {
+        "session": "LINFO1101-0119",
+        "is_passed": false,
+        "grade": 0.0
+    },
+    "dheyninck": {
+        "session": "LINFO1101-0619",
+        "is_passed": false,
+        "grade": 0.0
+    },
+    "jouoguepnanm": {
+        "session": "LINFO1101-0819",
+        "is_passed": false,
+        "grade": 0.0
+    },
+    "SmN_GLT": {
+        "session": "LINFO1101-0819",
+        "is_passed": false,
+        "grade": 0.0
+    }
+}

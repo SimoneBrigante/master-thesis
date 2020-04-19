@@ -1,0 +1,5930 @@
+{
+    "andetaille": {
+        "avg_best_grade": 100.0,
+        "tot_100": 113,
+        "tot_attempted": 113,
+        "avg_attempts": 3.761,
+        "avg_time_to_best_grade": 2957.283,
+        "avg_days_since_beginning": 41.619
+    },
+    "vaklein": {
+        "avg_best_grade": 100.0,
+        "tot_100": 113,
+        "tot_attempted": 113,
+        "avg_attempts": 5.726,
+        "avg_time_to_best_grade": 208552.018,
+        "avg_days_since_beginning": 50.097
+    },
+    "Felix": {
+        "avg_best_grade": 99.115,
+        "tot_100": 112,
+        "tot_attempted": 113,
+        "avg_attempts": 5.327,
+        "avg_time_to_best_grade": 583382.628,
+        "avg_days_since_beginning": 67.124
+    },
+    "cassartma": {
+        "avg_best_grade": 99.115,
+        "tot_100": 112,
+        "tot_attempted": 113,
+        "avg_attempts": 6.549,
+        "avg_time_to_best_grade": 61808.531,
+        "avg_days_since_beginning": 44.044
+    },
+    "Catasiaux": {
+        "avg_best_grade": 99.115,
+        "tot_100": 112,
+        "tot_attempted": 113,
+        "avg_attempts": 8.442,
+        "avg_time_to_best_grade": 273151.938,
+        "avg_days_since_beginning": 66.407
+    },
+    "tdebels": {
+        "avg_best_grade": 99.115,
+        "tot_100": 112,
+        "tot_attempted": 113,
+        "avg_attempts": 11.929,
+        "avg_time_to_best_grade": 25321.77,
+        "avg_days_since_beginning": -41.761
+    },
+    "BenR": {
+        "avg_best_grade": 98.23,
+        "tot_100": 111,
+        "tot_attempted": 113,
+        "avg_attempts": 5.938,
+        "avg_time_to_best_grade": 222866.973,
+        "avg_days_since_beginning": 59.912
+    },
+    "Franfran": {
+        "avg_best_grade": 98.23,
+        "tot_100": 111,
+        "tot_attempted": 113,
+        "avg_attempts": 6.717,
+        "avg_time_to_best_grade": 287252.487,
+        "avg_days_since_beginning": 52.133
+    },
+    "cwaterlot": {
+        "avg_best_grade": 99.107,
+        "tot_100": 111,
+        "tot_attempted": 112,
+        "avg_attempts": 6.464,
+        "avg_time_to_best_grade": 253727.125,
+        "avg_days_since_beginning": 59.964
+    },
+    "heneffec": {
+        "avg_best_grade": 98.23,
+        "tot_100": 111,
+        "tot_attempted": 113,
+        "avg_attempts": 12.265,
+        "avg_time_to_best_grade": 50918.513,
+        "avg_days_since_beginning": 46.31
+    },
+    "algiot": {
+        "avg_best_grade": 100.0,
+        "tot_100": 111,
+        "tot_attempted": 111,
+        "avg_attempts": 6.658,
+        "avg_time_to_best_grade": 137221.225,
+        "avg_days_since_beginning": 63.523
+    },
+    "TimBary": {
+        "avg_best_grade": 100.0,
+        "tot_100": 111,
+        "tot_attempted": 111,
+        "avg_attempts": 4.55,
+        "avg_time_to_best_grade": 150519.18,
+        "avg_days_since_beginning": 52.55
+    },
+    "oranwez": {
+        "avg_best_grade": 99.9,
+        "tot_100": 110,
+        "tot_attempted": 111,
+        "avg_attempts": 13.766,
+        "avg_time_to_best_grade": 432749.793,
+        "avg_days_since_beginning": 58.64
+    },
+    "wiauxb": {
+        "avg_best_grade": 97.984,
+        "tot_100": 109,
+        "tot_attempted": 113,
+        "avg_attempts": 3.062,
+        "avg_time_to_best_grade": 57633.0,
+        "avg_days_since_beginning": 54.841
+    },
+    "Louisms": {
+        "avg_best_grade": 100.0,
+        "tot_100": 110,
+        "tot_attempted": 110,
+        "avg_attempts": 9.827,
+        "avg_time_to_best_grade": 238790.045,
+        "avg_days_since_beginning": 63.745
+    },
+    "amarchetto": {
+        "avg_best_grade": 100.0,
+        "tot_100": 110,
+        "tot_attempted": 110,
+        "avg_attempts": 5.382,
+        "avg_time_to_best_grade": 81278.327,
+        "avg_days_since_beginning": 47.309
+    },
+    "sbosschaerr": {
+        "avg_best_grade": 99.099,
+        "tot_100": 110,
+        "tot_attempted": 111,
+        "avg_attempts": 10.847,
+        "avg_time_to_best_grade": 307831.622,
+        "avg_days_since_beginning": 63.351
+    },
+    "Jules": {
+        "avg_best_grade": 97.321,
+        "tot_100": 109,
+        "tot_attempted": 112,
+        "avg_attempts": 8.634,
+        "avg_time_to_best_grade": 398639.089,
+        "avg_days_since_beginning": 66.125
+    },
+    "indriets": {
+        "avg_best_grade": 97.321,
+        "tot_100": 109,
+        "tot_attempted": 112,
+        "avg_attempts": 4.018,
+        "avg_time_to_best_grade": 195070.741,
+        "avg_days_since_beginning": 87.768
+    },
+    "smataigne": {
+        "avg_best_grade": 98.198,
+        "tot_100": 109,
+        "tot_attempted": 111,
+        "avg_attempts": 6.829,
+        "avg_time_to_best_grade": 267238.27,
+        "avg_days_since_beginning": 49.829
+    },
+    "JustinLalieu": {
+        "avg_best_grade": 97.321,
+        "tot_100": 109,
+        "tot_attempted": 112,
+        "avg_attempts": 5.938,
+        "avg_time_to_best_grade": 385980.188,
+        "avg_days_since_beginning": 55.107
+    },
+    "theoschepers": {
+        "avg_best_grade": 96.726,
+        "tot_100": 108,
+        "tot_attempted": 112,
+        "avg_attempts": 4.375,
+        "avg_time_to_best_grade": 588390.402,
+        "avg_days_since_beginning": 101.411
+    },
+    "Antoine": {
+        "avg_best_grade": 100.0,
+        "tot_100": 107,
+        "tot_attempted": 107,
+        "avg_attempts": 4.252,
+        "avg_time_to_best_grade": 199684.738,
+        "avg_days_since_beginning": 44.299
+    },
+    "Arfranck": {
+        "avg_best_grade": 96.396,
+        "tot_100": 107,
+        "tot_attempted": 111,
+        "avg_attempts": 7.225,
+        "avg_time_to_best_grade": 494072.748,
+        "avg_days_since_beginning": 73.459
+    },
+    "theodenis": {
+        "avg_best_grade": 99.074,
+        "tot_100": 107,
+        "tot_attempted": 108,
+        "avg_attempts": 3.806,
+        "avg_time_to_best_grade": 185688.13,
+        "avg_days_since_beginning": 61.083
+    },
+    "Poudrel": {
+        "avg_best_grade": 99.074,
+        "tot_100": 107,
+        "tot_attempted": 108,
+        "avg_attempts": 15.62,
+        "avg_time_to_best_grade": 482590.481,
+        "avg_days_since_beginning": 58.083
+    },
+    "brpierre": {
+        "avg_best_grade": 97.273,
+        "tot_100": 107,
+        "tot_attempted": 110,
+        "avg_attempts": 6.055,
+        "avg_time_to_best_grade": 396050.736,
+        "avg_days_since_beginning": 75.182
+    },
+    "Simon_Jasselette": {
+        "avg_best_grade": 98.786,
+        "tot_100": 105,
+        "tot_attempted": 108,
+        "avg_attempts": 6.694,
+        "avg_time_to_best_grade": 175251.787,
+        "avg_days_since_beginning": 61.759
+    },
+    "dabej": {
+        "avg_best_grade": 96.667,
+        "tot_100": 106,
+        "tot_attempted": 110,
+        "avg_attempts": 7.091,
+        "avg_time_to_best_grade": 1171914.191,
+        "avg_days_since_beginning": 95.6
+    },
+    "boucqueymat": {
+        "avg_best_grade": 98.169,
+        "tot_100": 105,
+        "tot_attempted": 108,
+        "avg_attempts": 5.352,
+        "avg_time_to_best_grade": 57350.704,
+        "avg_days_since_beginning": 74.361
+    },
+    "lohuybrechts": {
+        "avg_best_grade": 95.495,
+        "tot_100": 106,
+        "tot_attempted": 111,
+        "avg_attempts": 6.658,
+        "avg_time_to_best_grade": 26429.09,
+        "avg_days_since_beginning": 59.045
+    },
+    "emmlegrand": {
+        "avg_best_grade": 96.364,
+        "tot_100": 106,
+        "tot_attempted": 110,
+        "avg_attempts": 16.045,
+        "avg_time_to_best_grade": 229612.727,
+        "avg_days_since_beginning": 67.018
+    },
+    "ndayisabashi": {
+        "avg_best_grade": 97.248,
+        "tot_100": 106,
+        "tot_attempted": 109,
+        "avg_attempts": 7.211,
+        "avg_time_to_best_grade": 846397.495,
+        "avg_days_since_beginning": 78.844
+    },
+    "boulangerfra": {
+        "avg_best_grade": 97.044,
+        "tot_100": 105,
+        "tot_attempted": 109,
+        "avg_attempts": 5.055,
+        "avg_time_to_best_grade": 237540.459,
+        "avg_days_since_beginning": 74.413
+    },
+    "Louis222": {
+        "avg_best_grade": 99.057,
+        "tot_100": 105,
+        "tot_attempted": 106,
+        "avg_attempts": 5.906,
+        "avg_time_to_best_grade": 107615.264,
+        "avg_days_since_beginning": 70.217
+    },
+    "vacoenen": {
+        "avg_best_grade": 100.0,
+        "tot_100": 105,
+        "tot_attempted": 105,
+        "avg_attempts": 9.533,
+        "avg_time_to_best_grade": 156296.619,
+        "avg_days_since_beginning": 49.276
+    },
+    "guileonard": {
+        "avg_best_grade": 100.0,
+        "tot_100": 105,
+        "tot_attempted": 105,
+        "avg_attempts": 3.41,
+        "avg_time_to_best_grade": 305065.41,
+        "avg_days_since_beginning": 103.695
+    },
+    "vogelaere": {
+        "avg_best_grade": 97.016,
+        "tot_100": 104,
+        "tot_attempted": 108,
+        "avg_attempts": 3.352,
+        "avg_time_to_best_grade": 53163.556,
+        "avg_days_since_beginning": 54.13
+    },
+    "Valentin": {
+        "avg_best_grade": 96.399,
+        "tot_100": 104,
+        "tot_attempted": 108,
+        "avg_attempts": 5.231,
+        "avg_time_to_best_grade": 390798.333,
+        "avg_days_since_beginning": 73.111
+    },
+    "rojasrodigu": {
+        "avg_best_grade": 99.153,
+        "tot_100": 104,
+        "tot_attempted": 105,
+        "avg_attempts": 5.6,
+        "avg_time_to_best_grade": 629278.876,
+        "avg_days_since_beginning": 128.41
+    },
+    "LucasRigot": {
+        "avg_best_grade": 97.196,
+        "tot_100": 104,
+        "tot_attempted": 107,
+        "avg_attempts": 12.972,
+        "avg_time_to_best_grade": 473705.168,
+        "avg_days_since_beginning": 61.664
+    },
+    "maxoubar": {
+        "avg_best_grade": 95.413,
+        "tot_100": 104,
+        "tot_attempted": 109,
+        "avg_attempts": 6.459,
+        "avg_time_to_best_grade": 331822.156,
+        "avg_days_since_beginning": 58.743
+    },
+    "dadriaens": {
+        "avg_best_grade": 97.196,
+        "tot_100": 104,
+        "tot_attempted": 107,
+        "avg_attempts": 5.916,
+        "avg_time_to_best_grade": 736778.486,
+        "avg_days_since_beginning": 70.598
+    },
+    "keutgeng": {
+        "avg_best_grade": 99.893,
+        "tot_100": 103,
+        "tot_attempted": 104,
+        "avg_attempts": 7.49,
+        "avg_time_to_best_grade": 232245.183,
+        "avg_days_since_beginning": 59.817
+    },
+    "sanlejeune": {
+        "avg_best_grade": 97.009,
+        "tot_100": 103,
+        "tot_attempted": 107,
+        "avg_attempts": 4.037,
+        "avg_time_to_best_grade": 441680.888,
+        "avg_days_since_beginning": 79.383
+    },
+    "stefanellia": {
+        "avg_best_grade": 94.495,
+        "tot_100": 103,
+        "tot_attempted": 109,
+        "avg_attempts": 7.422,
+        "avg_time_to_best_grade": 126756.514,
+        "avg_days_since_beginning": 56.716
+    },
+    "icambier": {
+        "avg_best_grade": 98.095,
+        "tot_100": 103,
+        "tot_attempted": 105,
+        "avg_attempts": 15.829,
+        "avg_time_to_best_grade": 704657.438,
+        "avg_days_since_beginning": 104.676
+    },
+    "gdeside": {
+        "avg_best_grade": 95.37,
+        "tot_100": 103,
+        "tot_attempted": 108,
+        "avg_attempts": 4.796,
+        "avg_time_to_best_grade": 380629.824,
+        "avg_days_since_beginning": 61.176
+    },
+    "dewergifossp": {
+        "avg_best_grade": 100.0,
+        "tot_100": 103,
+        "tot_attempted": 103,
+        "avg_attempts": 8.932,
+        "avg_time_to_best_grade": 145411.252,
+        "avg_days_since_beginning": 61.175
+    },
+    "straparta": {
+        "avg_best_grade": 99.038,
+        "tot_100": 103,
+        "tot_attempted": 104,
+        "avg_attempts": 8.798,
+        "avg_time_to_best_grade": 724488.24,
+        "avg_days_since_beginning": 77.663
+    },
+    "andebelle": {
+        "avg_best_grade": 97.17,
+        "tot_100": 103,
+        "tot_attempted": 106,
+        "avg_attempts": 10.698,
+        "avg_time_to_best_grade": 590457.34,
+        "avg_days_since_beginning": 76.547
+    },
+    "vdegrooff": {
+        "avg_best_grade": 91.865,
+        "tot_100": 102,
+        "tot_attempted": 112,
+        "avg_attempts": 5.214,
+        "avg_time_to_best_grade": 53686.384,
+        "avg_days_since_beginning": 45.652
+    },
+    "AdrienJO": {
+        "avg_best_grade": 93.535,
+        "tot_100": 102,
+        "tot_attempted": 110,
+        "avg_attempts": 8.582,
+        "avg_time_to_best_grade": 536625.418,
+        "avg_days_since_beginning": 55.836
+    },
+    "lucasggln": {
+        "avg_best_grade": 96.981,
+        "tot_100": 102,
+        "tot_attempted": 106,
+        "avg_attempts": 12.925,
+        "avg_time_to_best_grade": 755579.415,
+        "avg_days_since_beginning": 75.604
+    },
+    "baudouxt": {
+        "avg_best_grade": 96.792,
+        "tot_100": 102,
+        "tot_attempted": 106,
+        "avg_attempts": 4.368,
+        "avg_time_to_best_grade": 507550.632,
+        "avg_days_since_beginning": 88.453
+    },
+    "bealambert": {
+        "avg_best_grade": 99.245,
+        "tot_100": 102,
+        "tot_attempted": 103,
+        "avg_attempts": 7.757,
+        "avg_time_to_best_grade": 2522482.029,
+        "avg_days_since_beginning": 195.563
+    },
+    "goosseju": {
+        "avg_best_grade": 100.0,
+        "tot_100": 102,
+        "tot_attempted": 102,
+        "avg_attempts": 14.922,
+        "avg_time_to_best_grade": 392154.961,
+        "avg_days_since_beginning": 77.147
+    },
+    "deneuvillem": {
+        "avg_best_grade": 94.444,
+        "tot_100": 102,
+        "tot_attempted": 108,
+        "avg_attempts": 7.426,
+        "avg_time_to_best_grade": 472915.333,
+        "avg_days_since_beginning": 64.694
+    },
+    "lubury": {
+        "avg_best_grade": 99.029,
+        "tot_100": 102,
+        "tot_attempted": 103,
+        "avg_attempts": 5.369,
+        "avg_time_to_best_grade": 101803.971,
+        "avg_days_since_beginning": 46.204
+    },
+    "lohenrotte": {
+        "avg_best_grade": 95.327,
+        "tot_100": 102,
+        "tot_attempted": 107,
+        "avg_attempts": 8.047,
+        "avg_time_to_best_grade": 404314.495,
+        "avg_days_since_beginning": 56.056
+    },
+    "lefebvrearn": {
+        "avg_best_grade": 100.0,
+        "tot_100": 102,
+        "tot_attempted": 102,
+        "avg_attempts": 8.912,
+        "avg_time_to_best_grade": 828610.735,
+        "avg_days_since_beginning": 88.912
+    },
+    "OttilieB": {
+        "avg_best_grade": 97.037,
+        "tot_100": 101,
+        "tot_attempted": 105,
+        "avg_attempts": 9.686,
+        "avg_time_to_best_grade": 47739.971,
+        "avg_days_since_beginning": 73.752
+    },
+    "zgajewskidec": {
+        "avg_best_grade": 96.72,
+        "tot_100": 101,
+        "tot_attempted": 105,
+        "avg_attempts": 17.076,
+        "avg_time_to_best_grade": 365866.086,
+        "avg_days_since_beginning": 79.143
+    },
+    "lgravy": {
+        "avg_best_grade": 97.5,
+        "tot_100": 101,
+        "tot_attempted": 104,
+        "avg_attempts": 2.567,
+        "avg_time_to_best_grade": 353042.25,
+        "avg_days_since_beginning": 80.894
+    },
+    "Hnolf": {
+        "avg_best_grade": 94.704,
+        "tot_100": 101,
+        "tot_attempted": 107,
+        "avg_attempts": 11.72,
+        "avg_time_to_best_grade": 537908.009,
+        "avg_days_since_beginning": 61.561
+    },
+    "JeanSchot": {
+        "avg_best_grade": 95.283,
+        "tot_100": 101,
+        "tot_attempted": 106,
+        "avg_attempts": 9.67,
+        "avg_time_to_best_grade": 588448.604,
+        "avg_days_since_beginning": 58.321
+    },
+    "meyerh": {
+        "avg_best_grade": 97.115,
+        "tot_100": 101,
+        "tot_attempted": 104,
+        "avg_attempts": 11.413,
+        "avg_time_to_best_grade": 856404.231,
+        "avg_days_since_beginning": 67.856
+    },
+    "Sajid": {
+        "avg_best_grade": 96.19,
+        "tot_100": 101,
+        "tot_attempted": 105,
+        "avg_attempts": 8.333,
+        "avg_time_to_best_grade": 623802.714,
+        "avg_days_since_beginning": 56.676
+    },
+    "bhourant": {
+        "avg_best_grade": 94.393,
+        "tot_100": 101,
+        "tot_attempted": 107,
+        "avg_attempts": 4.617,
+        "avg_time_to_best_grade": 309920.262,
+        "avg_days_since_beginning": 56.748
+    },
+    "collinem": {
+        "avg_best_grade": 99.02,
+        "tot_100": 101,
+        "tot_attempted": 102,
+        "avg_attempts": 5.853,
+        "avg_time_to_best_grade": 317289.608,
+        "avg_days_since_beginning": 78.461
+    },
+    "alyoussef": {
+        "avg_best_grade": 99.89,
+        "tot_100": 100,
+        "tot_attempted": 101,
+        "avg_attempts": 9.208,
+        "avg_time_to_best_grade": 549405.158,
+        "avg_days_since_beginning": 71.624
+    },
+    "Isenguerre": {
+        "avg_best_grade": 97.009,
+        "tot_100": 100,
+        "tot_attempted": 104,
+        "avg_attempts": 5.712,
+        "avg_time_to_best_grade": 338659.962,
+        "avg_days_since_beginning": 71.26
+    },
+    "mvanmollekot": {
+        "avg_best_grade": 97.411,
+        "tot_100": 100,
+        "tot_attempted": 103,
+        "avg_attempts": 7.049,
+        "avg_time_to_best_grade": 23095.476,
+        "avg_days_since_beginning": 46.33
+    },
+    "Arnaud": {
+        "avg_best_grade": 97.282,
+        "tot_100": 100,
+        "tot_attempted": 103,
+        "avg_attempts": 11.262,
+        "avg_time_to_best_grade": 3336754.408,
+        "avg_days_since_beginning": 155.592
+    },
+    "BDEVAL": {
+        "avg_best_grade": 96.154,
+        "tot_100": 100,
+        "tot_attempted": 104,
+        "avg_attempts": 3.788,
+        "avg_time_to_best_grade": 128147.163,
+        "avg_days_since_beginning": 43.24
+    },
+    "leverard": {
+        "avg_best_grade": 100.0,
+        "tot_100": 100,
+        "tot_attempted": 100,
+        "avg_attempts": 6.82,
+        "avg_time_to_best_grade": 118165.16,
+        "avg_days_since_beginning": 78.98
+    },
+    "pousseurs": {
+        "avg_best_grade": 99.01,
+        "tot_100": 100,
+        "tot_attempted": 101,
+        "avg_attempts": 8.713,
+        "avg_time_to_best_grade": 182426.455,
+        "avg_days_since_beginning": 59.376
+    },
+    "dekeyserca": {
+        "avg_best_grade": 90.02,
+        "tot_100": 99,
+        "tot_attempted": 111,
+        "avg_attempts": 11.856,
+        "avg_time_to_best_grade": 371711.225,
+        "avg_days_since_beginning": 51.946
+    },
+    "Guillaumep": {
+        "avg_best_grade": 94.235,
+        "tot_100": 99,
+        "tot_attempted": 106,
+        "avg_attempts": 7.274,
+        "avg_time_to_best_grade": 109168.509,
+        "avg_days_since_beginning": 62.283
+    },
+    "aweverbergh": {
+        "avg_best_grade": 94.151,
+        "tot_100": 99,
+        "tot_attempted": 106,
+        "avg_attempts": 7.34,
+        "avg_time_to_best_grade": 221588.764,
+        "avg_days_since_beginning": 63.585
+    },
+    "Alice": {
+        "avg_best_grade": 92.718,
+        "tot_100": 98,
+        "tot_attempted": 107,
+        "avg_attempts": 8.224,
+        "avg_time_to_best_grade": 481205.598,
+        "avg_days_since_beginning": 74.43
+    },
+    "rverschuren": {
+        "avg_best_grade": 94.476,
+        "tot_100": 96,
+        "tot_attempted": 105,
+        "avg_attempts": 3.886,
+        "avg_time_to_best_grade": 176047.371,
+        "avg_days_since_beginning": 68.143
+    },
+    "michelben": {
+        "avg_best_grade": 99.0,
+        "tot_100": 99,
+        "tot_attempted": 100,
+        "avg_attempts": 3.3,
+        "avg_time_to_best_grade": 49553.57,
+        "avg_days_since_beginning": 52.15
+    },
+    "amarlair": {
+        "avg_best_grade": 92.24,
+        "tot_100": 97,
+        "tot_attempted": 107,
+        "avg_attempts": 8.243,
+        "avg_time_to_best_grade": 720662.299,
+        "avg_days_since_beginning": 76.103
+    },
+    "malcourantj": {
+        "avg_best_grade": 97.03,
+        "tot_100": 98,
+        "tot_attempted": 101,
+        "avg_attempts": 13.238,
+        "avg_time_to_best_grade": 234354.812,
+        "avg_days_since_beginning": 73.535
+    },
+    "rchauvaux": {
+        "avg_best_grade": 96.078,
+        "tot_100": 98,
+        "tot_attempted": 102,
+        "avg_attempts": 5.284,
+        "avg_time_to_best_grade": 55540.284,
+        "avg_days_since_beginning": 49.588
+    },
+    "jklauner": {
+        "avg_best_grade": 93.333,
+        "tot_100": 98,
+        "tot_attempted": 105,
+        "avg_attempts": 8.457,
+        "avg_time_to_best_grade": 260536.8,
+        "avg_days_since_beginning": 69.371
+    },
+    "Brieucconet": {
+        "avg_best_grade": 96.078,
+        "tot_100": 98,
+        "tot_attempted": 102,
+        "avg_attempts": 3.716,
+        "avg_time_to_best_grade": 91106.676,
+        "avg_days_since_beginning": 53.961
+    },
+    "PaHermans": {
+        "avg_best_grade": 92.453,
+        "tot_100": 98,
+        "tot_attempted": 106,
+        "avg_attempts": 7.208,
+        "avg_time_to_best_grade": 696511.792,
+        "avg_days_since_beginning": 70.113
+    },
+    "robalinorobl": {
+        "avg_best_grade": 98.99,
+        "tot_100": 98,
+        "tot_attempted": 99,
+        "avg_attempts": 13.182,
+        "avg_time_to_best_grade": 455090.374,
+        "avg_days_since_beginning": 101.374
+    },
+    "lgouders": {
+        "avg_best_grade": 93.228,
+        "tot_100": 97,
+        "tot_attempted": 105,
+        "avg_attempts": 8.895,
+        "avg_time_to_best_grade": 454506.914,
+        "avg_days_since_beginning": 70.743
+    },
+    "Jodessy": {
+        "avg_best_grade": 96.81,
+        "tot_100": 97,
+        "tot_attempted": 101,
+        "avg_attempts": 6.851,
+        "avg_time_to_best_grade": 625653.396,
+        "avg_days_since_beginning": 67.0
+    },
+    "michaelalarcon": {
+        "avg_best_grade": 95.36,
+        "tot_100": 96,
+        "tot_attempted": 102,
+        "avg_attempts": 9.559,
+        "avg_time_to_best_grade": 2275374.559,
+        "avg_days_since_beginning": 145.647
+    },
+    "dhoutart": {
+        "avg_best_grade": 97.98,
+        "tot_100": 97,
+        "tot_attempted": 99,
+        "avg_attempts": 4.152,
+        "avg_time_to_best_grade": 28623.929,
+        "avg_days_since_beginning": 46.303
+    },
+    "Camille": {
+        "avg_best_grade": 97.0,
+        "tot_100": 97,
+        "tot_attempted": 100,
+        "avg_attempts": 4.8,
+        "avg_time_to_best_grade": 373225.44,
+        "avg_days_since_beginning": 83.87
+    },
+    "yassin": {
+        "avg_best_grade": 96.04,
+        "tot_100": 97,
+        "tot_attempted": 101,
+        "avg_attempts": 3.178,
+        "avg_time_to_best_grade": 356272.04,
+        "avg_days_since_beginning": 76.04
+    },
+    "thojacquet": {
+        "avg_best_grade": 94.067,
+        "tot_100": 96,
+        "tot_attempted": 103,
+        "avg_attempts": 9.689,
+        "avg_time_to_best_grade": 418431.864,
+        "avg_days_since_beginning": 61.126
+    },
+    "theo46": {
+        "avg_best_grade": 91.405,
+        "tot_100": 96,
+        "tot_attempted": 106,
+        "avg_attempts": 14.991,
+        "avg_time_to_best_grade": 650291.038,
+        "avg_days_since_beginning": 129.821
+    },
+    "auramertens": {
+        "avg_best_grade": 94.067,
+        "tot_100": 96,
+        "tot_attempted": 103,
+        "avg_attempts": 8.272,
+        "avg_time_to_best_grade": 455864.864,
+        "avg_days_since_beginning": 68.243
+    },
+    "Lonfils": {
+        "avg_best_grade": 87.087,
+        "tot_100": 95,
+        "tot_attempted": 111,
+        "avg_attempts": 5.514,
+        "avg_time_to_best_grade": 702439.955,
+        "avg_days_since_beginning": 68.045
+    },
+    "riccil": {
+        "avg_best_grade": 97.587,
+        "tot_100": 95,
+        "tot_attempted": 99,
+        "avg_attempts": 10.354,
+        "avg_time_to_best_grade": 1043658.616,
+        "avg_days_since_beginning": 164.303
+    },
+    "anciauxv": {
+        "avg_best_grade": 96.267,
+        "tot_100": 95,
+        "tot_attempted": 100,
+        "avg_attempts": 6.2,
+        "avg_time_to_best_grade": 302876.38,
+        "avg_days_since_beginning": 98.28
+    },
+    "prieurg": {
+        "avg_best_grade": 92.479,
+        "tot_100": 94,
+        "tot_attempted": 104,
+        "avg_attempts": 4.587,
+        "avg_time_to_best_grade": 184037.327,
+        "avg_days_since_beginning": 63.433
+    },
+    "nijadoul": {
+        "avg_best_grade": 93.204,
+        "tot_100": 96,
+        "tot_attempted": 103,
+        "avg_attempts": 4.66,
+        "avg_time_to_best_grade": 479788.621,
+        "avg_days_since_beginning": 88.417
+    },
+    "achariot": {
+        "avg_best_grade": 97.959,
+        "tot_100": 96,
+        "tot_attempted": 98,
+        "avg_attempts": 13.265,
+        "avg_time_to_best_grade": 2003926.051,
+        "avg_days_since_beginning": 125.949
+    },
+    "ladyns": {
+        "avg_best_grade": 95.05,
+        "tot_100": 96,
+        "tot_attempted": 101,
+        "avg_attempts": 7.416,
+        "avg_time_to_best_grade": 1188647.564,
+        "avg_days_since_beginning": 77.812
+    },
+    "deselliersda": {
+        "avg_best_grade": 100.0,
+        "tot_100": 96,
+        "tot_attempted": 96,
+        "avg_attempts": 10.49,
+        "avg_time_to_best_grade": 5613.771,
+        "avg_days_since_beginning": 91.938
+    },
+    "bbosseler": {
+        "avg_best_grade": 95.753,
+        "tot_100": 93,
+        "tot_attempted": 100,
+        "avg_attempts": 15.64,
+        "avg_time_to_best_grade": 1674857.36,
+        "avg_days_since_beginning": 94.67
+    },
+    "daalexander": {
+        "avg_best_grade": 86.919,
+        "tot_100": 93,
+        "tot_attempted": 110,
+        "avg_attempts": 13.309,
+        "avg_time_to_best_grade": 377019.782,
+        "avg_days_since_beginning": 67.145
+    },
+    "schottel": {
+        "avg_best_grade": 98.144,
+        "tot_100": 95,
+        "tot_attempted": 97,
+        "avg_attempts": 3.825,
+        "avg_time_to_best_grade": 386914.588,
+        "avg_days_since_beginning": 86.907
+    },
+    "devillenfagh": {
+        "avg_best_grade": 95.111,
+        "tot_100": 95,
+        "tot_attempted": 100,
+        "avg_attempts": 5.31,
+        "avg_time_to_best_grade": 1915247.99,
+        "avg_days_since_beginning": 156.47
+    },
+    "lemathot": {
+        "avg_best_grade": 95.044,
+        "tot_100": 94,
+        "tot_attempted": 100,
+        "avg_attempts": 9.13,
+        "avg_time_to_best_grade": 1482884.99,
+        "avg_days_since_beginning": 102.45
+    },
+    "grubbers": {
+        "avg_best_grade": 89.623,
+        "tot_100": 95,
+        "tot_attempted": 106,
+        "avg_attempts": 5.028,
+        "avg_time_to_best_grade": 33473.387,
+        "avg_days_since_beginning": 55.821
+    },
+    "vierinj": {
+        "avg_best_grade": 98.958,
+        "tot_100": 95,
+        "tot_attempted": 96,
+        "avg_attempts": 13.115,
+        "avg_time_to_best_grade": 260895.01,
+        "avg_days_since_beginning": 169.938
+    },
+    "odeselliersd": {
+        "avg_best_grade": 95.0,
+        "tot_100": 95,
+        "tot_attempted": 100,
+        "avg_attempts": 7.41,
+        "avg_time_to_best_grade": 180321.33,
+        "avg_days_since_beginning": 92.83
+    },
+    "mhamer": {
+        "avg_best_grade": 96.825,
+        "tot_100": 94,
+        "tot_attempted": 98,
+        "avg_attempts": 4.357,
+        "avg_time_to_best_grade": 237636.276,
+        "avg_days_since_beginning": 80.408
+    },
+    "manjacquemin": {
+        "avg_best_grade": 94.689,
+        "tot_100": 93,
+        "tot_attempted": 100,
+        "avg_attempts": 7.21,
+        "avg_time_to_best_grade": 994773.35,
+        "avg_days_since_beginning": 95.28
+    },
+    "tklauner": {
+        "avg_best_grade": 91.262,
+        "tot_100": 94,
+        "tot_attempted": 103,
+        "avg_attempts": 6.612,
+        "avg_time_to_best_grade": 282138.641,
+        "avg_days_since_beginning": 67.485
+    },
+    "BrieucBalon": {
+        "avg_best_grade": 93.069,
+        "tot_100": 94,
+        "tot_attempted": 101,
+        "avg_attempts": 3.851,
+        "avg_time_to_best_grade": 588346.95,
+        "avg_days_since_beginning": 69.772
+    },
+    "lengelel": {
+        "avg_best_grade": 96.907,
+        "tot_100": 94,
+        "tot_attempted": 97,
+        "avg_attempts": 7.443,
+        "avg_time_to_best_grade": 42694.608,
+        "avg_days_since_beginning": 329.289
+    },
+    "tkramer": {
+        "avg_best_grade": 92.959,
+        "tot_100": 93,
+        "tot_attempted": 101,
+        "avg_attempts": 16.337,
+        "avg_time_to_best_grade": 1740983.436,
+        "avg_days_since_beginning": 123.842
+    },
+    "czgajewskide": {
+        "avg_best_grade": 96.758,
+        "tot_100": 92,
+        "tot_attempted": 97,
+        "avg_attempts": 7.753,
+        "avg_time_to_best_grade": 694590.969,
+        "avg_days_since_beginning": 75.948
+    },
+    "buamulunguka": {
+        "avg_best_grade": 94.276,
+        "tot_100": 92,
+        "tot_attempted": 99,
+        "avg_attempts": 12.152,
+        "avg_time_to_best_grade": 1447994.162,
+        "avg_days_since_beginning": 102.071
+    },
+    "LucaParra": {
+        "avg_best_grade": 90.572,
+        "tot_100": 91,
+        "tot_attempted": 103,
+        "avg_attempts": 4.369,
+        "avg_time_to_best_grade": 94050.534,
+        "avg_days_since_beginning": 81.437
+    },
+    "analeroy": {
+        "avg_best_grade": 93.197,
+        "tot_100": 90,
+        "tot_attempted": 100,
+        "avg_attempts": 9.32,
+        "avg_time_to_best_grade": 1526237.06,
+        "avg_days_since_beginning": 104.82
+    },
+    "meiersp": {
+        "avg_best_grade": 94.898,
+        "tot_100": 93,
+        "tot_attempted": 98,
+        "avg_attempts": 7.735,
+        "avg_time_to_best_grade": 85092.694,
+        "avg_days_since_beginning": 56.061
+    },
+    "qu07": {
+        "avg_best_grade": 96.875,
+        "tot_100": 93,
+        "tot_attempted": 96,
+        "avg_attempts": 4.438,
+        "avg_time_to_best_grade": 82611.604,
+        "avg_days_since_beginning": 296.333
+    },
+    "merciercl": {
+        "avg_best_grade": 94.898,
+        "tot_100": 93,
+        "tot_attempted": 98,
+        "avg_attempts": 4.265,
+        "avg_time_to_best_grade": 167793.469,
+        "avg_days_since_beginning": 57.051
+    },
+    "gujadin": {
+        "avg_best_grade": 91.176,
+        "tot_100": 93,
+        "tot_attempted": 102,
+        "avg_attempts": 3.98,
+        "avg_time_to_best_grade": 169158.078,
+        "avg_days_since_beginning": 52.52
+    },
+    "guillaumemartin": {
+        "avg_best_grade": 94.898,
+        "tot_100": 93,
+        "tot_attempted": 98,
+        "avg_attempts": 15.653,
+        "avg_time_to_best_grade": 2033415.01,
+        "avg_days_since_beginning": 142.541
+    },
+    "bertrandcat": {
+        "avg_best_grade": 93.0,
+        "tot_100": 93,
+        "tot_attempted": 100,
+        "avg_attempts": 14.78,
+        "avg_time_to_best_grade": 940817.72,
+        "avg_days_since_beginning": 70.28
+    },
+    "nbaguet": {
+        "avg_best_grade": 91.969,
+        "tot_100": 92,
+        "tot_attempted": 101,
+        "avg_attempts": 6.277,
+        "avg_time_to_best_grade": 406680.119,
+        "avg_days_since_beginning": 60.614
+    },
+    "lcharon": {
+        "avg_best_grade": 95.533,
+        "tot_100": 92,
+        "tot_attempted": 97,
+        "avg_attempts": 5.474,
+        "avg_time_to_best_grade": 572797.722,
+        "avg_days_since_beginning": 78.32
+    },
+    "mmagain": {
+        "avg_best_grade": 95.464,
+        "tot_100": 92,
+        "tot_attempted": 97,
+        "avg_attempts": 5.309,
+        "avg_time_to_best_grade": 711371.33,
+        "avg_days_since_beginning": 221.474
+    },
+    "rluyeyebidi": {
+        "avg_best_grade": 98.925,
+        "tot_100": 92,
+        "tot_attempted": 93,
+        "avg_attempts": 10.183,
+        "avg_time_to_best_grade": 155279.753,
+        "avg_days_since_beginning": 87.484
+    },
+    "lgayina": {
+        "avg_best_grade": 93.878,
+        "tot_100": 92,
+        "tot_attempted": 98,
+        "avg_attempts": 8.949,
+        "avg_time_to_best_grade": 654520.796,
+        "avg_days_since_beginning": 66.816
+    },
+    "jfunesalbane": {
+        "avg_best_grade": 92.929,
+        "tot_100": 92,
+        "tot_attempted": 99,
+        "avg_attempts": 5.283,
+        "avg_time_to_best_grade": 509119.141,
+        "avg_days_since_beginning": 78.303
+    },
+    "Pierre": {
+        "avg_best_grade": 94.845,
+        "tot_100": 92,
+        "tot_attempted": 97,
+        "avg_attempts": 4.402,
+        "avg_time_to_best_grade": 43793.227,
+        "avg_days_since_beginning": 74.32
+    },
+    "adekock": {
+        "avg_best_grade": 97.872,
+        "tot_100": 92,
+        "tot_attempted": 94,
+        "avg_attempts": 7.032,
+        "avg_time_to_best_grade": 396180.617,
+        "avg_days_since_beginning": 57.574
+    },
+    "michelk": {
+        "avg_best_grade": 97.872,
+        "tot_100": 92,
+        "tot_attempted": 94,
+        "avg_attempts": 2.904,
+        "avg_time_to_best_grade": 99892.34,
+        "avg_days_since_beginning": 74.681
+    },
+    "jkuperblum": {
+        "avg_best_grade": 91.4,
+        "tot_100": 90,
+        "tot_attempted": 100,
+        "avg_attempts": 13.46,
+        "avg_time_to_best_grade": 989312.14,
+        "avg_days_since_beginning": 65.63
+    },
+    "vvauchel": {
+        "avg_best_grade": 95.208,
+        "tot_100": 91,
+        "tot_attempted": 96,
+        "avg_attempts": 7.917,
+        "avg_time_to_best_grade": 682498.25,
+        "avg_days_since_beginning": 168.865
+    },
+    "Florie": {
+        "avg_best_grade": 93.254,
+        "tot_100": 90,
+        "tot_attempted": 98,
+        "avg_attempts": 2.724,
+        "avg_time_to_best_grade": 613188.112,
+        "avg_days_since_beginning": 96.01
+    },
+    "Ludovic": {
+        "avg_best_grade": 91.289,
+        "tot_100": 89,
+        "tot_attempted": 100,
+        "avg_attempts": 10.41,
+        "avg_time_to_best_grade": 1462701.99,
+        "avg_days_since_beginning": 171.11
+    },
+    "juvanderhaeg": {
+        "avg_best_grade": 92.911,
+        "tot_100": 88,
+        "tot_attempted": 98,
+        "avg_attempts": 6.5,
+        "avg_time_to_best_grade": 1806239.357,
+        "avg_days_since_beginning": 108.469
+    },
+    "lcaprasse": {
+        "avg_best_grade": 91.0,
+        "tot_100": 91,
+        "tot_attempted": 100,
+        "avg_attempts": 7.84,
+        "avg_time_to_best_grade": 72670.55,
+        "avg_days_since_beginning": 97.29
+    },
+    "Gios": {
+        "avg_best_grade": 89.216,
+        "tot_100": 91,
+        "tot_attempted": 102,
+        "avg_attempts": 5.814,
+        "avg_time_to_best_grade": 313139.431,
+        "avg_days_since_beginning": 63.657
+    },
+    "Swierzewski": {
+        "avg_best_grade": 98.913,
+        "tot_100": 91,
+        "tot_attempted": 92,
+        "avg_attempts": 6.13,
+        "avg_time_to_best_grade": 592093.848,
+        "avg_days_since_beginning": 66.457
+    },
+    "MargauxScaillet": {
+        "avg_best_grade": 96.809,
+        "tot_100": 91,
+        "tot_attempted": 94,
+        "avg_attempts": 4.553,
+        "avg_time_to_best_grade": 763330.968,
+        "avg_days_since_beginning": 180.213
+    },
+    "andegeradon": {
+        "avg_best_grade": 95.789,
+        "tot_100": 91,
+        "tot_attempted": 95,
+        "avg_attempts": 1.979,
+        "avg_time_to_best_grade": 236.421,
+        "avg_days_since_beginning": 78.842
+    },
+    "ghislaincec": {
+        "avg_best_grade": 94.56,
+        "tot_100": 90,
+        "tot_attempted": 96,
+        "avg_attempts": 4.74,
+        "avg_time_to_best_grade": 34293.135,
+        "avg_days_since_beginning": 42.125
+    },
+    "cmoonen": {
+        "avg_best_grade": 95.91,
+        "tot_100": 89,
+        "tot_attempted": 94,
+        "avg_attempts": 5.968,
+        "avg_time_to_best_grade": 342609.564,
+        "avg_days_since_beginning": 63.436
+    },
+    "coda": {
+        "avg_best_grade": 86.56,
+        "tot_100": 89,
+        "tot_attempted": 104,
+        "avg_attempts": 9.663,
+        "avg_time_to_best_grade": 454053.606,
+        "avg_days_since_beginning": 78.471
+    },
+    "jweverbergh": {
+        "avg_best_grade": 100.0,
+        "tot_100": 90,
+        "tot_attempted": 90,
+        "avg_attempts": 2.833,
+        "avg_time_to_best_grade": 92948.2,
+        "avg_days_since_beginning": 52.833
+    },
+    "PabloLav": {
+        "avg_best_grade": 90.909,
+        "tot_100": 90,
+        "tot_attempted": 99,
+        "avg_attempts": 6.838,
+        "avg_time_to_best_grade": 297450.727,
+        "avg_days_since_beginning": 62.232
+    },
+    "dubucql": {
+        "avg_best_grade": 92.781,
+        "tot_100": 88,
+        "tot_attempted": 97,
+        "avg_attempts": 8.938,
+        "avg_time_to_best_grade": 372833.897,
+        "avg_days_since_beginning": 90.598
+    },
+    "deckersma": {
+        "avg_best_grade": 91.822,
+        "tot_100": 87,
+        "tot_attempted": 98,
+        "avg_attempts": 9.122,
+        "avg_time_to_best_grade": 3607795.949,
+        "avg_days_since_beginning": 154.367
+    },
+    "alwinand": {
+        "avg_best_grade": 91.633,
+        "tot_100": 88,
+        "tot_attempted": 98,
+        "avg_attempts": 7.031,
+        "avg_time_to_best_grade": 362383.571,
+        "avg_days_since_beginning": 65.847
+    },
+    "bendardenne": {
+        "avg_best_grade": 96.416,
+        "tot_100": 89,
+        "tot_attempted": 93,
+        "avg_attempts": 6.538,
+        "avg_time_to_best_grade": 763278.763,
+        "avg_days_since_beginning": 156.892
+    },
+    "amoore": {
+        "avg_best_grade": 91.236,
+        "tot_100": 86,
+        "tot_attempted": 98,
+        "avg_attempts": 11.122,
+        "avg_time_to_best_grade": 3306401.02,
+        "avg_days_since_beginning": 123.908
+    },
+    "mattondeur": {
+        "avg_best_grade": 96.739,
+        "tot_100": 89,
+        "tot_attempted": 92,
+        "avg_attempts": 7.076,
+        "avg_time_to_best_grade": 113564.967,
+        "avg_days_since_beginning": 60.815
+    },
+    "derminel": {
+        "avg_best_grade": 89.0,
+        "tot_100": 89,
+        "tot_attempted": 100,
+        "avg_attempts": 8.35,
+        "avg_time_to_best_grade": 1254082.4,
+        "avg_days_since_beginning": 170.0
+    },
+    "sfavresse": {
+        "avg_best_grade": 96.739,
+        "tot_100": 89,
+        "tot_attempted": 92,
+        "avg_attempts": 2.522,
+        "avg_time_to_best_grade": 5027.87,
+        "avg_days_since_beginning": 340.348
+    },
+    "Gwendal": {
+        "avg_best_grade": 88.689,
+        "tot_100": 87,
+        "tot_attempted": 100,
+        "avg_attempts": 7.12,
+        "avg_time_to_best_grade": 525296.5,
+        "avg_days_since_beginning": 66.39
+    },
+    "vdeyndec": {
+        "avg_best_grade": 96.703,
+        "tot_100": 88,
+        "tot_attempted": 91,
+        "avg_attempts": 7.802,
+        "avg_time_to_best_grade": 1017908.066,
+        "avg_days_since_beginning": 105.824
+    },
+    "tbrouwers": {
+        "avg_best_grade": 96.703,
+        "tot_100": 88,
+        "tot_attempted": 91,
+        "avg_attempts": 11.385,
+        "avg_time_to_best_grade": 435039.56,
+        "avg_days_since_beginning": 78.242
+    },
+    "kayokashambu": {
+        "avg_best_grade": 92.632,
+        "tot_100": 88,
+        "tot_attempted": 95,
+        "avg_attempts": 7.389,
+        "avg_time_to_best_grade": 692289.4,
+        "avg_days_since_beginning": 70.958
+    },
+    "Thom": {
+        "avg_best_grade": 89.796,
+        "tot_100": 88,
+        "tot_attempted": 98,
+        "avg_attempts": 4.888,
+        "avg_time_to_best_grade": 265403.408,
+        "avg_days_since_beginning": 78.408
+    },
+    "rvoos": {
+        "avg_best_grade": 88.721,
+        "tot_100": 87,
+        "tot_attempted": 99,
+        "avg_attempts": 8.727,
+        "avg_time_to_best_grade": 763370.869,
+        "avg_days_since_beginning": 153.0
+    },
+    "guvanderrest": {
+        "avg_best_grade": 88.575,
+        "tot_100": 86,
+        "tot_attempted": 99,
+        "avg_attempts": 5.394,
+        "avg_time_to_best_grade": 113340.828,
+        "avg_days_since_beginning": 56.747
+    },
+    "Thibault": {
+        "avg_best_grade": 86.755,
+        "tot_100": 87,
+        "tot_attempted": 101,
+        "avg_attempts": 8.495,
+        "avg_time_to_best_grade": 1416035.109,
+        "avg_days_since_beginning": 81.564
+    },
+    "Allverlaine": {
+        "avg_best_grade": 94.879,
+        "tot_100": 86,
+        "tot_attempted": 92,
+        "avg_attempts": 14.424,
+        "avg_time_to_best_grade": 770662.989,
+        "avg_days_since_beginning": 61.261
+    },
+    "lmisselyn": {
+        "avg_best_grade": 90.625,
+        "tot_100": 87,
+        "tot_attempted": 96,
+        "avg_attempts": 12.417,
+        "avg_time_to_best_grade": 132874.406,
+        "avg_days_since_beginning": 68.094
+    },
+    "coppeet": {
+        "avg_best_grade": 98.864,
+        "tot_100": 87,
+        "tot_attempted": 88,
+        "avg_attempts": 8.523,
+        "avg_time_to_best_grade": 320760.648,
+        "avg_days_since_beginning": 83.261
+    },
+    "acoppine": {
+        "avg_best_grade": 97.753,
+        "tot_100": 87,
+        "tot_attempted": 89,
+        "avg_attempts": 11.112,
+        "avg_time_to_best_grade": 887290.989,
+        "avg_days_since_beginning": 123.921
+    },
+    "tterwagne": {
+        "avg_best_grade": 89.691,
+        "tot_100": 87,
+        "tot_attempted": 97,
+        "avg_attempts": 8.186,
+        "avg_time_to_best_grade": 265993.175,
+        "avg_days_since_beginning": 55.33
+    },
+    "Arthur": {
+        "avg_best_grade": 91.579,
+        "tot_100": 87,
+        "tot_attempted": 95,
+        "avg_attempts": 8.653,
+        "avg_time_to_best_grade": 510034.2,
+        "avg_days_since_beginning": 71.295
+    },
+    "taminiaut": {
+        "avg_best_grade": 86.889,
+        "tot_100": 86,
+        "tot_attempted": 100,
+        "avg_attempts": 8.28,
+        "avg_time_to_best_grade": 310309.93,
+        "avg_days_since_beginning": 61.74
+    },
+    "brandtl": {
+        "avg_best_grade": 90.495,
+        "tot_100": 86,
+        "tot_attempted": 96,
+        "avg_attempts": 9.083,
+        "avg_time_to_best_grade": 1148379.552,
+        "avg_days_since_beginning": 148.833
+    },
+    "ticco": {
+        "avg_best_grade": 91.368,
+        "tot_100": 86,
+        "tot_attempted": 95,
+        "avg_attempts": 8.495,
+        "avg_time_to_best_grade": 258657.684,
+        "avg_days_since_beginning": 79.789
+    },
+    "PaulineMoulliard": {
+        "avg_best_grade": 86.578,
+        "tot_100": 85,
+        "tot_attempted": 100,
+        "avg_attempts": 4.3,
+        "avg_time_to_best_grade": 336727.1,
+        "avg_days_since_beginning": 62.9
+    },
+    "misonnee": {
+        "avg_best_grade": 84.043,
+        "tot_100": 83,
+        "tot_attempted": 103,
+        "avg_attempts": 3.35,
+        "avg_time_to_best_grade": 143770.854,
+        "avg_days_since_beginning": 63.495
+    },
+    "Saskia": {
+        "avg_best_grade": 85.446,
+        "tot_100": 85,
+        "tot_attempted": 101,
+        "avg_attempts": 7.069,
+        "avg_time_to_best_grade": 732011.198,
+        "avg_days_since_beginning": 67.822
+    },
+    "lpaucot": {
+        "avg_best_grade": 91.758,
+        "tot_100": 83,
+        "tot_attempted": 94,
+        "avg_attempts": 6.309,
+        "avg_time_to_best_grade": 376047.245,
+        "avg_days_since_beginning": 69.713
+    },
+    "chlohest": {
+        "avg_best_grade": 86.0,
+        "tot_100": 86,
+        "tot_attempted": 100,
+        "avg_attempts": 12.49,
+        "avg_time_to_best_grade": 1563387.69,
+        "avg_days_since_beginning": 86.47
+    },
+    "shamaide": {
+        "avg_best_grade": 89.583,
+        "tot_100": 86,
+        "tot_attempted": 96,
+        "avg_attempts": 8.104,
+        "avg_time_to_best_grade": 155693.073,
+        "avg_days_since_beginning": 48.375
+    },
+    "nhenrydegene": {
+        "avg_best_grade": 93.478,
+        "tot_100": 86,
+        "tot_attempted": 92,
+        "avg_attempts": 6.685,
+        "avg_time_to_best_grade": 150718.239,
+        "avg_days_since_beginning": 75.261
+    },
+    "Erjapova": {
+        "avg_best_grade": 96.629,
+        "tot_100": 86,
+        "tot_attempted": 89,
+        "avg_attempts": 4.798,
+        "avg_time_to_best_grade": 1664597.978,
+        "avg_days_since_beginning": 176.034
+    },
+    "Lisevrard": {
+        "avg_best_grade": 90.526,
+        "tot_100": 86,
+        "tot_attempted": 95,
+        "avg_attempts": 17.442,
+        "avg_time_to_best_grade": 1092805.084,
+        "avg_days_since_beginning": 85.421
+    },
+    "mayenmart": {
+        "avg_best_grade": 91.489,
+        "tot_100": 86,
+        "tot_attempted": 94,
+        "avg_attempts": 4.755,
+        "avg_time_to_best_grade": 57016.585,
+        "avg_days_since_beginning": 65.649
+    },
+    "xpinon": {
+        "avg_best_grade": 93.478,
+        "tot_100": 86,
+        "tot_attempted": 92,
+        "avg_attempts": 7.022,
+        "avg_time_to_best_grade": 162316.239,
+        "avg_days_since_beginning": 52.152
+    },
+    "Jubrichart": {
+        "avg_best_grade": 88.66,
+        "tot_100": 86,
+        "tot_attempted": 97,
+        "avg_attempts": 10.361,
+        "avg_time_to_best_grade": 1467935.196,
+        "avg_days_since_beginning": 70.536
+    },
+    "SCornet": {
+        "avg_best_grade": 92.401,
+        "tot_100": 85,
+        "tot_attempted": 93,
+        "avg_attempts": 6.312,
+        "avg_time_to_best_grade": 1176978.516,
+        "avg_days_since_beginning": 84.28
+    },
+    "catecate99": {
+        "avg_best_grade": 84.84,
+        "tot_100": 84,
+        "tot_attempted": 101,
+        "avg_attempts": 7.188,
+        "avg_time_to_best_grade": 1093306.99,
+        "avg_days_since_beginning": 96.614
+    },
+    "becharles": {
+        "avg_best_grade": 94.115,
+        "tot_100": 84,
+        "tot_attempted": 91,
+        "avg_attempts": 6.198,
+        "avg_time_to_best_grade": 824816.615,
+        "avg_days_since_beginning": 76.714
+    },
+    "JMans": {
+        "avg_best_grade": 98.837,
+        "tot_100": 85,
+        "tot_attempted": 86,
+        "avg_attempts": 4.337,
+        "avg_time_to_best_grade": 317730.07,
+        "avg_days_since_beginning": 67.221
+    },
+    "jujacoby": {
+        "avg_best_grade": 94.444,
+        "tot_100": 85,
+        "tot_attempted": 90,
+        "avg_attempts": 5.111,
+        "avg_time_to_best_grade": 20723.9,
+        "avg_days_since_beginning": 42.022
+    },
+    "jloriau": {
+        "avg_best_grade": 95.506,
+        "tot_100": 85,
+        "tot_attempted": 89,
+        "avg_attempts": 7.0,
+        "avg_time_to_best_grade": 2549184.82,
+        "avg_days_since_beginning": 259.326
+    },
+    "LoizeauH": {
+        "avg_best_grade": 88.426,
+        "tot_100": 84,
+        "tot_attempted": 96,
+        "avg_attempts": 6.646,
+        "avg_time_to_best_grade": 3678083.094,
+        "avg_days_since_beginning": 144.146
+    },
+    "achung": {
+        "avg_best_grade": 91.957,
+        "tot_100": 84,
+        "tot_attempted": 92,
+        "avg_attempts": 7.837,
+        "avg_time_to_best_grade": 247530.402,
+        "avg_days_since_beginning": 68.391
+    },
+    "Eliott": {
+        "avg_best_grade": 91.957,
+        "tot_100": 82,
+        "tot_attempted": 92,
+        "avg_attempts": 6.62,
+        "avg_time_to_best_grade": 3859225.674,
+        "avg_days_since_beginning": 201.63
+    },
+    "tdegouys": {
+        "avg_best_grade": 93.457,
+        "tot_100": 84,
+        "tot_attempted": 90,
+        "avg_attempts": 4.467,
+        "avg_time_to_best_grade": 630095.678,
+        "avg_days_since_beginning": 83.3
+    },
+    "cordiercl": {
+        "avg_best_grade": 88.421,
+        "tot_100": 84,
+        "tot_attempted": 95,
+        "avg_attempts": 7.295,
+        "avg_time_to_best_grade": 393622.074,
+        "avg_days_since_beginning": 54.905
+    },
+    "Nylan": {
+        "avg_best_grade": 89.362,
+        "tot_100": 84,
+        "tot_attempted": 94,
+        "avg_attempts": 5.5,
+        "avg_time_to_best_grade": 203792.681,
+        "avg_days_since_beginning": 76.33
+    },
+    "arslaurent": {
+        "avg_best_grade": 94.382,
+        "tot_100": 84,
+        "tot_attempted": 89,
+        "avg_attempts": 10.753,
+        "avg_time_to_best_grade": 250400.022,
+        "avg_days_since_beginning": 63.831
+    },
+    "edespineux": {
+        "avg_best_grade": 86.598,
+        "tot_100": 84,
+        "tot_attempted": 97,
+        "avg_attempts": 5.454,
+        "avg_time_to_best_grade": 226533.876,
+        "avg_days_since_beginning": 88.093
+    },
+    "cmelsens": {
+        "avg_best_grade": 92.024,
+        "tot_100": 82,
+        "tot_attempted": 91,
+        "avg_attempts": 7.055,
+        "avg_time_to_best_grade": 1322932.901,
+        "avg_days_since_beginning": 108.286
+    },
+    "Lvanaverbeke": {
+        "avg_best_grade": 90.93,
+        "tot_100": 82,
+        "tot_attempted": 92,
+        "avg_attempts": 9.207,
+        "avg_time_to_best_grade": 1164709.163,
+        "avg_days_since_beginning": 79.696
+    },
+    "yyousfi": {
+        "avg_best_grade": 84.467,
+        "tot_100": 83,
+        "tot_attempted": 99,
+        "avg_attempts": 10.97,
+        "avg_time_to_best_grade": 780733.394,
+        "avg_days_since_beginning": 86.03
+    },
+    "Altemporao": {
+        "avg_best_grade": 81.057,
+        "tot_100": 82,
+        "tot_attempted": 103,
+        "avg_attempts": 6.466,
+        "avg_time_to_best_grade": 136623.67,
+        "avg_days_since_beginning": 59.748
+    },
+    "Louisvda": {
+        "avg_best_grade": 84.898,
+        "tot_100": 81,
+        "tot_attempted": 98,
+        "avg_attempts": 5.969,
+        "avg_time_to_best_grade": 497230.776,
+        "avg_days_since_beginning": 91.827
+    },
+    "antoinetacq": {
+        "avg_best_grade": 94.318,
+        "tot_100": 83,
+        "tot_attempted": 88,
+        "avg_attempts": 5.966,
+        "avg_time_to_best_grade": 290956.75,
+        "avg_days_since_beginning": 65.409
+    },
+    "arherbiet": {
+        "avg_best_grade": 94.318,
+        "tot_100": 83,
+        "tot_attempted": 88,
+        "avg_attempts": 13.295,
+        "avg_time_to_best_grade": 1351177.602,
+        "avg_days_since_beginning": 106.307
+    },
+    "vicponcelet": {
+        "avg_best_grade": 90.0,
+        "tot_100": 82,
+        "tot_attempted": 92,
+        "avg_attempts": 9.826,
+        "avg_time_to_best_grade": 792610.304,
+        "avg_days_since_beginning": 130.489
+    },
+    "aubuxant": {
+        "avg_best_grade": 86.076,
+        "tot_100": 81,
+        "tot_attempted": 96,
+        "avg_attempts": 3.188,
+        "avg_time_to_best_grade": 248190.927,
+        "avg_days_since_beginning": 80.073
+    },
+    "mborzee": {
+        "avg_best_grade": 91.778,
+        "tot_100": 82,
+        "tot_attempted": 90,
+        "avg_attempts": 13.678,
+        "avg_time_to_best_grade": 464169.611,
+        "avg_days_since_beginning": 132.3
+    },
+    "armant": {
+        "avg_best_grade": 86.019,
+        "tot_100": 81,
+        "tot_attempted": 96,
+        "avg_attempts": 3.698,
+        "avg_time_to_best_grade": 396543.927,
+        "avg_days_since_beginning": 62.917
+    },
+    "jcayman": {
+        "avg_best_grade": 92.634,
+        "tot_100": 82,
+        "tot_attempted": 89,
+        "avg_attempts": 9.045,
+        "avg_time_to_best_grade": 794295.494,
+        "avg_days_since_beginning": 111.483
+    },
+    "rlaperche": {
+        "avg_best_grade": 94.713,
+        "tot_100": 82,
+        "tot_attempted": 87,
+        "avg_attempts": 4.471,
+        "avg_time_to_best_grade": 186583.402,
+        "avg_days_since_beginning": 89.437
+    },
+    "tgaussin": {
+        "avg_best_grade": 90.183,
+        "tot_100": 81,
+        "tot_attempted": 91,
+        "avg_attempts": 5.209,
+        "avg_time_to_best_grade": 779278.407,
+        "avg_days_since_beginning": 130.758
+    },
+    "Covanypersel": {
+        "avg_best_grade": 85.428,
+        "tot_100": 79,
+        "tot_attempted": 96,
+        "avg_attempts": 15.094,
+        "avg_time_to_best_grade": 4640106.823,
+        "avg_days_since_beginning": 178.938
+    },
+    "hcontor": {
+        "avg_best_grade": 87.918,
+        "tot_100": 80,
+        "tot_attempted": 93,
+        "avg_attempts": 4.871,
+        "avg_time_to_best_grade": 260931.376,
+        "avg_days_since_beginning": 57.0
+    },
+    "sbettaieb": {
+        "avg_best_grade": 88.696,
+        "tot_100": 81,
+        "tot_attempted": 92,
+        "avg_attempts": 6.913,
+        "avg_time_to_best_grade": 377163.826,
+        "avg_days_since_beginning": 72.598
+    },
+    "Becaurdon": {
+        "avg_best_grade": 87.575,
+        "tot_100": 81,
+        "tot_attempted": 93,
+        "avg_attempts": 9.269,
+        "avg_time_to_best_grade": 399528.613,
+        "avg_days_since_beginning": 82.366
+    },
+    "rencelotm": {
+        "avg_best_grade": 85.614,
+        "tot_100": 81,
+        "tot_attempted": 95,
+        "avg_attempts": 6.8,
+        "avg_time_to_best_grade": 1767025.074,
+        "avg_days_since_beginning": 104.305
+    },
+    "sivanroy": {
+        "avg_best_grade": 92.045,
+        "tot_100": 80,
+        "tot_attempted": 88,
+        "avg_attempts": 6.705,
+        "avg_time_to_best_grade": 247819.432,
+        "avg_days_since_beginning": 68.193
+    },
+    "cassiman": {
+        "avg_best_grade": 94.186,
+        "tot_100": 81,
+        "tot_attempted": 86,
+        "avg_attempts": 5.209,
+        "avg_time_to_best_grade": 71102.802,
+        "avg_days_since_beginning": 59.767
+    },
+    "praux": {
+        "avg_best_grade": 91.452,
+        "tot_100": 79,
+        "tot_attempted": 88,
+        "avg_attempts": 9.273,
+        "avg_time_to_best_grade": 768610.58,
+        "avg_days_since_beginning": 89.75
+    },
+    "sdelforno": {
+        "avg_best_grade": 87.198,
+        "tot_100": 80,
+        "tot_attempted": 92,
+        "avg_attempts": 9.011,
+        "avg_time_to_best_grade": 131697.152,
+        "avg_days_since_beginning": 60.772
+    },
+    "ThomasVDV": {
+        "avg_best_grade": 96.653,
+        "tot_100": 80,
+        "tot_attempted": 83,
+        "avg_attempts": 5.072,
+        "avg_time_to_best_grade": 289574.952,
+        "avg_days_since_beginning": 73.88
+    },
+    "desurayp": {
+        "avg_best_grade": 97.561,
+        "tot_100": 80,
+        "tot_attempted": 82,
+        "avg_attempts": 4.512,
+        "avg_time_to_best_grade": 545336.476,
+        "avg_days_since_beginning": 191.024
+    },
+    "ssoille": {
+        "avg_best_grade": 90.909,
+        "tot_100": 80,
+        "tot_attempted": 88,
+        "avg_attempts": 3.386,
+        "avg_time_to_best_grade": 243184.989,
+        "avg_days_since_beginning": 97.341
+    },
+    "floger": {
+        "avg_best_grade": 97.561,
+        "tot_100": 80,
+        "tot_attempted": 82,
+        "avg_attempts": 7.122,
+        "avg_time_to_best_grade": 786877.988,
+        "avg_days_since_beginning": 88.695
+    },
+    "ivraux": {
+        "avg_best_grade": 90.909,
+        "tot_100": 80,
+        "tot_attempted": 88,
+        "avg_attempts": 10.045,
+        "avg_time_to_best_grade": 468867.239,
+        "avg_days_since_beginning": 65.909
+    },
+    "spatesson": {
+        "avg_best_grade": 94.118,
+        "tot_100": 80,
+        "tot_attempted": 85,
+        "avg_attempts": 6.106,
+        "avg_time_to_best_grade": 482980.412,
+        "avg_days_since_beginning": 139.635
+    },
+    "nenin": {
+        "avg_best_grade": 91.699,
+        "tot_100": 79,
+        "tot_attempted": 87,
+        "avg_attempts": 9.161,
+        "avg_time_to_best_grade": 340788.092,
+        "avg_days_since_beginning": 65.966
+    },
+    "boterberg": {
+        "avg_best_grade": 88.444,
+        "tot_100": 79,
+        "tot_attempted": 90,
+        "avg_attempts": 6.111,
+        "avg_time_to_best_grade": 3574505.778,
+        "avg_days_since_beginning": 150.167
+    },
+    "HugoDG": {
+        "avg_best_grade": 93.516,
+        "tot_100": 78,
+        "tot_attempted": 85,
+        "avg_attempts": 7.024,
+        "avg_time_to_best_grade": 1621800.224,
+        "avg_days_since_beginning": 89.129
+    },
+    "jniyongere": {
+        "avg_best_grade": 96.829,
+        "tot_100": 78,
+        "tot_attempted": 82,
+        "avg_attempts": 5.305,
+        "avg_time_to_best_grade": 1819160.951,
+        "avg_days_since_beginning": 106.146
+    },
+    "haouattah": {
+        "avg_best_grade": 93.412,
+        "tot_100": 79,
+        "tot_attempted": 85,
+        "avg_attempts": 5.459,
+        "avg_time_to_best_grade": 475447.953,
+        "avg_days_since_beginning": 97.765
+    },
+    "abeigzadeh": {
+        "avg_best_grade": 83.579,
+        "tot_100": 79,
+        "tot_attempted": 95,
+        "avg_attempts": 5.368,
+        "avg_time_to_best_grade": 220736.611,
+        "avg_days_since_beginning": 116.958
+    },
+    "ldelacre": {
+        "avg_best_grade": 89.773,
+        "tot_100": 79,
+        "tot_attempted": 88,
+        "avg_attempts": 10.432,
+        "avg_time_to_best_grade": 42286.943,
+        "avg_days_since_beginning": 58.727
+    },
+    "alexboborodea": {
+        "avg_best_grade": 97.531,
+        "tot_100": 79,
+        "tot_attempted": 81,
+        "avg_attempts": 3.642,
+        "avg_time_to_best_grade": 175432.099,
+        "avg_days_since_beginning": 60.79
+    },
+    "kdesomer": {
+        "avg_best_grade": 96.206,
+        "tot_100": 78,
+        "tot_attempted": 82,
+        "avg_attempts": 7.939,
+        "avg_time_to_best_grade": 156569.354,
+        "avg_days_since_beginning": 67.524
+    },
+    "chnoiset": {
+        "avg_best_grade": 86.593,
+        "tot_100": 78,
+        "tot_attempted": 91,
+        "avg_attempts": 6.088,
+        "avg_time_to_best_grade": 387877.692,
+        "avg_days_since_beginning": 101.505
+    },
+    "delignes": {
+        "avg_best_grade": 82.69,
+        "tot_100": 78,
+        "tot_attempted": 95,
+        "avg_attempts": 5.684,
+        "avg_time_to_best_grade": 299433.084,
+        "avg_days_since_beginning": 52.558
+    },
+    "bderosendebo": {
+        "avg_best_grade": 92.0,
+        "tot_100": 78,
+        "tot_attempted": 85,
+        "avg_attempts": 4.459,
+        "avg_time_to_best_grade": 366137.576,
+        "avg_days_since_beginning": 134.012
+    },
+    "locolinet": {
+        "avg_best_grade": 96.296,
+        "tot_100": 78,
+        "tot_attempted": 81,
+        "avg_attempts": 9.84,
+        "avg_time_to_best_grade": 239362.506,
+        "avg_days_since_beginning": 58.852
+    },
+    "abausart": {
+        "avg_best_grade": 100.0,
+        "tot_100": 78,
+        "tot_attempted": 78,
+        "avg_attempts": 3.667,
+        "avg_time_to_best_grade": 2617.59,
+        "avg_days_since_beginning": 95.0
+    },
+    "ndineur": {
+        "avg_best_grade": 90.507,
+        "tot_100": 75,
+        "tot_attempted": 86,
+        "avg_attempts": 7.767,
+        "avg_time_to_best_grade": 306035.651,
+        "avg_days_since_beginning": 83.512
+    },
+    "balosseau": {
+        "avg_best_grade": 90.465,
+        "tot_100": 77,
+        "tot_attempted": 86,
+        "avg_attempts": 4.919,
+        "avg_time_to_best_grade": 77799.419,
+        "avg_days_since_beginning": 64.86
+    },
+    "yungan": {
+        "avg_best_grade": 81.007,
+        "tot_100": 75,
+        "tot_attempted": 96,
+        "avg_attempts": 6.01,
+        "avg_time_to_best_grade": 2163879.385,
+        "avg_days_since_beginning": 135.104
+    },
+    "JJoveneau": {
+        "avg_best_grade": 82.583,
+        "tot_100": 73,
+        "tot_attempted": 94,
+        "avg_attempts": 3.606,
+        "avg_time_to_best_grade": 116696.106,
+        "avg_days_since_beginning": 73.617
+    },
+    "henryverdoodt": {
+        "avg_best_grade": 88.056,
+        "tot_100": 76,
+        "tot_attempted": 88,
+        "avg_attempts": 4.591,
+        "avg_time_to_best_grade": 915934.727,
+        "avg_days_since_beginning": 82.205
+    },
+    "lejeunegui": {
+        "avg_best_grade": 78.249,
+        "tot_100": 76,
+        "tot_attempted": 99,
+        "avg_attempts": 7.061,
+        "avg_time_to_best_grade": 646862.202,
+        "avg_days_since_beginning": 73.364
+    },
+    "sigeorges": {
+        "avg_best_grade": 92.143,
+        "tot_100": 77,
+        "tot_attempted": 84,
+        "avg_attempts": 4.095,
+        "avg_time_to_best_grade": 360172.655,
+        "avg_days_since_beginning": 86.024
+    },
+    "bvanespen": {
+        "avg_best_grade": 86.941,
+        "tot_100": 75,
+        "tot_attempted": 89,
+        "avg_attempts": 10.371,
+        "avg_time_to_best_grade": 174044.652,
+        "avg_days_since_beginning": 48.213
+    },
+    "roisint": {
+        "avg_best_grade": 84.615,
+        "tot_100": 77,
+        "tot_attempted": 91,
+        "avg_attempts": 9.264,
+        "avg_time_to_best_grade": 118135.297,
+        "avg_days_since_beginning": 64.154
+    },
+    "cacaulier": {
+        "avg_best_grade": 96.25,
+        "tot_100": 77,
+        "tot_attempted": 80,
+        "avg_attempts": 5.088,
+        "avg_time_to_best_grade": 57030.475,
+        "avg_days_since_beginning": 63.475
+    },
+    "mmihigojonathan": {
+        "avg_best_grade": 90.441,
+        "tot_100": 76,
+        "tot_attempted": 85,
+        "avg_attempts": 9.753,
+        "avg_time_to_best_grade": 58605.718,
+        "avg_days_since_beginning": 48.824
+    },
+    "belpairev": {
+        "avg_best_grade": 93.496,
+        "tot_100": 76,
+        "tot_attempted": 82,
+        "avg_attempts": 2.366,
+        "avg_time_to_best_grade": 5050.451,
+        "avg_days_since_beginning": 63.085
+    },
+    "wmerlini": {
+        "avg_best_grade": 95.333,
+        "tot_100": 75,
+        "tot_attempted": 80,
+        "avg_attempts": 7.175,
+        "avg_time_to_best_grade": 1263573.387,
+        "avg_days_since_beginning": 145.025
+    },
+    "slepercq": {
+        "avg_best_grade": 76.222,
+        "tot_100": 76,
+        "tot_attempted": 100,
+        "avg_attempts": 4.3,
+        "avg_time_to_best_grade": 407776.19,
+        "avg_days_since_beginning": 70.42
+    },
+    "artlefebvre": {
+        "avg_best_grade": 92.927,
+        "tot_100": 75,
+        "tot_attempted": 82,
+        "avg_attempts": 7.341,
+        "avg_time_to_best_grade": 1909947.927,
+        "avg_days_since_beginning": 134.305
+    },
+    "Jerome": {
+        "avg_best_grade": 93.827,
+        "tot_100": 76,
+        "tot_attempted": 81,
+        "avg_attempts": 5.259,
+        "avg_time_to_best_grade": 314736.543,
+        "avg_days_since_beginning": 57.432
+    },
+    "abray": {
+        "avg_best_grade": 92.683,
+        "tot_100": 76,
+        "tot_attempted": 82,
+        "avg_attempts": 4.646,
+        "avg_time_to_best_grade": 195607.488,
+        "avg_days_since_beginning": 72.0
+    },
+    "Christophe": {
+        "avg_best_grade": 92.547,
+        "tot_100": 75,
+        "tot_attempted": 82,
+        "avg_attempts": 7.256,
+        "avg_time_to_best_grade": 2941115.72,
+        "avg_days_since_beginning": 212.683
+    },
+    "alex": {
+        "avg_best_grade": 91.426,
+        "tot_100": 74,
+        "tot_attempted": 83,
+        "avg_attempts": 3.988,
+        "avg_time_to_best_grade": 10362.602,
+        "avg_days_since_beginning": 192.578
+    },
+    "Hheackers": {
+        "avg_best_grade": 93.563,
+        "tot_100": 74,
+        "tot_attempted": 81,
+        "avg_attempts": 12.963,
+        "avg_time_to_best_grade": 552373.37,
+        "avg_days_since_beginning": 61.704
+    },
+    "lhalkin": {
+        "avg_best_grade": 83.728,
+        "tot_100": 73,
+        "tot_attempted": 90,
+        "avg_attempts": 6.033,
+        "avg_time_to_best_grade": 359104.567,
+        "avg_days_since_beginning": 70.822
+    },
+    "amaillard": {
+        "avg_best_grade": 92.963,
+        "tot_100": 74,
+        "tot_attempted": 81,
+        "avg_attempts": 3.975,
+        "avg_time_to_best_grade": 318757.815,
+        "avg_days_since_beginning": 93.938
+    },
+    "Kylian": {
+        "avg_best_grade": 91.707,
+        "tot_100": 75,
+        "tot_attempted": 82,
+        "avg_attempts": 6.707,
+        "avg_time_to_best_grade": 34518.171,
+        "avg_days_since_beginning": 54.341
+    },
+    "mahadjili": {
+        "avg_best_grade": 81.522,
+        "tot_100": 75,
+        "tot_attempted": 92,
+        "avg_attempts": 4.489,
+        "avg_time_to_best_grade": 106043.783,
+        "avg_days_since_beginning": 65.576
+    },
+    "gonzalezmeri": {
+        "avg_best_grade": 87.209,
+        "tot_100": 75,
+        "tot_attempted": 86,
+        "avg_attempts": 7.709,
+        "avg_time_to_best_grade": 676014.105,
+        "avg_days_since_beginning": 123.965
+    },
+    "Jonah": {
+        "avg_best_grade": 89.246,
+        "tot_100": 73,
+        "tot_attempted": 84,
+        "avg_attempts": 7.048,
+        "avg_time_to_best_grade": 2440506.071,
+        "avg_days_since_beginning": 176.214
+    },
+    "dauem": {
+        "avg_best_grade": 92.263,
+        "tot_100": 73,
+        "tot_attempted": 81,
+        "avg_attempts": 4.062,
+        "avg_time_to_best_grade": 180423.444,
+        "avg_days_since_beginning": 59.21
+    },
+    "toussainty": {
+        "avg_best_grade": 83.025,
+        "tot_100": 73,
+        "tot_attempted": 90,
+        "avg_attempts": 5.389,
+        "avg_time_to_best_grade": 213058.4,
+        "avg_days_since_beginning": 58.111
+    },
+    "Tanguy": {
+        "avg_best_grade": 82.222,
+        "tot_100": 73,
+        "tot_attempted": 90,
+        "avg_attempts": 3.722,
+        "avg_time_to_best_grade": 751291.256,
+        "avg_days_since_beginning": 67.533
+    },
+    "pironcha": {
+        "avg_best_grade": 79.57,
+        "tot_100": 74,
+        "tot_attempted": 93,
+        "avg_attempts": 11.054,
+        "avg_time_to_best_grade": 662969.538,
+        "avg_days_since_beginning": 121.742
+    },
+    "wezhang": {
+        "avg_best_grade": 93.671,
+        "tot_100": 74,
+        "tot_attempted": 79,
+        "avg_attempts": 11.481,
+        "avg_time_to_best_grade": 727000.253,
+        "avg_days_since_beginning": 86.152
+    },
+    "jgelders": {
+        "avg_best_grade": 80.435,
+        "tot_100": 74,
+        "tot_attempted": 92,
+        "avg_attempts": 7.326,
+        "avg_time_to_best_grade": 436616.891,
+        "avg_days_since_beginning": 64.022
+    },
+    "durieuxt": {
+        "avg_best_grade": 93.53,
+        "tot_100": 73,
+        "tot_attempted": 79,
+        "avg_attempts": 4.911,
+        "avg_time_to_best_grade": 475230.43,
+        "avg_days_since_beginning": 139.848
+    },
+    "trupiaclara": {
+        "avg_best_grade": 91.111,
+        "tot_100": 73,
+        "tot_attempted": 81,
+        "avg_attempts": 7.593,
+        "avg_time_to_best_grade": 472873.049,
+        "avg_days_since_beginning": 88.383
+    },
+    "tmortiaux": {
+        "avg_best_grade": 92.658,
+        "tot_100": 73,
+        "tot_attempted": 79,
+        "avg_attempts": 3.987,
+        "avg_time_to_best_grade": 316385.949,
+        "avg_days_since_beginning": 190.582
+    },
+    "copetre": {
+        "avg_best_grade": 93.59,
+        "tot_100": 73,
+        "tot_attempted": 78,
+        "avg_attempts": 7.321,
+        "avg_time_to_best_grade": 181896.436,
+        "avg_days_since_beginning": 60.487
+    },
+    "andregeo": {
+        "avg_best_grade": 83.78,
+        "tot_100": 72,
+        "tot_attempted": 87,
+        "avg_attempts": 6.632,
+        "avg_time_to_best_grade": 579145.126,
+        "avg_days_since_beginning": 70.839
+    },
+    "roline": {
+        "avg_best_grade": 80.556,
+        "tot_100": 72,
+        "tot_attempted": 90,
+        "avg_attempts": 17.111,
+        "avg_time_to_best_grade": 2121737.522,
+        "avg_days_since_beginning": 109.367
+    },
+    "xdeliedekerk": {
+        "avg_best_grade": 91.702,
+        "tot_100": 72,
+        "tot_attempted": 79,
+        "avg_attempts": 3.886,
+        "avg_time_to_best_grade": 102165.582,
+        "avg_days_since_beginning": 45.127
+    },
+    "aderwa": {
+        "avg_best_grade": 82.248,
+        "tot_100": 71,
+        "tot_attempted": 88,
+        "avg_attempts": 6.58,
+        "avg_time_to_best_grade": 244599.761,
+        "avg_days_since_beginning": 85.386
+    },
+    "Valentine01": {
+        "avg_best_grade": 85.714,
+        "tot_100": 72,
+        "tot_attempted": 84,
+        "avg_attempts": 4.821,
+        "avg_time_to_best_grade": 363914.083,
+        "avg_days_since_beginning": 64.369
+    },
+    "Walra": {
+        "avg_best_grade": 92.308,
+        "tot_100": 72,
+        "tot_attempted": 78,
+        "avg_attempts": 10.59,
+        "avg_time_to_best_grade": 267824.359,
+        "avg_days_since_beginning": 64.821
+    },
+    "NicoDD9": {
+        "avg_best_grade": 76.407,
+        "tot_100": 71,
+        "tot_attempted": 94,
+        "avg_attempts": 6.947,
+        "avg_time_to_best_grade": 109275.128,
+        "avg_days_since_beginning": 72.074
+    },
+    "Kosta": {
+        "avg_best_grade": 92.051,
+        "tot_100": 71,
+        "tot_attempted": 78,
+        "avg_attempts": 5.731,
+        "avg_time_to_best_grade": 67882.372,
+        "avg_days_since_beginning": 48.551
+    },
+    "Elise": {
+        "avg_best_grade": 90.84,
+        "tot_100": 70,
+        "tot_attempted": 79,
+        "avg_attempts": 7.127,
+        "avg_time_to_best_grade": 143165.266,
+        "avg_days_since_beginning": 44.709
+    },
+    "romainlefebvre": {
+        "avg_best_grade": 91.923,
+        "tot_100": 71,
+        "tot_attempted": 78,
+        "avg_attempts": 8.167,
+        "avg_time_to_best_grade": 678177.474,
+        "avg_days_since_beginning": 156.205
+    },
+    "manopletinckx": {
+        "avg_best_grade": 91.595,
+        "tot_100": 71,
+        "tot_attempted": 78,
+        "avg_attempts": 7.821,
+        "avg_time_to_best_grade": 326670.064,
+        "avg_days_since_beginning": 80.359
+    },
+    "mcolasse": {
+        "avg_best_grade": 91.453,
+        "tot_100": 71,
+        "tot_attempted": 78,
+        "avg_attempts": 8.154,
+        "avg_time_to_best_grade": 353746.885,
+        "avg_days_since_beginning": 65.795
+    },
+    "ZavenS": {
+        "avg_best_grade": 86.585,
+        "tot_100": 71,
+        "tot_attempted": 82,
+        "avg_attempts": 6.049,
+        "avg_time_to_best_grade": 133023.049,
+        "avg_days_since_beginning": 101.427
+    },
+    "rbrabants": {
+        "avg_best_grade": 81.609,
+        "tot_100": 71,
+        "tot_attempted": 87,
+        "avg_attempts": 10.966,
+        "avg_time_to_best_grade": 41304.529,
+        "avg_days_since_beginning": 337.414
+    },
+    "aziberi": {
+        "avg_best_grade": 90.769,
+        "tot_100": 70,
+        "tot_attempted": 78,
+        "avg_attempts": 8.795,
+        "avg_time_to_best_grade": 715099.897,
+        "avg_days_since_beginning": 72.141
+    },
+    "mathiaspetini": {
+        "avg_best_grade": 95.405,
+        "tot_100": 70,
+        "tot_attempted": 74,
+        "avg_attempts": 5.784,
+        "avg_time_to_best_grade": 343972.757,
+        "avg_days_since_beginning": 91.838
+    },
+    "jTonglet": {
+        "avg_best_grade": 91.429,
+        "tot_100": 70,
+        "tot_attempted": 77,
+        "avg_attempts": 6.247,
+        "avg_time_to_best_grade": 368826.442,
+        "avg_days_since_beginning": 54.623
+    },
+    "adefer": {
+        "avg_best_grade": 85.61,
+        "tot_100": 70,
+        "tot_attempted": 82,
+        "avg_attempts": 4.573,
+        "avg_time_to_best_grade": 395435.902,
+        "avg_days_since_beginning": 59.573
+    },
+    "smalbrancke": {
+        "avg_best_grade": 83.333,
+        "tot_100": 70,
+        "tot_attempted": 84,
+        "avg_attempts": 7.107,
+        "avg_time_to_best_grade": 201491.548,
+        "avg_days_since_beginning": 83.155
+    },
+    "Jackli77": {
+        "avg_best_grade": 88.354,
+        "tot_100": 69,
+        "tot_attempted": 79,
+        "avg_attempts": 6.734,
+        "avg_time_to_best_grade": 46126.367,
+        "avg_days_since_beginning": 58.633
+    },
+    "Thomas": {
+        "avg_best_grade": 96.79,
+        "tot_100": 68,
+        "tot_attempted": 72,
+        "avg_attempts": 5.944,
+        "avg_time_to_best_grade": 288003.153,
+        "avg_days_since_beginning": 53.264
+    },
+    "Moulin": {
+        "avg_best_grade": 80.904,
+        "tot_100": 68,
+        "tot_attempted": 86,
+        "avg_attempts": 7.523,
+        "avg_time_to_best_grade": 910763.314,
+        "avg_days_since_beginning": 96.314
+    },
+    "gadupont": {
+        "avg_best_grade": 95.282,
+        "tot_100": 69,
+        "tot_attempted": 73,
+        "avg_attempts": 5.63,
+        "avg_time_to_best_grade": 399126.26,
+        "avg_days_since_beginning": 107.123
+    },
+    "axdenis": {
+        "avg_best_grade": 86.458,
+        "tot_100": 69,
+        "tot_attempted": 80,
+        "avg_attempts": 4.725,
+        "avg_time_to_best_grade": 681502.775,
+        "avg_days_since_beginning": 88.075
+    },
+    "sacrecl": {
+        "avg_best_grade": 80.233,
+        "tot_100": 69,
+        "tot_attempted": 86,
+        "avg_attempts": 8.174,
+        "avg_time_to_best_grade": 414685.267,
+        "avg_days_since_beginning": 53.384
+    },
+    "barochet": {
+        "avg_best_grade": 77.478,
+        "tot_100": 67,
+        "tot_attempted": 89,
+        "avg_attempts": 4.787,
+        "avg_time_to_best_grade": 253796.82,
+        "avg_days_since_beginning": 70.573
+    },
+    "Kim15": {
+        "avg_best_grade": 80.784,
+        "tot_100": 68,
+        "tot_attempted": 85,
+        "avg_attempts": 11.012,
+        "avg_time_to_best_grade": 310356.412,
+        "avg_days_since_beginning": 82.282
+    },
+    "Aftersmill": {
+        "avg_best_grade": 86.835,
+        "tot_100": 68,
+        "tot_attempted": 79,
+        "avg_attempts": 4.405,
+        "avg_time_to_best_grade": 869129.886,
+        "avg_days_since_beginning": 247.354
+    },
+    "jposkin1997": {
+        "avg_best_grade": 85.75,
+        "tot_100": 67,
+        "tot_attempted": 80,
+        "avg_attempts": 6.2,
+        "avg_time_to_best_grade": 298283.825,
+        "avg_days_since_beginning": 80.838
+    },
+    "guettier": {
+        "avg_best_grade": 83.469,
+        "tot_100": 68,
+        "tot_attempted": 82,
+        "avg_attempts": 8.524,
+        "avg_time_to_best_grade": 2630954.695,
+        "avg_days_since_beginning": 97.646
+    },
+    "timothee": {
+        "avg_best_grade": 92.432,
+        "tot_100": 68,
+        "tot_attempted": 74,
+        "avg_attempts": 4.541,
+        "avg_time_to_best_grade": 815248.851,
+        "avg_days_since_beginning": 152.405
+    },
+    "ThManiquet": {
+        "avg_best_grade": 87.436,
+        "tot_100": 68,
+        "tot_attempted": 78,
+        "avg_attempts": 11.846,
+        "avg_time_to_best_grade": 809092.936,
+        "avg_days_since_beginning": 59.051
+    },
+    "abombaert": {
+        "avg_best_grade": 85.25,
+        "tot_100": 68,
+        "tot_attempted": 80,
+        "avg_attempts": 5.562,
+        "avg_time_to_best_grade": 441360.575,
+        "avg_days_since_beginning": 76.737
+    },
+    "RobDeth": {
+        "avg_best_grade": 85.125,
+        "tot_100": 65,
+        "tot_attempted": 80,
+        "avg_attempts": 5.375,
+        "avg_time_to_best_grade": 694434.887,
+        "avg_days_since_beginning": 87.463
+    },
+    "brandonries": {
+        "avg_best_grade": 87.179,
+        "tot_100": 68,
+        "tot_attempted": 78,
+        "avg_attempts": 24.244,
+        "avg_time_to_best_grade": 419159.179,
+        "avg_days_since_beginning": 48.244
+    },
+    "MathildeSimounet": {
+        "avg_best_grade": 83.951,
+        "tot_100": 68,
+        "tot_attempted": 81,
+        "avg_attempts": 5.173,
+        "avg_time_to_best_grade": 315060.753,
+        "avg_days_since_beginning": 60.617
+    },
+    "nicodj": {
+        "avg_best_grade": 91.892,
+        "tot_100": 68,
+        "tot_attempted": 74,
+        "avg_attempts": 9.892,
+        "avg_time_to_best_grade": 809542.23,
+        "avg_days_since_beginning": 240.27
+    },
+    "NicolasD": {
+        "avg_best_grade": 91.892,
+        "tot_100": 68,
+        "tot_attempted": 74,
+        "avg_attempts": 5.811,
+        "avg_time_to_best_grade": 97993.973,
+        "avg_days_since_beginning": 74.0
+    },
+    "Mokeev": {
+        "avg_best_grade": 90.607,
+        "tot_100": 65,
+        "tot_attempted": 75,
+        "avg_attempts": 5.173,
+        "avg_time_to_best_grade": 1270194.36,
+        "avg_days_since_beginning": 157.573
+    },
+    "ALarue": {
+        "avg_best_grade": 87.037,
+        "tot_100": 67,
+        "tot_attempted": 78,
+        "avg_attempts": 3.654,
+        "avg_time_to_best_grade": 95310.218,
+        "avg_days_since_beginning": 56.962
+    },
+    "nnepper": {
+        "avg_best_grade": 72.128,
+        "tot_100": 67,
+        "tot_attempted": 94,
+        "avg_attempts": 7.915,
+        "avg_time_to_best_grade": 174196.702,
+        "avg_days_since_beginning": 52.5
+    },
+    "aurelian": {
+        "avg_best_grade": 82.683,
+        "tot_100": 67,
+        "tot_attempted": 82,
+        "avg_attempts": 3.817,
+        "avg_time_to_best_grade": 2181825.134,
+        "avg_days_since_beginning": 225.195
+    },
+    "ngiot": {
+        "avg_best_grade": 75.59,
+        "tot_100": 66,
+        "tot_attempted": 89,
+        "avg_attempts": 7.404,
+        "avg_time_to_best_grade": 2150546.82,
+        "avg_days_since_beginning": 119.944
+    },
+    "libertlo": {
+        "avg_best_grade": 90.909,
+        "tot_100": 64,
+        "tot_attempted": 73,
+        "avg_attempts": 5.397,
+        "avg_time_to_best_grade": 328428.836,
+        "avg_days_since_beginning": 70.712
+    },
+    "nbertholet": {
+        "avg_best_grade": 72.772,
+        "tot_100": 66,
+        "tot_attempted": 91,
+        "avg_attempts": 12.099,
+        "avg_time_to_best_grade": 4280874.341,
+        "avg_days_since_beginning": 199.791
+    },
+    "thibaultgregoir": {
+        "avg_best_grade": 76.105,
+        "tot_100": 63,
+        "tot_attempted": 87,
+        "avg_attempts": 4.31,
+        "avg_time_to_best_grade": 237273.943,
+        "avg_days_since_beginning": 63.609
+    },
+    "alexandreduvieusart": {
+        "avg_best_grade": 84.615,
+        "tot_100": 66,
+        "tot_attempted": 78,
+        "avg_attempts": 5.436,
+        "avg_time_to_best_grade": 1850782.936,
+        "avg_days_since_beginning": 163.936
+    },
+    "faroud": {
+        "avg_best_grade": 92.801,
+        "tot_100": 65,
+        "tot_attempted": 71,
+        "avg_attempts": 4.465,
+        "avg_time_to_best_grade": 539995.676,
+        "avg_days_since_beginning": 113.465
+    },
+    "delhayeq": {
+        "avg_best_grade": 87.852,
+        "tot_100": 65,
+        "tot_attempted": 75,
+        "avg_attempts": 3.987,
+        "avg_time_to_best_grade": 11333.627,
+        "avg_days_since_beginning": 326.733
+    },
+    "jvillebrun": {
+        "avg_best_grade": 91.512,
+        "tot_100": 65,
+        "tot_attempted": 72,
+        "avg_attempts": 3.083,
+        "avg_time_to_best_grade": 8386.125,
+        "avg_days_since_beginning": 82.611
+    },
+    "lkamto": {
+        "avg_best_grade": 87.333,
+        "tot_100": 65,
+        "tot_attempted": 75,
+        "avg_attempts": 7.093,
+        "avg_time_to_best_grade": 935089.093,
+        "avg_days_since_beginning": 193.107
+    },
+    "lmalevez": {
+        "avg_best_grade": 84.978,
+        "tot_100": 63,
+        "tot_attempted": 77,
+        "avg_attempts": 10.416,
+        "avg_time_to_best_grade": 1867612.039,
+        "avg_days_since_beginning": 258.065
+    },
+    "ldeconde": {
+        "avg_best_grade": 95.588,
+        "tot_100": 65,
+        "tot_attempted": 68,
+        "avg_attempts": 5.735,
+        "avg_time_to_best_grade": 945909.794,
+        "avg_days_since_beginning": 63.529
+    },
+    "pdan": {
+        "avg_best_grade": 95.588,
+        "tot_100": 65,
+        "tot_attempted": 68,
+        "avg_attempts": 4.294,
+        "avg_time_to_best_grade": 1806.471,
+        "avg_days_since_beginning": 33.618
+    },
+    "doumontt": {
+        "avg_best_grade": 94.203,
+        "tot_100": 65,
+        "tot_attempted": 69,
+        "avg_attempts": 4.0,
+        "avg_time_to_best_grade": 1429.159,
+        "avg_days_since_beginning": 92.42
+    },
+    "salaerts": {
+        "avg_best_grade": 84.242,
+        "tot_100": 64,
+        "tot_attempted": 77,
+        "avg_attempts": 4.571,
+        "avg_time_to_best_grade": 1234492.597,
+        "avg_days_since_beginning": 208.714
+    },
+    "febontemps": {
+        "avg_best_grade": 86.4,
+        "tot_100": 64,
+        "tot_attempted": 75,
+        "avg_attempts": 2.827,
+        "avg_time_to_best_grade": 26686.787,
+        "avg_days_since_beginning": 96.627
+    },
+    "Maugan": {
+        "avg_best_grade": 91.08,
+        "tot_100": 64,
+        "tot_attempted": 71,
+        "avg_attempts": 6.394,
+        "avg_time_to_best_grade": 280503.225,
+        "avg_days_since_beginning": 56.62
+    },
+    "adelesf": {
+        "avg_best_grade": 93.333,
+        "tot_100": 63,
+        "tot_attempted": 69,
+        "avg_attempts": 4.565,
+        "avg_time_to_best_grade": 218353.812,
+        "avg_days_since_beginning": 76.565
+    },
+    "Anton": {
+        "avg_best_grade": 90.423,
+        "tot_100": 63,
+        "tot_attempted": 71,
+        "avg_attempts": 11.0,
+        "avg_time_to_best_grade": 4303541.239,
+        "avg_days_since_beginning": 227.211
+    },
+    "arnaud_deckers": {
+        "avg_best_grade": 88.889,
+        "tot_100": 64,
+        "tot_attempted": 72,
+        "avg_attempts": 5.028,
+        "avg_time_to_best_grade": 99374.944,
+        "avg_days_since_beginning": 55.444
+    },
+    "whitten": {
+        "avg_best_grade": 87.671,
+        "tot_100": 64,
+        "tot_attempted": 73,
+        "avg_attempts": 3.466,
+        "avg_time_to_best_grade": 294.411,
+        "avg_days_since_beginning": 85.699
+    },
+    "ldeman": {
+        "avg_best_grade": 92.754,
+        "tot_100": 64,
+        "tot_attempted": 69,
+        "avg_attempts": 6.29,
+        "avg_time_to_best_grade": 101828.957,
+        "avg_days_since_beginning": 92.449
+    },
+    "artgilles": {
+        "avg_best_grade": 75.196,
+        "tot_100": 61,
+        "tot_attempted": 85,
+        "avg_attempts": 5.988,
+        "avg_time_to_best_grade": 326243.094,
+        "avg_days_since_beginning": 62.6
+    },
+    "Jean-Baudouin": {
+        "avg_best_grade": 84.741,
+        "tot_100": 63,
+        "tot_attempted": 75,
+        "avg_attempts": 4.987,
+        "avg_time_to_best_grade": 39372.707,
+        "avg_days_since_beginning": 102.347
+    },
+    "Marti12": {
+        "avg_best_grade": 82.504,
+        "tot_100": 60,
+        "tot_attempted": 77,
+        "avg_attempts": 9.805,
+        "avg_time_to_best_grade": 2596529.377,
+        "avg_days_since_beginning": 97.779
+    },
+    "AntoineDupas": {
+        "avg_best_grade": 93.346,
+        "tot_100": 62,
+        "tot_attempted": 68,
+        "avg_attempts": 2.794,
+        "avg_time_to_best_grade": 64.338,
+        "avg_days_since_beginning": 153.221
+    },
+    "matderidder": {
+        "avg_best_grade": 86.891,
+        "tot_100": 60,
+        "tot_attempted": 73,
+        "avg_attempts": 4.548,
+        "avg_time_to_best_grade": 1047289.534,
+        "avg_days_since_beginning": 111.315
+    },
+    "blaterre": {
+        "avg_best_grade": 78.282,
+        "tot_100": 62,
+        "tot_attempted": 81,
+        "avg_attempts": 7.136,
+        "avg_time_to_best_grade": 605921.086,
+        "avg_days_since_beginning": 88.716
+    },
+    "ddumitras": {
+        "avg_best_grade": 91.836,
+        "tot_100": 63,
+        "tot_attempted": 69,
+        "avg_attempts": 5.826,
+        "avg_time_to_best_grade": 859743.391,
+        "avg_days_since_beginning": 137.739
+    },
+    "kury": {
+        "avg_best_grade": 90.238,
+        "tot_100": 63,
+        "tot_attempted": 70,
+        "avg_attempts": 9.157,
+        "avg_time_to_best_grade": 381422.871,
+        "avg_days_since_beginning": 96.543
+    },
+    "gdraye": {
+        "avg_best_grade": 88.732,
+        "tot_100": 63,
+        "tot_attempted": 71,
+        "avg_attempts": 4.423,
+        "avg_time_to_best_grade": 9596.352,
+        "avg_days_since_beginning": 65.732
+    },
+    "ldebois": {
+        "avg_best_grade": 95.455,
+        "tot_100": 63,
+        "tot_attempted": 66,
+        "avg_attempts": 9.439,
+        "avg_time_to_best_grade": 488912.424,
+        "avg_days_since_beginning": 148.818
+    },
+    "ldavreux": {
+        "avg_best_grade": 88.451,
+        "tot_100": 62,
+        "tot_attempted": 71,
+        "avg_attempts": 6.141,
+        "avg_time_to_best_grade": 195032.606,
+        "avg_days_since_beginning": 57.915
+    },
+    "dvenderick": {
+        "avg_best_grade": 92.157,
+        "tot_100": 62,
+        "tot_attempted": 68,
+        "avg_attempts": 3.632,
+        "avg_time_to_best_grade": 19614.353,
+        "avg_days_since_beginning": 51.662
+    },
+    "Charlotte": {
+        "avg_best_grade": 84.595,
+        "tot_100": 61,
+        "tot_attempted": 74,
+        "avg_attempts": 7.797,
+        "avg_time_to_best_grade": 186983.041,
+        "avg_days_since_beginning": 77.811
+    },
+    "kaczmarczyk": {
+        "avg_best_grade": 84.992,
+        "tot_100": 61,
+        "tot_attempted": 73,
+        "avg_attempts": 10.548,
+        "avg_time_to_best_grade": 651215.178,
+        "avg_days_since_beginning": 95.384
+    },
+    "QuentinDullier": {
+        "avg_best_grade": 82.696,
+        "tot_100": 61,
+        "tot_attempted": 75,
+        "avg_attempts": 10.52,
+        "avg_time_to_best_grade": 732373.747,
+        "avg_days_since_beginning": 75.453
+    },
+    "leclercqde": {
+        "avg_best_grade": 74.645,
+        "tot_100": 60,
+        "tot_attempted": 83,
+        "avg_attempts": 4.036,
+        "avg_time_to_best_grade": 112885.41,
+        "avg_days_since_beginning": 103.241
+    },
+    "RobinTilman": {
+        "avg_best_grade": 82.4,
+        "tot_100": 61,
+        "tot_attempted": 75,
+        "avg_attempts": 6.347,
+        "avg_time_to_best_grade": 81599.213,
+        "avg_days_since_beginning": 68.973
+    },
+    "erwan-san": {
+        "avg_best_grade": 85.833,
+        "tot_100": 61,
+        "tot_attempted": 72,
+        "avg_attempts": 3.306,
+        "avg_time_to_best_grade": 770769.264,
+        "avg_days_since_beginning": 106.972
+    },
+    "flpecheur": {
+        "avg_best_grade": 79.942,
+        "tot_100": 60,
+        "tot_attempted": 77,
+        "avg_attempts": 6.649,
+        "avg_time_to_best_grade": 803270.325,
+        "avg_days_since_beginning": 126.558
+    },
+    "thetheos": {
+        "avg_best_grade": 78.689,
+        "tot_100": 59,
+        "tot_attempted": 78,
+        "avg_attempts": 3.141,
+        "avg_time_to_best_grade": 200257.923,
+        "avg_days_since_beginning": 46.705
+    },
+    "kummeler": {
+        "avg_best_grade": 79.578,
+        "tot_100": 60,
+        "tot_attempted": 77,
+        "avg_attempts": 5.221,
+        "avg_time_to_best_grade": 756458.727,
+        "avg_days_since_beginning": 74.987
+    },
+    "MaximeNO": {
+        "avg_best_grade": 76.389,
+        "tot_100": 61,
+        "tot_attempted": 80,
+        "avg_attempts": 8.988,
+        "avg_time_to_best_grade": 35248.188,
+        "avg_days_since_beginning": 113.388
+    },
+    "heinenl": {
+        "avg_best_grade": 88.209,
+        "tot_100": 57,
+        "tot_attempted": 69,
+        "avg_attempts": 7.899,
+        "avg_time_to_best_grade": 2072550.899,
+        "avg_days_since_beginning": 120.435
+    },
+    "alexamichel": {
+        "avg_best_grade": 96.508,
+        "tot_100": 60,
+        "tot_attempted": 63,
+        "avg_attempts": 5.889,
+        "avg_time_to_best_grade": 182205.746,
+        "avg_days_since_beginning": 69.381
+    },
+    "abanier": {
+        "avg_best_grade": 76.906,
+        "tot_100": 60,
+        "tot_attempted": 79,
+        "avg_attempts": 8.747,
+        "avg_time_to_best_grade": 501168.418,
+        "avg_days_since_beginning": 81.278
+    },
+    "pauparmentie": {
+        "avg_best_grade": 78.095,
+        "tot_100": 59,
+        "tot_attempted": 77,
+        "avg_attempts": 6.922,
+        "avg_time_to_best_grade": 2275392.948,
+        "avg_days_since_beginning": 177.429
+    },
+    "gusbinc": {
+        "avg_best_grade": 85.429,
+        "tot_100": 59,
+        "tot_attempted": 70,
+        "avg_attempts": 9.514,
+        "avg_time_to_best_grade": 1116901.243,
+        "avg_days_since_beginning": 80.243
+    },
+    "wgrollinger": {
+        "avg_best_grade": 91.966,
+        "tot_100": 58,
+        "tot_attempted": 65,
+        "avg_attempts": 3.077,
+        "avg_time_to_best_grade": 3660.031,
+        "avg_days_since_beginning": 68.338
+    },
+    "danadavar": {
+        "avg_best_grade": 90.202,
+        "tot_100": 58,
+        "tot_attempted": 66,
+        "avg_attempts": 3.939,
+        "avg_time_to_best_grade": 152269.045,
+        "avg_days_since_beginning": 69.924
+    },
+    "maxsion": {
+        "avg_best_grade": 85.99,
+        "tot_100": 59,
+        "tot_attempted": 69,
+        "avg_attempts": 6.304,
+        "avg_time_to_best_grade": 449207.551,
+        "avg_days_since_beginning": 83.217
+    },
+    "arthurvdgb": {
+        "avg_best_grade": 89.394,
+        "tot_100": 59,
+        "tot_attempted": 66,
+        "avg_attempts": 5.621,
+        "avg_time_to_best_grade": 173589.045,
+        "avg_days_since_beginning": 90.152
+    },
+    "RainMaker": {
+        "avg_best_grade": 89.394,
+        "tot_100": 59,
+        "tot_attempted": 66,
+        "avg_attempts": 6.212,
+        "avg_time_to_best_grade": 315994.424,
+        "avg_days_since_beginning": 61.47
+    },
+    "LambertThom": {
+        "avg_best_grade": 96.721,
+        "tot_100": 59,
+        "tot_attempted": 61,
+        "avg_attempts": 3.246,
+        "avg_time_to_best_grade": 1296585.131,
+        "avg_days_since_beginning": 194.459
+    },
+    "mdallemagne": {
+        "avg_best_grade": 86.471,
+        "tot_100": 58,
+        "tot_attempted": 68,
+        "avg_attempts": 4.588,
+        "avg_time_to_best_grade": 346813.618,
+        "avg_days_since_beginning": 82.162
+    },
+    "Bernico": {
+        "avg_best_grade": 79.459,
+        "tot_100": 58,
+        "tot_attempted": 74,
+        "avg_attempts": 5.041,
+        "avg_time_to_best_grade": 290283.878,
+        "avg_days_since_beginning": 73.905
+    },
+    "BDESEVEAUX": {
+        "avg_best_grade": 85.185,
+        "tot_100": 58,
+        "tot_attempted": 69,
+        "avg_attempts": 5.449,
+        "avg_time_to_best_grade": 120719.797,
+        "avg_days_since_beginning": 91.145
+    },
+    "doriangenon": {
+        "avg_best_grade": 91.146,
+        "tot_100": 58,
+        "tot_attempted": 64,
+        "avg_attempts": 3.969,
+        "avg_time_to_best_grade": 794498.906,
+        "avg_days_since_beginning": 70.844
+    },
+    "Lallemandsa": {
+        "avg_best_grade": 82.857,
+        "tot_100": 58,
+        "tot_attempted": 70,
+        "avg_attempts": 5.357,
+        "avg_time_to_best_grade": 413556.857,
+        "avg_days_since_beginning": 91.971
+    },
+    "dehalleuxn": {
+        "avg_best_grade": 96.667,
+        "tot_100": 58,
+        "tot_attempted": 60,
+        "avg_attempts": 5.067,
+        "avg_time_to_best_grade": 348152.167,
+        "avg_days_since_beginning": 50.267
+    },
+    "matvdberghe": {
+        "avg_best_grade": 73.418,
+        "tot_100": 58,
+        "tot_attempted": 79,
+        "avg_attempts": 7.747,
+        "avg_time_to_best_grade": 231181.937,
+        "avg_days_since_beginning": 59.861
+    },
+    "Aferier": {
+        "avg_best_grade": 84.118,
+        "tot_100": 57,
+        "tot_attempted": 68,
+        "avg_attempts": 4.25,
+        "avg_time_to_best_grade": 308915.441,
+        "avg_days_since_beginning": 81.412
+    },
+    "LoGr": {
+        "avg_best_grade": 90.476,
+        "tot_100": 57,
+        "tot_attempted": 63,
+        "avg_attempts": 3.175,
+        "avg_time_to_best_grade": 2218.143,
+        "avg_days_since_beginning": 84.286
+    },
+    "masta": {
+        "avg_best_grade": 81.429,
+        "tot_100": 57,
+        "tot_attempted": 70,
+        "avg_attempts": 6.657,
+        "avg_time_to_best_grade": 105464.957,
+        "avg_days_since_beginning": 72.386
+    },
+    "diongaketipa": {
+        "avg_best_grade": 84.909,
+        "tot_100": 56,
+        "tot_attempted": 67,
+        "avg_attempts": 6.194,
+        "avg_time_to_best_grade": 163659.881,
+        "avg_days_since_beginning": 59.657
+    },
+    "Trix": {
+        "avg_best_grade": 93.26,
+        "tot_100": 56,
+        "tot_attempted": 61,
+        "avg_attempts": 5.852,
+        "avg_time_to_best_grade": 8210.426,
+        "avg_days_since_beginning": 90.049
+    },
+    "gvanderveen": {
+        "avg_best_grade": 89.153,
+        "tot_100": 56,
+        "tot_attempted": 63,
+        "avg_attempts": 5.524,
+        "avg_time_to_best_grade": 304582.698,
+        "avg_days_since_beginning": 69.778
+    },
+    "almignot": {
+        "avg_best_grade": 88.889,
+        "tot_100": 56,
+        "tot_attempted": 63,
+        "avg_attempts": 12.254,
+        "avg_time_to_best_grade": 757692.492,
+        "avg_days_since_beginning": 93.54
+    },
+    "ogoletti": {
+        "avg_best_grade": 92.792,
+        "tot_100": 54,
+        "tot_attempted": 60,
+        "avg_attempts": 3.15,
+        "avg_time_to_best_grade": 21196.617,
+        "avg_days_since_beginning": 44.933
+    },
+    "Bobby": {
+        "avg_best_grade": 79.048,
+        "tot_100": 55,
+        "tot_attempted": 70,
+        "avg_attempts": 5.9,
+        "avg_time_to_best_grade": 369593.314,
+        "avg_days_since_beginning": 95.429
+    },
+    "aminemounzer": {
+        "avg_best_grade": 77.821,
+        "tot_100": 53,
+        "tot_attempted": 71,
+        "avg_attempts": 4.324,
+        "avg_time_to_best_grade": 7078.718,
+        "avg_days_since_beginning": 67.887
+    },
+    "parmentierto": {
+        "avg_best_grade": 94.54,
+        "tot_100": 54,
+        "tot_attempted": 58,
+        "avg_attempts": 5.276,
+        "avg_time_to_best_grade": 262535.707,
+        "avg_days_since_beginning": 89.207
+    },
+    "PierreCD": {
+        "avg_best_grade": 92.693,
+        "tot_100": 53,
+        "tot_attempted": 59,
+        "avg_attempts": 4.559,
+        "avg_time_to_best_grade": 317816.322,
+        "avg_days_since_beginning": 60.831
+    },
+    "kulakula": {
+        "avg_best_grade": 78.551,
+        "tot_100": 54,
+        "tot_attempted": 69,
+        "avg_attempts": 13.522,
+        "avg_time_to_best_grade": 1986363.246,
+        "avg_days_since_beginning": 107.13
+    },
+    "AuRon01": {
+        "avg_best_grade": 87.097,
+        "tot_100": 54,
+        "tot_attempted": 62,
+        "avg_attempts": 6.774,
+        "avg_time_to_best_grade": 296396.403,
+        "avg_days_since_beginning": 84.774
+    },
+    "aponet": {
+        "avg_best_grade": 87.097,
+        "tot_100": 54,
+        "tot_attempted": 62,
+        "avg_attempts": 3.935,
+        "avg_time_to_best_grade": 2868.5,
+        "avg_days_since_beginning": 317.855
+    },
+    "lengelec": {
+        "avg_best_grade": 83.077,
+        "tot_100": 54,
+        "tot_attempted": 65,
+        "avg_attempts": 2.369,
+        "avg_time_to_best_grade": 2887.262,
+        "avg_days_since_beginning": 45.954
+    },
+    "Alexandre": {
+        "avg_best_grade": 79.503,
+        "tot_100": 52,
+        "tot_attempted": 67,
+        "avg_attempts": 4.881,
+        "avg_time_to_best_grade": 940881.552,
+        "avg_days_since_beginning": 199.582
+    },
+    "fldardenne": {
+        "avg_best_grade": 100.0,
+        "tot_100": 53,
+        "tot_attempted": 53,
+        "avg_attempts": 4.075,
+        "avg_time_to_best_grade": 388.66,
+        "avg_days_since_beginning": 41.755
+    },
+    "ggheysen": {
+        "avg_best_grade": 99.79,
+        "tot_100": 52,
+        "tot_attempted": 53,
+        "avg_attempts": 4.038,
+        "avg_time_to_best_grade": 161.943,
+        "avg_days_since_beginning": 39.434
+    },
+    "ledecqp": {
+        "avg_best_grade": 68.55,
+        "tot_100": 48,
+        "tot_attempted": 77,
+        "avg_attempts": 6.844,
+        "avg_time_to_best_grade": 499703.883,
+        "avg_days_since_beginning": 90.545
+    },
+    "gmarchale": {
+        "avg_best_grade": 89.265,
+        "tot_100": 50,
+        "tot_attempted": 59,
+        "avg_attempts": 4.593,
+        "avg_time_to_best_grade": 335334.424,
+        "avg_days_since_beginning": 123.475
+    },
+    "gallezt": {
+        "avg_best_grade": 71.081,
+        "tot_100": 52,
+        "tot_attempted": 74,
+        "avg_attempts": 5.068,
+        "avg_time_to_best_grade": 52322.459,
+        "avg_days_since_beginning": 64.162
+    },
+    "Cecile": {
+        "avg_best_grade": 76.147,
+        "tot_100": 50,
+        "tot_attempted": 69,
+        "avg_attempts": 4.014,
+        "avg_time_to_best_grade": 486407.884,
+        "avg_days_since_beginning": 318.681
+    },
+    "dhamers": {
+        "avg_best_grade": 83.069,
+        "tot_100": 52,
+        "tot_attempted": 63,
+        "avg_attempts": 3.81,
+        "avg_time_to_best_grade": 775975.111,
+        "avg_days_since_beginning": 63.238
+    },
+    "tabourgeois": {
+        "avg_best_grade": 85.574,
+        "tot_100": 52,
+        "tot_attempted": 61,
+        "avg_attempts": 6.639,
+        "avg_time_to_best_grade": 276160.246,
+        "avg_days_since_beginning": 58.311
+    },
+    "elbawab": {
+        "avg_best_grade": 86.667,
+        "tot_100": 52,
+        "tot_attempted": 60,
+        "avg_attempts": 5.317,
+        "avg_time_to_best_grade": 295992.567,
+        "avg_days_since_beginning": 106.15
+    },
+    "Laaxus": {
+        "avg_best_grade": 98.113,
+        "tot_100": 52,
+        "tot_attempted": 53,
+        "avg_attempts": 3.792,
+        "avg_time_to_best_grade": 23010.755,
+        "avg_days_since_beginning": 39.094
+    },
+    "nfore": {
+        "avg_best_grade": 94.545,
+        "tot_100": 52,
+        "tot_attempted": 55,
+        "avg_attempts": 4.091,
+        "avg_time_to_best_grade": 213.0,
+        "avg_days_since_beginning": 45.8
+    },
+    "etrubbers": {
+        "avg_best_grade": 96.168,
+        "tot_100": 50,
+        "tot_attempted": 54,
+        "avg_attempts": 2.426,
+        "avg_time_to_best_grade": 174031.241,
+        "avg_days_since_beginning": 71.833
+    },
+    "zaleschi": {
+        "avg_best_grade": 92.262,
+        "tot_100": 51,
+        "tot_attempted": 56,
+        "avg_attempts": 3.554,
+        "avg_time_to_best_grade": 315677.25,
+        "avg_days_since_beginning": 214.054
+    },
+    "Gwynbleidd": {
+        "avg_best_grade": 86.0,
+        "tot_100": 51,
+        "tot_attempted": 60,
+        "avg_attempts": 3.833,
+        "avg_time_to_best_grade": 19062.333,
+        "avg_days_since_beginning": 37.1
+    },
+    "nicolasbeuel": {
+        "avg_best_grade": 90.175,
+        "tot_100": 51,
+        "tot_attempted": 57,
+        "avg_attempts": 3.947,
+        "avg_time_to_best_grade": 22290.386,
+        "avg_days_since_beginning": 53.825
+    },
+    "raphaeln24": {
+        "avg_best_grade": 94.815,
+        "tot_100": 51,
+        "tot_attempted": 54,
+        "avg_attempts": 7.63,
+        "avg_time_to_best_grade": 1156949.481,
+        "avg_days_since_beginning": 166.259
+    },
+    "dylan": {
+        "avg_best_grade": 87.931,
+        "tot_100": 51,
+        "tot_attempted": 58,
+        "avg_attempts": 3.31,
+        "avg_time_to_best_grade": 92312.586,
+        "avg_days_since_beginning": 42.569
+    },
+    "Pierric": {
+        "avg_best_grade": 86.441,
+        "tot_100": 51,
+        "tot_attempted": 59,
+        "avg_attempts": 4.881,
+        "avg_time_to_best_grade": 205483.983,
+        "avg_days_since_beginning": 65.559
+    },
+    "Saegerman15": {
+        "avg_best_grade": 85.0,
+        "tot_100": 51,
+        "tot_attempted": 60,
+        "avg_attempts": 4.567,
+        "avg_time_to_best_grade": 107915.75,
+        "avg_days_since_beginning": 50.0
+    },
+    "AntoineG": {
+        "avg_best_grade": 84.977,
+        "tot_100": 49,
+        "tot_attempted": 60,
+        "avg_attempts": 4.333,
+        "avg_time_to_best_grade": 1043383.483,
+        "avg_days_since_beginning": 120.283
+    },
+    "sderosa": {
+        "avg_best_grade": 92.323,
+        "tot_100": 50,
+        "tot_attempted": 55,
+        "avg_attempts": 5.0,
+        "avg_time_to_best_grade": 199083.145,
+        "avg_days_since_beginning": 39.309
+    },
+    "nszelagowski": {
+        "avg_best_grade": 89.045,
+        "tot_100": 49,
+        "tot_attempted": 57,
+        "avg_attempts": 3.298,
+        "avg_time_to_best_grade": 154881.684,
+        "avg_days_since_beginning": 65.474
+    },
+    "mux99": {
+        "avg_best_grade": 88.226,
+        "tot_100": 49,
+        "tot_attempted": 57,
+        "avg_attempts": 4.596,
+        "avg_time_to_best_grade": 10616.789,
+        "avg_days_since_beginning": 32.298
+    },
+    "Antoinesepulchre": {
+        "avg_best_grade": 79.365,
+        "tot_100": 50,
+        "tot_attempted": 63,
+        "avg_attempts": 5.841,
+        "avg_time_to_best_grade": 298758.952,
+        "avg_days_since_beginning": 69.048
+    },
+    "opponcelet": {
+        "avg_best_grade": 98.039,
+        "tot_100": 50,
+        "tot_attempted": 51,
+        "avg_attempts": 5.686,
+        "avg_time_to_best_grade": 2005.784,
+        "avg_days_since_beginning": 137.098
+    },
+    "baram": {
+        "avg_best_grade": 95.94,
+        "tot_100": 49,
+        "tot_attempted": 52,
+        "avg_attempts": 4.692,
+        "avg_time_to_best_grade": 3307.0,
+        "avg_days_since_beginning": 57.769
+    },
+    "Alban": {
+        "avg_best_grade": 79.048,
+        "tot_100": 49,
+        "tot_attempted": 63,
+        "avg_attempts": 4.063,
+        "avg_time_to_best_grade": 77327.413,
+        "avg_days_since_beginning": 44.873
+    },
+    "alevieux": {
+        "avg_best_grade": 90.0,
+        "tot_100": 49,
+        "tot_attempted": 55,
+        "avg_attempts": 2.4,
+        "avg_time_to_best_grade": 301926.836,
+        "avg_days_since_beginning": 105.8
+    },
+    "dSchorochoff": {
+        "avg_best_grade": 85.926,
+        "tot_100": 47,
+        "tot_attempted": 57,
+        "avg_attempts": 3.105,
+        "avg_time_to_best_grade": 279.105,
+        "avg_days_since_beginning": 63.439
+    },
+    "pbizimana": {
+        "avg_best_grade": 90.943,
+        "tot_100": 48,
+        "tot_attempted": 53,
+        "avg_attempts": 6.755,
+        "avg_time_to_best_grade": 1055498.057,
+        "avg_days_since_beginning": 226.679
+    },
+    "rlandes": {
+        "avg_best_grade": 96.0,
+        "tot_100": 48,
+        "tot_attempted": 50,
+        "avg_attempts": 2.42,
+        "avg_time_to_best_grade": 7818.34,
+        "avg_days_since_beginning": 29.86
+    },
+    "dacruzfurtad": {
+        "avg_best_grade": 87.273,
+        "tot_100": 48,
+        "tot_attempted": 55,
+        "avg_attempts": 4.636,
+        "avg_time_to_best_grade": 76140.091,
+        "avg_days_since_beginning": 34.727
+    },
+    "detryv": {
+        "avg_best_grade": 76.19,
+        "tot_100": 48,
+        "tot_attempted": 63,
+        "avg_attempts": 8.397,
+        "avg_time_to_best_grade": 1506197.968,
+        "avg_days_since_beginning": 147.889
+    },
+    "Moriau": {
+        "avg_best_grade": 96.0,
+        "tot_100": 48,
+        "tot_attempted": 50,
+        "avg_attempts": 4.82,
+        "avg_time_to_best_grade": 133260.9,
+        "avg_days_since_beginning": 38.14
+    },
+    "cbakashika": {
+        "avg_best_grade": 71.642,
+        "tot_100": 48,
+        "tot_attempted": 67,
+        "avg_attempts": 14.149,
+        "avg_time_to_best_grade": 2627698.045,
+        "avg_days_since_beginning": 179.403
+    },
+    "jeremie": {
+        "avg_best_grade": 93.725,
+        "tot_100": 47,
+        "tot_attempted": 51,
+        "avg_attempts": 4.176,
+        "avg_time_to_best_grade": 1944.392,
+        "avg_days_since_beginning": 125.529
+    },
+    "JD_10": {
+        "avg_best_grade": 90.189,
+        "tot_100": 47,
+        "tot_attempted": 53,
+        "avg_attempts": 2.906,
+        "avg_time_to_best_grade": 9992.434,
+        "avg_days_since_beginning": 59.509
+    },
+    "ncorbisier": {
+        "avg_best_grade": 88.148,
+        "tot_100": 46,
+        "tot_attempted": 54,
+        "avg_attempts": 3.759,
+        "avg_time_to_best_grade": 136075.185,
+        "avg_days_since_beginning": 56.0
+    },
+    "nunezkessler": {
+        "avg_best_grade": 79.278,
+        "tot_100": 47,
+        "tot_attempted": 60,
+        "avg_attempts": 9.683,
+        "avg_time_to_best_grade": 877252.7,
+        "avg_days_since_beginning": 169.517
+    },
+    "ldomine": {
+        "avg_best_grade": 70.896,
+        "tot_100": 45,
+        "tot_attempted": 67,
+        "avg_attempts": 6.045,
+        "avg_time_to_best_grade": 1957845.94,
+        "avg_days_since_beginning": 256.761
+    },
+    "martbernard": {
+        "avg_best_grade": 81.59,
+        "tot_100": 45,
+        "tot_attempted": 58,
+        "avg_attempts": 3.0,
+        "avg_time_to_best_grade": 577950.931,
+        "avg_days_since_beginning": 186.259
+    },
+    "ageonet": {
+        "avg_best_grade": 88.679,
+        "tot_100": 47,
+        "tot_attempted": 53,
+        "avg_attempts": 4.811,
+        "avg_time_to_best_grade": 102745.792,
+        "avg_days_since_beginning": 46.415
+    },
+    "jeromelct": {
+        "avg_best_grade": 87.037,
+        "tot_100": 47,
+        "tot_attempted": 54,
+        "avg_attempts": 7.87,
+        "avg_time_to_best_grade": 1793715.333,
+        "avg_days_since_beginning": 107.148
+    },
+    "schmitzjo": {
+        "avg_best_grade": 79.661,
+        "tot_100": 47,
+        "tot_attempted": 59,
+        "avg_attempts": 4.458,
+        "avg_time_to_best_grade": 224435.0,
+        "avg_days_since_beginning": 82.729
+    },
+    "clingier": {
+        "avg_best_grade": 92.157,
+        "tot_100": 47,
+        "tot_attempted": 51,
+        "avg_attempts": 6.255,
+        "avg_time_to_best_grade": 80625.0,
+        "avg_days_since_beginning": 94.902
+    },
+    "youmour": {
+        "avg_best_grade": 85.192,
+        "tot_100": 44,
+        "tot_attempted": 55,
+        "avg_attempts": 4.091,
+        "avg_time_to_best_grade": 913.291,
+        "avg_days_since_beginning": 154.436
+    },
+    "valentint": {
+        "avg_best_grade": 76.735,
+        "tot_100": 44,
+        "tot_attempted": 61,
+        "avg_attempts": 4.508,
+        "avg_time_to_best_grade": 346358.393,
+        "avg_days_since_beginning": 73.295
+    },
+    "legrua": {
+        "avg_best_grade": 77.778,
+        "tot_100": 46,
+        "tot_attempted": 60,
+        "avg_attempts": 7.117,
+        "avg_time_to_best_grade": 381754.1,
+        "avg_days_since_beginning": 57.65
+    },
+    "zhangyuh": {
+        "avg_best_grade": 85.473,
+        "tot_100": 45,
+        "tot_attempted": 54,
+        "avg_attempts": 5.352,
+        "avg_time_to_best_grade": 382.463,
+        "avg_days_since_beginning": 47.926
+    },
+    "Nathan": {
+        "avg_best_grade": 93.878,
+        "tot_100": 46,
+        "tot_attempted": 49,
+        "avg_attempts": 4.571,
+        "avg_time_to_best_grade": 4114.408,
+        "avg_days_since_beginning": 31.673
+    },
+    "hugo": {
+        "avg_best_grade": 66.634,
+        "tot_100": 43,
+        "tot_attempted": 68,
+        "avg_attempts": 7.103,
+        "avg_time_to_best_grade": 1009559.338,
+        "avg_days_since_beginning": 103.074
+    },
+    "3032-18-00": {
+        "avg_best_grade": 71.746,
+        "tot_100": 44,
+        "tot_attempted": 63,
+        "avg_attempts": 11.762,
+        "avg_time_to_best_grade": 818404.032,
+        "avg_days_since_beginning": 201.254
+    },
+    "adrital": {
+        "avg_best_grade": 93.75,
+        "tot_100": 45,
+        "tot_attempted": 48,
+        "avg_attempts": 5.5,
+        "avg_time_to_best_grade": 40109.792,
+        "avg_days_since_beginning": 91.458
+    },
+    "collado": {
+        "avg_best_grade": 90.839,
+        "tot_100": 44,
+        "tot_attempted": 49,
+        "avg_attempts": 5.204,
+        "avg_time_to_best_grade": 1099924.837,
+        "avg_days_since_beginning": 67.653
+    },
+    "ecreten": {
+        "avg_best_grade": 88.8,
+        "tot_100": 44,
+        "tot_attempted": 50,
+        "avg_attempts": 8.28,
+        "avg_time_to_best_grade": 1282954.44,
+        "avg_days_since_beginning": 142.4
+    },
+    "mens": {
+        "avg_best_grade": 97.778,
+        "tot_100": 44,
+        "tot_attempted": 45,
+        "avg_attempts": 4.822,
+        "avg_time_to_best_grade": 125596.956,
+        "avg_days_since_beginning": -90.489
+    },
+    "alaurez": {
+        "avg_best_grade": 93.617,
+        "tot_100": 44,
+        "tot_attempted": 47,
+        "avg_attempts": 3.021,
+        "avg_time_to_best_grade": 30243.766,
+        "avg_days_since_beginning": 107.106
+    },
+    "ccardondelic": {
+        "avg_best_grade": 93.617,
+        "tot_100": 44,
+        "tot_attempted": 47,
+        "avg_attempts": 4.872,
+        "avg_time_to_best_grade": 164376.17,
+        "avg_days_since_beginning": 102.128
+    },
+    "mernierj": {
+        "avg_best_grade": 68.254,
+        "tot_100": 43,
+        "tot_attempted": 63,
+        "avg_attempts": 5.683,
+        "avg_time_to_best_grade": 805435.54,
+        "avg_days_since_beginning": 80.365
+    },
+    "bploumhans": {
+        "avg_best_grade": 95.556,
+        "tot_100": 43,
+        "tot_attempted": 45,
+        "avg_attempts": 2.933,
+        "avg_time_to_best_grade": 151.222,
+        "avg_days_since_beginning": 44.978
+    },
+    "senincordo": {
+        "avg_best_grade": 97.727,
+        "tot_100": 43,
+        "tot_attempted": 44,
+        "avg_attempts": 4.727,
+        "avg_time_to_best_grade": 1354.727,
+        "avg_days_since_beginning": 27.795
+    },
+    "lannoyed": {
+        "avg_best_grade": 82.692,
+        "tot_100": 43,
+        "tot_attempted": 52,
+        "avg_attempts": 4.0,
+        "avg_time_to_best_grade": 32183.173,
+        "avg_days_since_beginning": 54.269
+    },
+    "AquaBaltus": {
+        "avg_best_grade": 76.488,
+        "tot_100": 42,
+        "tot_attempted": 56,
+        "avg_attempts": 5.25,
+        "avg_time_to_best_grade": 94731.893,
+        "avg_days_since_beginning": 106.339
+    },
+    "vandewalleni": {
+        "avg_best_grade": 90.78,
+        "tot_100": 42,
+        "tot_attempted": 47,
+        "avg_attempts": 2.915,
+        "avg_time_to_best_grade": 356.681,
+        "avg_days_since_beginning": 45.851
+    },
+    "michelalex": {
+        "avg_best_grade": 81.838,
+        "tot_100": 42,
+        "tot_attempted": 52,
+        "avg_attempts": 6.442,
+        "avg_time_to_best_grade": 12389.923,
+        "avg_days_since_beginning": 40.981
+    },
+    "hsonnet": {
+        "avg_best_grade": 80.0,
+        "tot_100": 42,
+        "tot_attempted": 53,
+        "avg_attempts": 10.377,
+        "avg_time_to_best_grade": 2229992.943,
+        "avg_days_since_beginning": 184.849
+    },
+    "DiegoML": {
+        "avg_best_grade": 79.623,
+        "tot_100": 42,
+        "tot_attempted": 53,
+        "avg_attempts": 5.0,
+        "avg_time_to_best_grade": 38276.094,
+        "avg_days_since_beginning": 38.094
+    },
+    "tvantongelen": {
+        "avg_best_grade": 89.362,
+        "tot_100": 42,
+        "tot_attempted": 47,
+        "avg_attempts": 5.17,
+        "avg_time_to_best_grade": 390066.702,
+        "avg_days_since_beginning": 47.149
+    },
+    "comartinot": {
+        "avg_best_grade": 97.674,
+        "tot_100": 42,
+        "tot_attempted": 43,
+        "avg_attempts": 3.07,
+        "avg_time_to_best_grade": 79268.674,
+        "avg_days_since_beginning": 256.442
+    },
+    "Argolenvaux": {
+        "avg_best_grade": 77.593,
+        "tot_100": 41,
+        "tot_attempted": 54,
+        "avg_attempts": 2.815,
+        "avg_time_to_best_grade": 231800.056,
+        "avg_days_since_beginning": 82.685
+    },
+    "maxime1661": {
+        "avg_best_grade": 89.125,
+        "tot_100": 41,
+        "tot_attempted": 47,
+        "avg_attempts": 6.638,
+        "avg_time_to_best_grade": 33234.064,
+        "avg_days_since_beginning": 100.362
+    },
+    "mboyens": {
+        "avg_best_grade": 81.917,
+        "tot_100": 41,
+        "tot_attempted": 51,
+        "avg_attempts": 3.745,
+        "avg_time_to_best_grade": 259.373,
+        "avg_days_since_beginning": 89.471
+    },
+    "smatout": {
+        "avg_best_grade": 83.35,
+        "tot_100": 38,
+        "tot_attempted": 50,
+        "avg_attempts": 6.24,
+        "avg_time_to_best_grade": 1406445.18,
+        "avg_days_since_beginning": 102.36
+    },
+    "Acha": {
+        "avg_best_grade": 86.181,
+        "tot_100": 41,
+        "tot_attempted": 48,
+        "avg_attempts": 4.875,
+        "avg_time_to_best_grade": 3053218.0,
+        "avg_days_since_beginning": 253.979
+    },
+    "chriskafrouni": {
+        "avg_best_grade": 71.207,
+        "tot_100": 40,
+        "tot_attempted": 58,
+        "avg_attempts": 4.534,
+        "avg_time_to_best_grade": 205158.672,
+        "avg_days_since_beginning": 60.466
+    },
+    "hdetollenaer": {
+        "avg_best_grade": 89.13,
+        "tot_100": 41,
+        "tot_attempted": 46,
+        "avg_attempts": 4.348,
+        "avg_time_to_best_grade": 888463.63,
+        "avg_days_since_beginning": 114.391
+    },
+    "michelfra": {
+        "avg_best_grade": 87.234,
+        "tot_100": 41,
+        "tot_attempted": 47,
+        "avg_attempts": 4.213,
+        "avg_time_to_best_grade": 649682.106,
+        "avg_days_since_beginning": 27.787
+    },
+    "damienvanold": {
+        "avg_best_grade": 82.0,
+        "tot_100": 41,
+        "tot_attempted": 50,
+        "avg_attempts": 4.74,
+        "avg_time_to_best_grade": 42430.12,
+        "avg_days_since_beginning": 52.16
+    },
+    "Guillaume": {
+        "avg_best_grade": 73.214,
+        "tot_100": 41,
+        "tot_attempted": 56,
+        "avg_attempts": 4.25,
+        "avg_time_to_best_grade": 24999.786,
+        "avg_days_since_beginning": 56.411
+    },
+    "gquerinjean": {
+        "avg_best_grade": 69.407,
+        "tot_100": 40,
+        "tot_attempted": 59,
+        "avg_attempts": 3.458,
+        "avg_time_to_best_grade": 471112.407,
+        "avg_days_since_beginning": 80.729
+    },
+    "llovat": {
+        "avg_best_grade": 78.632,
+        "tot_100": 40,
+        "tot_attempted": 52,
+        "avg_attempts": 4.192,
+        "avg_time_to_best_grade": 553.135,
+        "avg_days_since_beginning": 50.231
+    },
+    "rgatabazi": {
+        "avg_best_grade": 87.681,
+        "tot_100": 40,
+        "tot_attempted": 46,
+        "avg_attempts": 5.935,
+        "avg_time_to_best_grade": 1015159.261,
+        "avg_days_since_beginning": 106.478
+    },
+    "maxiremix": {
+        "avg_best_grade": 76.101,
+        "tot_100": 40,
+        "tot_attempted": 53,
+        "avg_attempts": 13.151,
+        "avg_time_to_best_grade": 186631.943,
+        "avg_days_since_beginning": 215.075
+    },
+    "thiryfaulkne": {
+        "avg_best_grade": 87.391,
+        "tot_100": 40,
+        "tot_attempted": 46,
+        "avg_attempts": 6.674,
+        "avg_time_to_best_grade": 1117057.391,
+        "avg_days_since_beginning": 180.217
+    },
+    "pcauderlier": {
+        "avg_best_grade": 80.4,
+        "tot_100": 40,
+        "tot_attempted": 50,
+        "avg_attempts": 2.62,
+        "avg_time_to_best_grade": 154.8,
+        "avg_days_since_beginning": 98.42
+    },
+    "claerhoutj": {
+        "avg_best_grade": 70.268,
+        "tot_100": 37,
+        "tot_attempted": 57,
+        "avg_attempts": 4.842,
+        "avg_time_to_best_grade": 638918.614,
+        "avg_days_since_beginning": 82.614
+    },
+    "tascongutier": {
+        "avg_best_grade": 97.561,
+        "tot_100": 40,
+        "tot_attempted": 41,
+        "avg_attempts": 2.78,
+        "avg_time_to_best_grade": 121.585,
+        "avg_days_since_beginning": 41.976
+    },
+    "cecrochet": {
+        "avg_best_grade": 81.633,
+        "tot_100": 40,
+        "tot_attempted": 49,
+        "avg_attempts": 3.918,
+        "avg_time_to_best_grade": 500492.735,
+        "avg_days_since_beginning": 119.286
+    },
+    "evantongelen": {
+        "avg_best_grade": 88.889,
+        "tot_100": 40,
+        "tot_attempted": 45,
+        "avg_attempts": 6.311,
+        "avg_time_to_best_grade": 949131.4,
+        "avg_days_since_beginning": 108.578
+    },
+    "clelu": {
+        "avg_best_grade": 82.639,
+        "tot_100": 39,
+        "tot_attempted": 48,
+        "avg_attempts": 5.75,
+        "avg_time_to_best_grade": 61174.896,
+        "avg_days_since_beginning": 71.062
+    },
+    "cdeterme": {
+        "avg_best_grade": 75.385,
+        "tot_100": 39,
+        "tot_attempted": 52,
+        "avg_attempts": 6.635,
+        "avg_time_to_best_grade": 24468.962,
+        "avg_days_since_beginning": 121.038
+    },
+    "Argaland": {
+        "avg_best_grade": 92.857,
+        "tot_100": 39,
+        "tot_attempted": 42,
+        "avg_attempts": 4.048,
+        "avg_time_to_best_grade": 339433.69,
+        "avg_days_since_beginning": 106.857
+    },
+    "fmonette": {
+        "avg_best_grade": 62.903,
+        "tot_100": 39,
+        "tot_attempted": 62,
+        "avg_attempts": 4.081,
+        "avg_time_to_best_grade": 420884.419,
+        "avg_days_since_beginning": 72.742
+    },
+    "antoine-balthazar": {
+        "avg_best_grade": 82.648,
+        "tot_100": 38,
+        "tot_attempted": 47,
+        "avg_attempts": 3.17,
+        "avg_time_to_best_grade": 186056.936,
+        "avg_days_since_beginning": 60.66
+    },
+    "qlecart": {
+        "avg_best_grade": 96.0,
+        "tot_100": 38,
+        "tot_attempted": 40,
+        "avg_attempts": 6.125,
+        "avg_time_to_best_grade": 444076.175,
+        "avg_days_since_beginning": 105.125
+    },
+    "aweil": {
+        "avg_best_grade": 92.683,
+        "tot_100": 38,
+        "tot_attempted": 41,
+        "avg_attempts": 3.78,
+        "avg_time_to_best_grade": 501.146,
+        "avg_days_since_beginning": 140.707
+    },
+    "lbarras": {
+        "avg_best_grade": 81.739,
+        "tot_100": 36,
+        "tot_attempted": 46,
+        "avg_attempts": 2.522,
+        "avg_time_to_best_grade": 30156.0,
+        "avg_days_since_beginning": 99.261
+    },
+    "mihail": {
+        "avg_best_grade": 72.549,
+        "tot_100": 37,
+        "tot_attempted": 51,
+        "avg_attempts": 9.059,
+        "avg_time_to_best_grade": 148399.216,
+        "avg_days_since_beginning": 52.922
+    },
+    "mathyvi": {
+        "avg_best_grade": 90.244,
+        "tot_100": 37,
+        "tot_attempted": 41,
+        "avg_attempts": 6.829,
+        "avg_time_to_best_grade": 304483.146,
+        "avg_days_since_beginning": 100.585
+    },
+    "Louis_Valkenberg": {
+        "avg_best_grade": 86.905,
+        "tot_100": 36,
+        "tot_attempted": 42,
+        "avg_attempts": 3.19,
+        "avg_time_to_best_grade": 278114.786,
+        "avg_days_since_beginning": 78.833
+    },
+    "mawait": {
+        "avg_best_grade": 97.297,
+        "tot_100": 36,
+        "tot_attempted": 37,
+        "avg_attempts": 2.27,
+        "avg_time_to_best_grade": 23319.676,
+        "avg_days_since_beginning": 18.946
+    },
+    "tdomino": {
+        "avg_best_grade": 83.721,
+        "tot_100": 36,
+        "tot_attempted": 43,
+        "avg_attempts": 3.814,
+        "avg_time_to_best_grade": 569.326,
+        "avg_days_since_beginning": 53.581
+    },
+    "Ethan": {
+        "avg_best_grade": 69.02,
+        "tot_100": 35,
+        "tot_attempted": 51,
+        "avg_attempts": 5.941,
+        "avg_time_to_best_grade": 393539.451,
+        "avg_days_since_beginning": 70.314
+    },
+    "vjaupart": {
+        "avg_best_grade": 89.744,
+        "tot_100": 35,
+        "tot_attempted": 39,
+        "avg_attempts": 9.179,
+        "avg_time_to_best_grade": 238086.179,
+        "avg_days_since_beginning": 120.077
+    },
+    "Ilias": {
+        "avg_best_grade": 66.038,
+        "tot_100": 35,
+        "tot_attempted": 53,
+        "avg_attempts": 6.472,
+        "avg_time_to_best_grade": 1585.868,
+        "avg_days_since_beginning": 55.792
+    },
+    "onciul": {
+        "avg_best_grade": 90.21,
+        "tot_100": 32,
+        "tot_attempted": 37,
+        "avg_attempts": 4.703,
+        "avg_time_to_best_grade": 105342.216,
+        "avg_days_since_beginning": 68.351
+    },
+    "SimonG": {
+        "avg_best_grade": 84.872,
+        "tot_100": 32,
+        "tot_attempted": 39,
+        "avg_attempts": 5.821,
+        "avg_time_to_best_grade": 123130.821,
+        "avg_days_since_beginning": 35.795
+    },
+    "piremacle": {
+        "avg_best_grade": 86.842,
+        "tot_100": 33,
+        "tot_attempted": 38,
+        "avg_attempts": 8.947,
+        "avg_time_to_best_grade": 6075.395,
+        "avg_days_since_beginning": 84.895
+    },
+    "SGerard": {
+        "avg_best_grade": 66.0,
+        "tot_100": 33,
+        "tot_attempted": 50,
+        "avg_attempts": 4.54,
+        "avg_time_to_best_grade": 266072.76,
+        "avg_days_since_beginning": 51.58
+    },
+    "fvan": {
+        "avg_best_grade": 94.286,
+        "tot_100": 33,
+        "tot_attempted": 35,
+        "avg_attempts": 3.2,
+        "avg_time_to_best_grade": 757049.057,
+        "avg_days_since_beginning": 131.657
+    },
+    "Ryan": {
+        "avg_best_grade": 100.0,
+        "tot_100": 33,
+        "tot_attempted": 33,
+        "avg_attempts": 3.97,
+        "avg_time_to_best_grade": 222.667,
+        "avg_days_since_beginning": 251.606
+    },
+    "edelaminnede": {
+        "avg_best_grade": 89.092,
+        "tot_100": 31,
+        "tot_attempted": 37,
+        "avg_attempts": 2.595,
+        "avg_time_to_best_grade": 356.243,
+        "avg_days_since_beginning": 52.216
+    },
+    "Leon": {
+        "avg_best_grade": 99.663,
+        "tot_100": 32,
+        "tot_attempted": 33,
+        "avg_attempts": 6.091,
+        "avg_time_to_best_grade": 12755.818,
+        "avg_days_since_beginning": 43.667
+    },
+    "LouisSartenaer": {
+        "avg_best_grade": 75.349,
+        "tot_100": 32,
+        "tot_attempted": 43,
+        "avg_attempts": 4.628,
+        "avg_time_to_best_grade": 12066.953,
+        "avg_days_since_beginning": 73.86
+    },
+    "clesses": {
+        "avg_best_grade": 100.0,
+        "tot_100": 32,
+        "tot_attempted": 32,
+        "avg_attempts": 3.75,
+        "avg_time_to_best_grade": 9983.938,
+        "avg_days_since_beginning": 129.125
+    },
+    "wweber": {
+        "avg_best_grade": 84.211,
+        "tot_100": 32,
+        "tot_attempted": 38,
+        "avg_attempts": 8.316,
+        "avg_time_to_best_grade": 4017291.395,
+        "avg_days_since_beginning": 242.395
+    },
+    "Vincent": {
+        "avg_best_grade": 80.513,
+        "tot_100": 31,
+        "tot_attempted": 39,
+        "avg_attempts": 9.077,
+        "avg_time_to_best_grade": 520984.897,
+        "avg_days_since_beginning": 164.974
+    },
+    "HaoYueming": {
+        "avg_best_grade": 80.0,
+        "tot_100": 31,
+        "tot_attempted": 39,
+        "avg_attempts": 2.846,
+        "avg_time_to_best_grade": 354.564,
+        "avg_days_since_beginning": 118.564
+    },
+    "declerckma": {
+        "avg_best_grade": 88.857,
+        "tot_100": 30,
+        "tot_attempted": 35,
+        "avg_attempts": 7.2,
+        "avg_time_to_best_grade": 321287.4,
+        "avg_days_since_beginning": 30.6
+    },
+    "sirine": {
+        "avg_best_grade": 92.121,
+        "tot_100": 30,
+        "tot_attempted": 33,
+        "avg_attempts": 5.758,
+        "avg_time_to_best_grade": 204455.818,
+        "avg_days_since_beginning": 92.909
+    },
+    "Hakim007": {
+        "avg_best_grade": 54.206,
+        "tot_100": 27,
+        "tot_attempted": 56,
+        "avg_attempts": 6.286,
+        "avg_time_to_best_grade": 444760.661,
+        "avg_days_since_beginning": 85.982
+    },
+    "jchansaywilm": {
+        "avg_best_grade": 79.474,
+        "tot_100": 30,
+        "tot_attempted": 38,
+        "avg_attempts": 3.974,
+        "avg_time_to_best_grade": 160.816,
+        "avg_days_since_beginning": 51.053
+    },
+    "gglesner": {
+        "avg_best_grade": 84.825,
+        "tot_100": 28,
+        "tot_attempted": 35,
+        "avg_attempts": 3.914,
+        "avg_time_to_best_grade": 431.829,
+        "avg_days_since_beginning": 60.771
+    },
+    "fchenoy": {
+        "avg_best_grade": 74.167,
+        "tot_100": 28,
+        "tot_attempted": 40,
+        "avg_attempts": 3.575,
+        "avg_time_to_best_grade": 26884.325,
+        "avg_days_since_beginning": 37.775
+    },
+    "raantoine": {
+        "avg_best_grade": 89.697,
+        "tot_100": 29,
+        "tot_attempted": 33,
+        "avg_attempts": 9.152,
+        "avg_time_to_best_grade": 1505076.273,
+        "avg_days_since_beginning": 139.636
+    },
+    "Barghest": {
+        "avg_best_grade": 90.625,
+        "tot_100": 29,
+        "tot_attempted": 32,
+        "avg_attempts": 3.906,
+        "avg_time_to_best_grade": 56728.719,
+        "avg_days_since_beginning": 43.656
+    },
+    "peltierl": {
+        "avg_best_grade": 61.702,
+        "tot_100": 29,
+        "tot_attempted": 47,
+        "avg_attempts": 5.149,
+        "avg_time_to_best_grade": 91825.34,
+        "avg_days_since_beginning": 46.681
+    },
+    "matduchene": {
+        "avg_best_grade": 87.879,
+        "tot_100": 29,
+        "tot_attempted": 33,
+        "avg_attempts": 4.121,
+        "avg_time_to_best_grade": 66366.697,
+        "avg_days_since_beginning": 24.0
+    },
+    "Jercharlier": {
+        "avg_best_grade": 90.625,
+        "tot_100": 29,
+        "tot_attempted": 32,
+        "avg_attempts": 2.844,
+        "avg_time_to_best_grade": 550925.625,
+        "avg_days_since_beginning": 107.062
+    },
+    "vuille": {
+        "avg_best_grade": 72.41,
+        "tot_100": 26,
+        "tot_attempted": 40,
+        "avg_attempts": 5.225,
+        "avg_time_to_best_grade": 554094.0,
+        "avg_days_since_beginning": 84.75
+    },
+    "Badak": {
+        "avg_best_grade": 82.286,
+        "tot_100": 28,
+        "tot_attempted": 35,
+        "avg_attempts": 5.543,
+        "avg_time_to_best_grade": 142903.971,
+        "avg_days_since_beginning": 207.486
+    },
+    "ManonMuraille": {
+        "avg_best_grade": 63.704,
+        "tot_100": 28,
+        "tot_attempted": 45,
+        "avg_attempts": 5.644,
+        "avg_time_to_best_grade": 137994.511,
+        "avg_days_since_beginning": 38.844
+    },
+    "TheoLeonard": {
+        "avg_best_grade": 59.091,
+        "tot_100": 26,
+        "tot_attempted": 48,
+        "avg_attempts": 4.521,
+        "avg_time_to_best_grade": 144121.583,
+        "avg_days_since_beginning": 83.646
+    },
+    "Antoine-ingi-info-2018": {
+        "avg_best_grade": 69.106,
+        "tot_100": 28,
+        "tot_attempted": 41,
+        "avg_attempts": 5.927,
+        "avg_time_to_best_grade": 82625.927,
+        "avg_days_since_beginning": 35.488
+    },
+    "quen": {
+        "avg_best_grade": 73.684,
+        "tot_100": 28,
+        "tot_attempted": 38,
+        "avg_attempts": 5.658,
+        "avg_time_to_best_grade": 483262.105,
+        "avg_days_since_beginning": 80.0
+    },
+    "martinflor": {
+        "avg_best_grade": 90.323,
+        "tot_100": 28,
+        "tot_attempted": 31,
+        "avg_attempts": 3.194,
+        "avg_time_to_best_grade": 206.677,
+        "avg_days_since_beginning": 70.806
+    },
+    "rolannoy": {
+        "avg_best_grade": 71.795,
+        "tot_100": 27,
+        "tot_attempted": 39,
+        "avg_attempts": 6.974,
+        "avg_time_to_best_grade": 1828550.846,
+        "avg_days_since_beginning": 225.179
+    },
+    "jedewandre": {
+        "avg_best_grade": 93.333,
+        "tot_100": 28,
+        "tot_attempted": 30,
+        "avg_attempts": 13.1,
+        "avg_time_to_best_grade": 192616.967,
+        "avg_days_since_beginning": -120.167
+    },
+    "wmarette": {
+        "avg_best_grade": 71.053,
+        "tot_100": 27,
+        "tot_attempted": 38,
+        "avg_attempts": 5.474,
+        "avg_time_to_best_grade": 160.184,
+        "avg_days_since_beginning": 35.974
+    },
+    "elipeeters": {
+        "avg_best_grade": 87.097,
+        "tot_100": 27,
+        "tot_attempted": 31,
+        "avg_attempts": 3.903,
+        "avg_time_to_best_grade": 191.065,
+        "avg_days_since_beginning": 96.032
+    },
+    "nheuzer": {
+        "avg_best_grade": 76.471,
+        "tot_100": 26,
+        "tot_attempted": 34,
+        "avg_attempts": 2.088,
+        "avg_time_to_best_grade": 118.824,
+        "avg_days_since_beginning": 46.765
+    },
+    "gsavarykerne": {
+        "avg_best_grade": 96.296,
+        "tot_100": 26,
+        "tot_attempted": 27,
+        "avg_attempts": 3.185,
+        "avg_time_to_best_grade": 120.0,
+        "avg_days_since_beginning": 40.037
+    },
+    "cganshof": {
+        "avg_best_grade": 74.286,
+        "tot_100": 26,
+        "tot_attempted": 35,
+        "avg_attempts": 3.514,
+        "avg_time_to_best_grade": 41579.429,
+        "avg_days_since_beginning": 72.4
+    },
+    "lgabrys": {
+        "avg_best_grade": 86.207,
+        "tot_100": 25,
+        "tot_attempted": 29,
+        "avg_attempts": 5.862,
+        "avg_time_to_best_grade": 1781.207,
+        "avg_days_since_beginning": 43.862
+    },
+    "wiberg": {
+        "avg_best_grade": 80.645,
+        "tot_100": 25,
+        "tot_attempted": 31,
+        "avg_attempts": 5.161,
+        "avg_time_to_best_grade": 70169.548,
+        "avg_days_since_beginning": 40.871
+    },
+    "lemazongbelo": {
+        "avg_best_grade": 86.207,
+        "tot_100": 25,
+        "tot_attempted": 29,
+        "avg_attempts": 5.414,
+        "avg_time_to_best_grade": 1081.862,
+        "avg_days_since_beginning": 222.103
+    },
+    "soenena": {
+        "avg_best_grade": 92.593,
+        "tot_100": 25,
+        "tot_attempted": 27,
+        "avg_attempts": 7.333,
+        "avg_time_to_best_grade": 190495.556,
+        "avg_days_since_beginning": 69.889
+    },
+    "Nikola": {
+        "avg_best_grade": 86.207,
+        "tot_100": 25,
+        "tot_attempted": 29,
+        "avg_attempts": 3.207,
+        "avg_time_to_best_grade": 11352.448,
+        "avg_days_since_beginning": 361.483
+    },
+    "Phytinfo": {
+        "avg_best_grade": 78.71,
+        "tot_100": 24,
+        "tot_attempted": 31,
+        "avg_attempts": 3.258,
+        "avg_time_to_best_grade": 6799.839,
+        "avg_days_since_beginning": 28.065
+    },
+    "Justin": {
+        "avg_best_grade": 85.714,
+        "tot_100": 24,
+        "tot_attempted": 28,
+        "avg_attempts": 4.786,
+        "avg_time_to_best_grade": 683672.071,
+        "avg_days_since_beginning": 50.179
+    },
+    "Vincent123": {
+        "avg_best_grade": 85.714,
+        "tot_100": 24,
+        "tot_attempted": 28,
+        "avg_attempts": 5.714,
+        "avg_time_to_best_grade": 592420.321,
+        "avg_days_since_beginning": 117.25
+    },
+    "abuckens": {
+        "avg_best_grade": 96.0,
+        "tot_100": 24,
+        "tot_attempted": 25,
+        "avg_attempts": 3.0,
+        "avg_time_to_best_grade": 7019.88,
+        "avg_days_since_beginning": 24.04
+    },
+    "idenayer": {
+        "avg_best_grade": 96.0,
+        "tot_100": 24,
+        "tot_attempted": 25,
+        "avg_attempts": 2.64,
+        "avg_time_to_best_grade": 1330.4,
+        "avg_days_since_beginning": 40.2
+    },
+    "lienardt": {
+        "avg_best_grade": 92.308,
+        "tot_100": 24,
+        "tot_attempted": 26,
+        "avg_attempts": 4.692,
+        "avg_time_to_best_grade": 323.308,
+        "avg_days_since_beginning": 100.962
+    },
+    "Romainpkq": {
+        "avg_best_grade": 76.344,
+        "tot_100": 23,
+        "tot_attempted": 31,
+        "avg_attempts": 3.097,
+        "avg_time_to_best_grade": 196289.0,
+        "avg_days_since_beginning": 85.806
+    },
+    "chenutc": {
+        "avg_best_grade": 85.185,
+        "tot_100": 23,
+        "tot_attempted": 27,
+        "avg_attempts": 2.963,
+        "avg_time_to_best_grade": 368.148,
+        "avg_days_since_beginning": 48.481
+    },
+    "gervaisc": {
+        "avg_best_grade": 85.185,
+        "tot_100": 23,
+        "tot_attempted": 27,
+        "avg_attempts": 9.593,
+        "avg_time_to_best_grade": 300.074,
+        "avg_days_since_beginning": 122.778
+    },
+    "valinykounda": {
+        "avg_best_grade": 88.462,
+        "tot_100": 23,
+        "tot_attempted": 26,
+        "avg_attempts": 3.154,
+        "avg_time_to_best_grade": 655.846,
+        "avg_days_since_beginning": 96.192
+    },
+    "Thib": {
+        "avg_best_grade": 88.462,
+        "tot_100": 23,
+        "tot_attempted": 26,
+        "avg_attempts": 4.808,
+        "avg_time_to_best_grade": 287.615,
+        "avg_days_since_beginning": 44.154
+    },
+    "jgomez": {
+        "avg_best_grade": 100.0,
+        "tot_100": 22,
+        "tot_attempted": 22,
+        "avg_attempts": 3.5,
+        "avg_time_to_best_grade": 116.045,
+        "avg_days_since_beginning": 45.909
+    },
+    "timma": {
+        "avg_best_grade": 81.481,
+        "tot_100": 22,
+        "tot_attempted": 27,
+        "avg_attempts": 2.926,
+        "avg_time_to_best_grade": 67473.519,
+        "avg_days_since_beginning": 41.481
+    },
+    "chle": {
+        "avg_best_grade": 88.0,
+        "tot_100": 22,
+        "tot_attempted": 25,
+        "avg_attempts": 4.68,
+        "avg_time_to_best_grade": 130995.84,
+        "avg_days_since_beginning": 83.72
+    },
+    "aldoneux": {
+        "avg_best_grade": 87.5,
+        "tot_100": 21,
+        "tot_attempted": 24,
+        "avg_attempts": 4.625,
+        "avg_time_to_best_grade": 277817.75,
+        "avg_days_since_beginning": 44.375
+    },
+    "lemairethe": {
+        "avg_best_grade": 80.769,
+        "tot_100": 21,
+        "tot_attempted": 26,
+        "avg_attempts": 5.423,
+        "avg_time_to_best_grade": 3997.269,
+        "avg_days_since_beginning": 58.5
+    },
+    "theophile": {
+        "avg_best_grade": 61.005,
+        "tot_100": 17,
+        "tot_attempted": 34,
+        "avg_attempts": 3.882,
+        "avg_time_to_best_grade": 450082.324,
+        "avg_days_since_beginning": 100.676
+    },
+    "Haga": {
+        "avg_best_grade": 79.231,
+        "tot_100": 20,
+        "tot_attempted": 26,
+        "avg_attempts": 3.5,
+        "avg_time_to_best_grade": 207.962,
+        "avg_days_since_beginning": 36.885
+    },
+    "sbeauvois": {
+        "avg_best_grade": 96.296,
+        "tot_100": 20,
+        "tot_attempted": 21,
+        "avg_attempts": 2.571,
+        "avg_time_to_best_grade": 142.286,
+        "avg_days_since_beginning": 41.762
+    },
+    "nadecock": {
+        "avg_best_grade": 74.815,
+        "tot_100": 20,
+        "tot_attempted": 27,
+        "avg_attempts": 6.037,
+        "avg_time_to_best_grade": 474.148,
+        "avg_days_since_beginning": 54.111
+    },
+    "Armichot": {
+        "avg_best_grade": 77.019,
+        "tot_100": 17,
+        "tot_attempted": 26,
+        "avg_attempts": 5.115,
+        "avg_time_to_best_grade": 297725.769,
+        "avg_days_since_beginning": 46.846
+    },
+    "Jvanwichelen": {
+        "avg_best_grade": 80.0,
+        "tot_100": 20,
+        "tot_attempted": 25,
+        "avg_attempts": 5.36,
+        "avg_time_to_best_grade": 356125.28,
+        "avg_days_since_beginning": 53.36
+    },
+    "Romain": {
+        "avg_best_grade": 91.469,
+        "tot_100": 17,
+        "tot_attempted": 21,
+        "avg_attempts": 6.524,
+        "avg_time_to_best_grade": 2712578.095,
+        "avg_days_since_beginning": 174.762
+    },
+    "ldelaet": {
+        "avg_best_grade": 68.453,
+        "tot_100": 19,
+        "tot_attempted": 28,
+        "avg_attempts": 4.571,
+        "avg_time_to_best_grade": 348095.036,
+        "avg_days_since_beginning": 144.107
+    },
+    "grollinger": {
+        "avg_best_grade": 79.861,
+        "tot_100": 19,
+        "tot_attempted": 24,
+        "avg_attempts": 2.792,
+        "avg_time_to_best_grade": 69.833,
+        "avg_days_since_beginning": 49.75
+    },
+    "mzanella": {
+        "avg_best_grade": 90.0,
+        "tot_100": 18,
+        "tot_attempted": 20,
+        "avg_attempts": 3.25,
+        "avg_time_to_best_grade": 1014.5,
+        "avg_days_since_beginning": 42.9
+    },
+    "theleclercq": {
+        "avg_best_grade": 90.0,
+        "tot_100": 18,
+        "tot_attempted": 20,
+        "avg_attempts": 4.9,
+        "avg_time_to_best_grade": 160.6,
+        "avg_days_since_beginning": 230.2
+    },
+    "axstruys": {
+        "avg_best_grade": 100.0,
+        "tot_100": 18,
+        "tot_attempted": 18,
+        "avg_attempts": 2.778,
+        "avg_time_to_best_grade": 1257.444,
+        "avg_days_since_beginning": 352.667
+    },
+    "pbeltjens": {
+        "avg_best_grade": 81.818,
+        "tot_100": 18,
+        "tot_attempted": 22,
+        "avg_attempts": 2.591,
+        "avg_time_to_best_grade": 23.409,
+        "avg_days_since_beginning": 49.909
+    },
+    "TydgatB": {
+        "avg_best_grade": 79.836,
+        "tot_100": 15,
+        "tot_attempted": 22,
+        "avg_attempts": 3.864,
+        "avg_time_to_best_grade": 271212.409,
+        "avg_days_since_beginning": 98.318
+    },
+    "maximleclerc": {
+        "avg_best_grade": 70.833,
+        "tot_100": 17,
+        "tot_attempted": 24,
+        "avg_attempts": 4.083,
+        "avg_time_to_best_grade": 2769.75,
+        "avg_days_since_beginning": 32.25
+    },
+    "AntoineClarinval": {
+        "avg_best_grade": 77.273,
+        "tot_100": 17,
+        "tot_attempted": 22,
+        "avg_attempts": 5.318,
+        "avg_time_to_best_grade": 3197.045,
+        "avg_days_since_beginning": 61.364
+    },
+    "qlanglois": {
+        "avg_best_grade": 77.273,
+        "tot_100": 17,
+        "tot_attempted": 22,
+        "avg_attempts": 3.091,
+        "avg_time_to_best_grade": 63.955,
+        "avg_days_since_beginning": -7.091
+    },
+    "Eflore": {
+        "avg_best_grade": 52.5,
+        "tot_100": 16,
+        "tot_attempted": 32,
+        "avg_attempts": 4.969,
+        "avg_time_to_best_grade": 283209.5,
+        "avg_days_since_beginning": 58.5
+    },
+    "eleuthere": {
+        "avg_best_grade": 43.977,
+        "tot_100": 16,
+        "tot_attempted": 38,
+        "avg_attempts": 3.895,
+        "avg_time_to_best_grade": 98.842,
+        "avg_days_since_beginning": 62.395
+    },
+    "GuillaumeTh": {
+        "avg_best_grade": 69.583,
+        "tot_100": 15,
+        "tot_attempted": 24,
+        "avg_attempts": 3.667,
+        "avg_time_to_best_grade": 2571.667,
+        "avg_days_since_beginning": 166.083
+    },
+    "NathanS": {
+        "avg_best_grade": 97.059,
+        "tot_100": 16,
+        "tot_attempted": 17,
+        "avg_attempts": 1.647,
+        "avg_time_to_best_grade": 429280.353,
+        "avg_days_since_beginning": 88.765
+    },
+    "asluyters": {
+        "avg_best_grade": 94.118,
+        "tot_100": 16,
+        "tot_attempted": 17,
+        "avg_attempts": 2.0,
+        "avg_time_to_best_grade": 13.235,
+        "avg_days_since_beginning": 19.471
+    },
+    "ltristan": {
+        "avg_best_grade": 76.032,
+        "tot_100": 15,
+        "tot_attempted": 21,
+        "avg_attempts": 3.095,
+        "avg_time_to_best_grade": 374764.095,
+        "avg_days_since_beginning": 34.476
+    },
+    "edesjardin": {
+        "avg_best_grade": 83.626,
+        "tot_100": 15,
+        "tot_attempted": 19,
+        "avg_attempts": 2.789,
+        "avg_time_to_best_grade": 98.158,
+        "avg_days_since_beginning": 53.0
+    },
+    "Bizere": {
+        "avg_best_grade": 65.972,
+        "tot_100": 14,
+        "tot_attempted": 24,
+        "avg_attempts": 2.125,
+        "avg_time_to_best_grade": 31.5,
+        "avg_days_since_beginning": 38.292
+    },
+    "Ddefrenne": {
+        "avg_best_grade": 91.765,
+        "tot_100": 15,
+        "tot_attempted": 17,
+        "avg_attempts": 11.941,
+        "avg_time_to_best_grade": 1145204.765,
+        "avg_days_since_beginning": 177.118
+    },
+    "mwisenezamun": {
+        "avg_best_grade": 49.677,
+        "tot_100": 15,
+        "tot_attempted": 31,
+        "avg_attempts": 12.226,
+        "avg_time_to_best_grade": 460896.258,
+        "avg_days_since_beginning": 121.484
+    },
+    "Youris": {
+        "avg_best_grade": 71.429,
+        "tot_100": 15,
+        "tot_attempted": 21,
+        "avg_attempts": 9.905,
+        "avg_time_to_best_grade": 503149.857,
+        "avg_days_since_beginning": 71.333
+    },
+    "cmoreau": {
+        "avg_best_grade": 78.947,
+        "tot_100": 15,
+        "tot_attempted": 19,
+        "avg_attempts": 7.526,
+        "avg_time_to_best_grade": 159589.526,
+        "avg_days_since_beginning": 41.421
+    },
+    "Benjamin": {
+        "avg_best_grade": 92.969,
+        "tot_100": 14,
+        "tot_attempted": 16,
+        "avg_attempts": 2.75,
+        "avg_time_to_best_grade": 71.375,
+        "avg_days_since_beginning": 29.625
+    },
+    "Dany": {
+        "avg_best_grade": 68.75,
+        "tot_100": 13,
+        "tot_attempted": 20,
+        "avg_attempts": 3.0,
+        "avg_time_to_best_grade": 119.05,
+        "avg_days_since_beginning": 112.95
+    },
+    "arittwegerde": {
+        "avg_best_grade": 48.085,
+        "tot_100": 10,
+        "tot_attempted": 28,
+        "avg_attempts": 5.643,
+        "avg_time_to_best_grade": 12924.571,
+        "avg_days_since_beginning": 36.357
+    },
+    "Lukman": {
+        "avg_best_grade": 81.25,
+        "tot_100": 13,
+        "tot_attempted": 16,
+        "avg_attempts": 3.438,
+        "avg_time_to_best_grade": 2610.938,
+        "avg_days_since_beginning": 81.0
+    },
+    "sbroux": {
+        "avg_best_grade": 100.0,
+        "tot_100": 13,
+        "tot_attempted": 13,
+        "avg_attempts": 2.538,
+        "avg_time_to_best_grade": 88.462,
+        "avg_days_since_beginning": 137.0
+    },
+    "siaka": {
+        "avg_best_grade": 81.25,
+        "tot_100": 13,
+        "tot_attempted": 16,
+        "avg_attempts": 4.188,
+        "avg_time_to_best_grade": 7767.688,
+        "avg_days_since_beginning": 309.812
+    },
+    "rbajraktari": {
+        "avg_best_grade": 59.458,
+        "tot_100": 10,
+        "tot_attempted": 21,
+        "avg_attempts": 5.952,
+        "avg_time_to_best_grade": 1335496.952,
+        "avg_days_since_beginning": 63.619
+    },
+    "lbrants": {
+        "avg_best_grade": 95.107,
+        "tot_100": 10,
+        "tot_attempted": 13,
+        "avg_attempts": 1.385,
+        "avg_time_to_best_grade": 30.385,
+        "avg_days_since_beginning": 18.692
+    },
+    "Ghislain": {
+        "avg_best_grade": 53.37,
+        "tot_100": 10,
+        "tot_attempted": 23,
+        "avg_attempts": 8.826,
+        "avg_time_to_best_grade": 55835.913,
+        "avg_days_since_beginning": 170.696
+    },
+    "SmN_GLT": {
+        "avg_best_grade": 80.0,
+        "tot_100": 12,
+        "tot_attempted": 15,
+        "avg_attempts": 4.267,
+        "avg_time_to_best_grade": 887760.267,
+        "avg_days_since_beginning": 172.8
+    },
+    "couchardsche": {
+        "avg_best_grade": 77.778,
+        "tot_100": 11,
+        "tot_attempted": 15,
+        "avg_attempts": 3.533,
+        "avg_time_to_best_grade": 198.733,
+        "avg_days_since_beginning": 33.333
+    },
+    "duarteveloso": {
+        "avg_best_grade": 77.333,
+        "tot_100": 11,
+        "tot_attempted": 15,
+        "avg_attempts": 3.0,
+        "avg_time_to_best_grade": 73913.4,
+        "avg_days_since_beginning": 25.333
+    },
+    "gjudicq": {
+        "avg_best_grade": 68.75,
+        "tot_100": 11,
+        "tot_attempted": 16,
+        "avg_attempts": 5.438,
+        "avg_time_to_best_grade": 229503.625,
+        "avg_days_since_beginning": 28.75
+    },
+    "Victor": {
+        "avg_best_grade": 52.381,
+        "tot_100": 11,
+        "tot_attempted": 21,
+        "avg_attempts": 5.048,
+        "avg_time_to_best_grade": 190.0,
+        "avg_days_since_beginning": 72.19
+    },
+    "vamignon": {
+        "avg_best_grade": 100.0,
+        "tot_100": 11,
+        "tot_attempted": 11,
+        "avg_attempts": 7.636,
+        "avg_time_to_best_grade": 773.273,
+        "avg_days_since_beginning": 271.545
+    },
+    "lamottea": {
+        "avg_best_grade": 57.31,
+        "tot_100": 10,
+        "tot_attempted": 19,
+        "avg_attempts": 4.105,
+        "avg_time_to_best_grade": 66.842,
+        "avg_days_since_beginning": 62.789
+    },
+    "phuyghe": {
+        "avg_best_grade": 76.191,
+        "tot_100": 10,
+        "tot_attempted": 14,
+        "avg_attempts": 6.857,
+        "avg_time_to_best_grade": 855.286,
+        "avg_days_since_beginning": 214.143
+    },
+    "domrioux": {
+        "avg_best_grade": 81.538,
+        "tot_100": 9,
+        "tot_attempted": 13,
+        "avg_attempts": 3.308,
+        "avg_time_to_best_grade": 101319.846,
+        "avg_days_since_beginning": 117.154
+    },
+    "Yousri": {
+        "avg_best_grade": 76.923,
+        "tot_100": 10,
+        "tot_attempted": 13,
+        "avg_attempts": 4.846,
+        "avg_time_to_best_grade": 116.0,
+        "avg_days_since_beginning": 36.769
+    },
+    "mhuet": {
+        "avg_best_grade": 90.909,
+        "tot_100": 10,
+        "tot_attempted": 11,
+        "avg_attempts": 2.909,
+        "avg_time_to_best_grade": 82.364,
+        "avg_days_since_beginning": 33.636
+    },
+    "roggenc": {
+        "avg_best_grade": 54.938,
+        "tot_100": 9,
+        "tot_attempted": 18,
+        "avg_attempts": 2.611,
+        "avg_time_to_best_grade": 3387.389,
+        "avg_days_since_beginning": 48.722
+    },
+    "jkuhn": {
+        "avg_best_grade": 89.091,
+        "tot_100": 9,
+        "tot_attempted": 11,
+        "avg_attempts": 3.364,
+        "avg_time_to_best_grade": 234.636,
+        "avg_days_since_beginning": 60.455
+    },
+    "AlexVG": {
+        "avg_best_grade": 71.602,
+        "tot_100": 7,
+        "tot_attempted": 13,
+        "avg_attempts": 1.846,
+        "avg_time_to_best_grade": 54.0,
+        "avg_days_since_beginning": 39.385
+    },
+    "tmaerten": {
+        "avg_best_grade": 75.741,
+        "tot_100": 8,
+        "tot_attempted": 12,
+        "avg_attempts": 3.417,
+        "avg_time_to_best_grade": 77.167,
+        "avg_days_since_beginning": 27.25
+    },
+    "pecheurc": {
+        "avg_best_grade": 90.0,
+        "tot_100": 9,
+        "tot_attempted": 10,
+        "avg_attempts": 2.0,
+        "avg_time_to_best_grade": 19.6,
+        "avg_days_since_beginning": 25.3
+    },
+    "Hipponax": {
+        "avg_best_grade": 69.231,
+        "tot_100": 9,
+        "tot_attempted": 13,
+        "avg_attempts": 3.077,
+        "avg_time_to_best_grade": 35.0,
+        "avg_days_since_beginning": 31.0
+    },
+    "bdecnuydt": {
+        "avg_best_grade": 100.0,
+        "tot_100": 9,
+        "tot_attempted": 9,
+        "avg_attempts": 3.333,
+        "avg_time_to_best_grade": 101.556,
+        "avg_days_since_beginning": 48.222
+    },
+    "clementito": {
+        "avg_best_grade": 68.376,
+        "tot_100": 8,
+        "tot_attempted": 13,
+        "avg_attempts": 3.615,
+        "avg_time_to_best_grade": 54.615,
+        "avg_days_since_beginning": 42.154
+    },
+    "AntoineAkinci": {
+        "avg_best_grade": 80.808,
+        "tot_100": 8,
+        "tot_attempted": 11,
+        "avg_attempts": 3.364,
+        "avg_time_to_best_grade": 55.909,
+        "avg_days_since_beginning": 24.182
+    },
+    "psldv": {
+        "avg_best_grade": 80.0,
+        "tot_100": 8,
+        "tot_attempted": 11,
+        "avg_attempts": 1.818,
+        "avg_time_to_best_grade": 19.727,
+        "avg_days_since_beginning": 35.182
+    },
+    "gchaidron": {
+        "avg_best_grade": 95.062,
+        "tot_100": 8,
+        "tot_attempted": 9,
+        "avg_attempts": 1.0,
+        "avg_time_to_best_grade": 0.0,
+        "avg_days_since_beginning": 30.556
+    },
+    "vvescera": {
+        "avg_best_grade": 39.312,
+        "tot_100": 7,
+        "tot_attempted": 21,
+        "avg_attempts": 3.429,
+        "avg_time_to_best_grade": 1102.095,
+        "avg_days_since_beginning": 80.238
+    },
+    "wsalame": {
+        "avg_best_grade": 100.0,
+        "tot_100": 8,
+        "tot_attempted": 8,
+        "avg_attempts": 4.5,
+        "avg_time_to_best_grade": 185.125,
+        "avg_days_since_beginning": 29.25
+    },
+    "twafflard": {
+        "avg_best_grade": 88.889,
+        "tot_100": 8,
+        "tot_attempted": 9,
+        "avg_attempts": 6.444,
+        "avg_time_to_best_grade": 439.333,
+        "avg_days_since_beginning": 42.333
+    },
+    "cadewez": {
+        "avg_best_grade": 100.0,
+        "tot_100": 8,
+        "tot_attempted": 8,
+        "avg_attempts": 2.375,
+        "avg_time_to_best_grade": 71.0,
+        "avg_days_since_beginning": 124.0
+    },
+    "azevedoguilh": {
+        "avg_best_grade": 80.0,
+        "tot_100": 8,
+        "tot_attempted": 10,
+        "avg_attempts": 5.4,
+        "avg_time_to_best_grade": 84470.4,
+        "avg_days_since_beginning": 80.3
+    },
+    "reloi": {
+        "avg_best_grade": 100.0,
+        "tot_100": 8,
+        "tot_attempted": 8,
+        "avg_attempts": 2.875,
+        "avg_time_to_best_grade": 186.375,
+        "avg_days_since_beginning": 324.625
+    },
+    "bouchatna": {
+        "avg_best_grade": 60.769,
+        "tot_100": 7,
+        "tot_attempted": 13,
+        "avg_attempts": 3.154,
+        "avg_time_to_best_grade": 598000.769,
+        "avg_days_since_beginning": 64.769
+    },
+    "henrilacoste": {
+        "avg_best_grade": 44.706,
+        "tot_100": 7,
+        "tot_attempted": 17,
+        "avg_attempts": 4.824,
+        "avg_time_to_best_grade": 3374.294,
+        "avg_days_since_beginning": 39.176
+    },
+    "cdeknop": {
+        "avg_best_grade": 92.5,
+        "tot_100": 7,
+        "tot_attempted": 8,
+        "avg_attempts": 4.375,
+        "avg_time_to_best_grade": 79.75,
+        "avg_days_since_beginning": 37.875
+    },
+    "Anissa": {
+        "avg_best_grade": 77.778,
+        "tot_100": 7,
+        "tot_attempted": 9,
+        "avg_attempts": 3.222,
+        "avg_time_to_best_grade": 319281.889,
+        "avg_days_since_beginning": 80.889
+    },
+    "ichlihi": {
+        "avg_best_grade": 77.778,
+        "tot_100": 7,
+        "tot_attempted": 9,
+        "avg_attempts": 17.778,
+        "avg_time_to_best_grade": 20375.111,
+        "avg_days_since_beginning": 43.0
+    },
+    "marcolinet": {
+        "avg_best_grade": 100.0,
+        "tot_100": 7,
+        "tot_attempted": 7,
+        "avg_attempts": 2.0,
+        "avg_time_to_best_grade": 47.857,
+        "avg_days_since_beginning": 88.143
+    },
+    "jouoguepnanm": {
+        "avg_best_grade": 50.0,
+        "tot_100": 7,
+        "tot_attempted": 14,
+        "avg_attempts": 11.714,
+        "avg_time_to_best_grade": 158.929,
+        "avg_days_since_beginning": 288.571
+    },
+    "bellon": {
+        "avg_best_grade": 87.5,
+        "tot_100": 7,
+        "tot_attempted": 8,
+        "avg_attempts": 1.875,
+        "avg_time_to_best_grade": 67.75,
+        "avg_days_since_beginning": -75.0
+    },
+    "aknockaert": {
+        "avg_best_grade": 70.0,
+        "tot_100": 7,
+        "tot_attempted": 10,
+        "avg_attempts": 3.1,
+        "avg_time_to_best_grade": 4076.4,
+        "avg_days_since_beginning": -39.5
+    },
+    "mvanderbeek": {
+        "avg_best_grade": 87.5,
+        "tot_100": 7,
+        "tot_attempted": 8,
+        "avg_attempts": 2.5,
+        "avg_time_to_best_grade": 90.625,
+        "avg_days_since_beginning": 36.625
+    },
+    "ahmedbutt": {
+        "avg_best_grade": 75.556,
+        "tot_100": 6,
+        "tot_attempted": 9,
+        "avg_attempts": 1.556,
+        "avg_time_to_best_grade": 31.111,
+        "avg_days_since_beginning": 41.0
+    },
+    "npermanne": {
+        "avg_best_grade": 96.826,
+        "tot_100": 6,
+        "tot_attempted": 7,
+        "avg_attempts": 2.143,
+        "avg_time_to_best_grade": 1645.714,
+        "avg_days_since_beginning": 19.143
+    },
+    "sidevaux": {
+        "avg_best_grade": 80.0,
+        "tot_100": 6,
+        "tot_attempted": 8,
+        "avg_attempts": 9.0,
+        "avg_time_to_best_grade": 7744.375,
+        "avg_days_since_beginning": 70.75
+    },
+    "theo": {
+        "avg_best_grade": 66.667,
+        "tot_100": 6,
+        "tot_attempted": 9,
+        "avg_attempts": 2.889,
+        "avg_time_to_best_grade": 89.667,
+        "avg_days_since_beginning": 27.667
+    },
+    "amaroutaeff": {
+        "avg_best_grade": 85.714,
+        "tot_100": 6,
+        "tot_attempted": 7,
+        "avg_attempts": 5.0,
+        "avg_time_to_best_grade": 41.714,
+        "avg_days_since_beginning": 11.429
+    },
+    "Nicolas": {
+        "avg_best_grade": 85.714,
+        "tot_100": 6,
+        "tot_attempted": 7,
+        "avg_attempts": 4.714,
+        "avg_time_to_best_grade": 178.286,
+        "avg_days_since_beginning": 48.429
+    },
+    "najarsalighe": {
+        "avg_best_grade": 100.0,
+        "tot_100": 6,
+        "tot_attempted": 6,
+        "avg_attempts": 2.167,
+        "avg_time_to_best_grade": 121.333,
+        "avg_days_since_beginning": 11.167
+    },
+    "thomandre": {
+        "avg_best_grade": 66.667,
+        "tot_100": 6,
+        "tot_attempted": 9,
+        "avg_attempts": 1.778,
+        "avg_time_to_best_grade": 69.778,
+        "avg_days_since_beginning": 51.667
+    },
+    "maxencejungers": {
+        "avg_best_grade": 100.0,
+        "tot_100": 6,
+        "tot_attempted": 6,
+        "avg_attempts": 3.667,
+        "avg_time_to_best_grade": 6884.333,
+        "avg_days_since_beginning": 35.333
+    },
+    "lbeuken": {
+        "avg_best_grade": 85.714,
+        "tot_100": 6,
+        "tot_attempted": 7,
+        "avg_attempts": 1.857,
+        "avg_time_to_best_grade": 30.0,
+        "avg_days_since_beginning": 358.0
+    },
+    "tzvetkov": {
+        "avg_best_grade": 82.857,
+        "tot_100": 5,
+        "tot_attempted": 7,
+        "avg_attempts": 3.286,
+        "avg_time_to_best_grade": 124.714,
+        "avg_days_since_beginning": 117.571
+    },
+    "leclercqk": {
+        "avg_best_grade": 61.481,
+        "tot_100": 5,
+        "tot_attempted": 9,
+        "avg_attempts": 3.111,
+        "avg_time_to_best_grade": 1773763.111,
+        "avg_days_since_beginning": 53.111
+    },
+    "dheyninck": {
+        "avg_best_grade": 36.0,
+        "tot_100": 5,
+        "tot_attempted": 15,
+        "avg_attempts": 5.533,
+        "avg_time_to_best_grade": 1261914.133,
+        "avg_days_since_beginning": 187.067
+    },
+    "DarkNinjaHan": {
+        "avg_best_grade": 86.667,
+        "tot_100": 5,
+        "tot_attempted": 6,
+        "avg_attempts": 1.167,
+        "avg_time_to_best_grade": 2.5,
+        "avg_days_since_beginning": 25.0
+    },
+    "aji": {
+        "avg_best_grade": 65.0,
+        "tot_100": 5,
+        "tot_attempted": 8,
+        "avg_attempts": 11.0,
+        "avg_time_to_best_grade": 27524.0,
+        "avg_days_since_beginning": 42.125
+    },
+    "sotlet": {
+        "avg_best_grade": 100.0,
+        "tot_100": 5,
+        "tot_attempted": 5,
+        "avg_attempts": 5.0,
+        "avg_time_to_best_grade": 188.4,
+        "avg_days_since_beginning": 44.0
+    },
+    "kennyfaust": {
+        "avg_best_grade": 100.0,
+        "tot_100": 5,
+        "tot_attempted": 5,
+        "avg_attempts": 1.6,
+        "avg_time_to_best_grade": 15.4,
+        "avg_days_since_beginning": 118.0
+    },
+    "benolaurent": {
+        "avg_best_grade": 100.0,
+        "tot_100": 5,
+        "tot_attempted": 5,
+        "avg_attempts": 1.0,
+        "avg_time_to_best_grade": 0.0,
+        "avg_days_since_beginning": 23.8
+    },
+    "benjsimon": {
+        "avg_best_grade": 71.429,
+        "tot_100": 5,
+        "tot_attempted": 7,
+        "avg_attempts": 2.714,
+        "avg_time_to_best_grade": 97.714,
+        "avg_days_since_beginning": 42.857
+    },
+    "lujonovoseli": {
+        "avg_best_grade": 100.0,
+        "tot_100": 4,
+        "tot_attempted": 4,
+        "avg_attempts": 3.0,
+        "avg_time_to_best_grade": 17.75,
+        "avg_days_since_beginning": 6.5
+    },
+    "sstrebelle": {
+        "avg_best_grade": 100.0,
+        "tot_100": 4,
+        "tot_attempted": 4,
+        "avg_attempts": 4.75,
+        "avg_time_to_best_grade": 214.25,
+        "avg_days_since_beginning": 48.5
+    },
+    "sens": {
+        "avg_best_grade": 100.0,
+        "tot_100": 4,
+        "tot_attempted": 4,
+        "avg_attempts": 2.0,
+        "avg_time_to_best_grade": 51.0,
+        "avg_days_since_beginning": 41.75
+    },
+    "n": {
+        "avg_best_grade": 100.0,
+        "tot_100": 4,
+        "tot_attempted": 4,
+        "avg_attempts": 1.5,
+        "avg_time_to_best_grade": 49.75,
+        "avg_days_since_beginning": 7.75
+    },
+    "Louis": {
+        "avg_best_grade": 66.667,
+        "tot_100": 4,
+        "tot_attempted": 6,
+        "avg_attempts": 3.0,
+        "avg_time_to_best_grade": 73.333,
+        "avg_days_since_beginning": 17.167
+    },
+    "charlhabay": {
+        "avg_best_grade": 80.0,
+        "tot_100": 4,
+        "tot_attempted": 5,
+        "avg_attempts": 1.6,
+        "avg_time_to_best_grade": 54.6,
+        "avg_days_since_beginning": 58.2
+    },
+    "Majov": {
+        "avg_best_grade": 100.0,
+        "tot_100": 4,
+        "tot_attempted": 4,
+        "avg_attempts": 4.0,
+        "avg_time_to_best_grade": 274.25,
+        "avg_days_since_beginning": 366.0
+    },
+    "auyernaux": {
+        "avg_best_grade": 80.0,
+        "tot_100": 4,
+        "tot_attempted": 5,
+        "avg_attempts": 1.6,
+        "avg_time_to_best_grade": 23.0,
+        "avg_days_since_beginning": 22.8
+    },
+    "gegoa": {
+        "avg_best_grade": 80.0,
+        "tot_100": 4,
+        "tot_attempted": 5,
+        "avg_attempts": 1.8,
+        "avg_time_to_best_grade": 6.6,
+        "avg_days_since_beginning": -16.6
+    },
+    "mmomin": {
+        "avg_best_grade": 100.0,
+        "tot_100": 4,
+        "tot_attempted": 4,
+        "avg_attempts": 2.25,
+        "avg_time_to_best_grade": 130.5,
+        "avg_days_since_beginning": 14.0
+    },
+    "gugustin": {
+        "avg_best_grade": 80.0,
+        "tot_100": 4,
+        "tot_attempted": 5,
+        "avg_attempts": 3.0,
+        "avg_time_to_best_grade": 202.4,
+        "avg_days_since_beginning": 81.0
+    },
+    "fitvoye": {
+        "avg_best_grade": 100.0,
+        "tot_100": 4,
+        "tot_attempted": 4,
+        "avg_attempts": 2.25,
+        "avg_time_to_best_grade": 36.25,
+        "avg_days_since_beginning": 35.0
+    },
+    "P": {
+        "avg_best_grade": 53.77,
+        "tot_100": 2,
+        "tot_attempted": 7,
+        "avg_attempts": 1.429,
+        "avg_time_to_best_grade": 0.0,
+        "avg_days_since_beginning": 13.571
+    },
+    "briandebruyne": {
+        "avg_best_grade": 88.543,
+        "tot_100": 2,
+        "tot_attempted": 4,
+        "avg_attempts": 1.0,
+        "avg_time_to_best_grade": 0.0,
+        "avg_days_since_beginning": 13.75
+    },
+    "coeckelbergc": {
+        "avg_best_grade": 86.11,
+        "tot_100": 3,
+        "tot_attempted": 4,
+        "avg_attempts": 3.0,
+        "avg_time_to_best_grade": 98.25,
+        "avg_days_since_beginning": 13.5
+    },
+    "Augustin": {
+        "avg_best_grade": 40.625,
+        "tot_100": 3,
+        "tot_attempted": 8,
+        "avg_attempts": 5.375,
+        "avg_time_to_best_grade": 57.375,
+        "avg_days_since_beginning": 84.25
+    },
+    "jcroiselet": {
+        "avg_best_grade": 52.593,
+        "tot_100": 2,
+        "tot_attempted": 6,
+        "avg_attempts": 1.833,
+        "avg_time_to_best_grade": 0.0,
+        "avg_days_since_beginning": 22.5
+    },
+    "jucaudron": {
+        "avg_best_grade": 75.0,
+        "tot_100": 3,
+        "tot_attempted": 4,
+        "avg_attempts": 2.75,
+        "avg_time_to_best_grade": 21.25,
+        "avg_days_since_beginning": 40.5
+    },
+    "elacoste": {
+        "avg_best_grade": 100.0,
+        "tot_100": 3,
+        "tot_attempted": 3,
+        "avg_attempts": 2.667,
+        "avg_time_to_best_grade": 202.667,
+        "avg_days_since_beginning": 52.333
+    },
+    "ofally": {
+        "avg_best_grade": 100.0,
+        "tot_100": 3,
+        "tot_attempted": 3,
+        "avg_attempts": 3.333,
+        "avg_time_to_best_grade": 7.333,
+        "avg_days_since_beginning": 120.0
+    },
+    "didih1103": {
+        "avg_best_grade": 100.0,
+        "tot_100": 3,
+        "tot_attempted": 3,
+        "avg_attempts": 2.333,
+        "avg_time_to_best_grade": 554.333,
+        "avg_days_since_beginning": 139.0
+    },
+    "MaxDurand": {
+        "avg_best_grade": 75.0,
+        "tot_100": 3,
+        "tot_attempted": 4,
+        "avg_attempts": 2.25,
+        "avg_time_to_best_grade": 0.0,
+        "avg_days_since_beginning": 21.25
+    },
+    "duchenef": {
+        "avg_best_grade": 100.0,
+        "tot_100": 3,
+        "tot_attempted": 3,
+        "avg_attempts": 4.0,
+        "avg_time_to_best_grade": 254.667,
+        "avg_days_since_beginning": 23.0
+    },
+    "daniellebenemb": {
+        "avg_best_grade": 100.0,
+        "tot_100": 3,
+        "tot_attempted": 3,
+        "avg_attempts": 1.667,
+        "avg_time_to_best_grade": 71.667,
+        "avg_days_since_beginning": 35.667
+    },
+    "jdargent": {
+        "avg_best_grade": 96.297,
+        "tot_100": 2,
+        "tot_attempted": 3,
+        "avg_attempts": 2.0,
+        "avg_time_to_best_grade": 56.0,
+        "avg_days_since_beginning": 11.0
+    },
+    "iantoci": {
+        "avg_best_grade": 92.593,
+        "tot_100": 2,
+        "tot_attempted": 3,
+        "avg_attempts": 1.0,
+        "avg_time_to_best_grade": 0.0,
+        "avg_days_since_beginning": 11.667
+    },
+    "Leop": {
+        "avg_best_grade": 91.667,
+        "tot_100": 2,
+        "tot_attempted": 3,
+        "avg_attempts": 5.0,
+        "avg_time_to_best_grade": 3476.0,
+        "avg_days_since_beginning": 14.0
+    },
+    "demarteaun": {
+        "avg_best_grade": 40.0,
+        "tot_100": 2,
+        "tot_attempted": 6,
+        "avg_attempts": 3.5,
+        "avg_time_to_best_grade": 16.5,
+        "avg_days_since_beginning": 27.667
+    },
+    "A": {
+        "avg_best_grade": 100.0,
+        "tot_100": 2,
+        "tot_attempted": 2,
+        "avg_attempts": 3.5,
+        "avg_time_to_best_grade": 28.5,
+        "avg_days_since_beginning": 6.5
+    },
+    "lfalys": {
+        "avg_best_grade": 66.667,
+        "tot_100": 2,
+        "tot_attempted": 3,
+        "avg_attempts": 3.333,
+        "avg_time_to_best_grade": 33.667,
+        "avg_days_since_beginning": 12.0
+    },
+    "natdevos": {
+        "avg_best_grade": 100.0,
+        "tot_100": 2,
+        "tot_attempted": 2,
+        "avg_attempts": 3.0,
+        "avg_time_to_best_grade": 6261.5,
+        "avg_days_since_beginning": 8.5
+    },
+    "glekeux": {
+        "avg_best_grade": 50.0,
+        "tot_100": 2,
+        "tot_attempted": 4,
+        "avg_attempts": 6.25,
+        "avg_time_to_best_grade": 71.5,
+        "avg_days_since_beginning": 23.5
+    },
+    "ghislaing": {
+        "avg_best_grade": 100.0,
+        "tot_100": 2,
+        "tot_attempted": 2,
+        "avg_attempts": 2.0,
+        "avg_time_to_best_grade": 203.5,
+        "avg_days_since_beginning": 57.5
+    },
+    "alexdupont": {
+        "avg_best_grade": 50.0,
+        "tot_100": 2,
+        "tot_attempted": 4,
+        "avg_attempts": 12.0,
+        "avg_time_to_best_grade": 49.0,
+        "avg_days_since_beginning": 120.0
+    },
+    "L": {
+        "avg_best_grade": 100.0,
+        "tot_100": 2,
+        "tot_attempted": 2,
+        "avg_attempts": 1.5,
+        "avg_time_to_best_grade": 0.0,
+        "avg_days_since_beginning": 13.5
+    },
+    "jtwite": {
+        "avg_best_grade": 50.0,
+        "tot_100": 2,
+        "tot_attempted": 4,
+        "avg_attempts": 3.5,
+        "avg_time_to_best_grade": 22.75,
+        "avg_days_since_beginning": 210.0
+    },
+    "gderval": {
+        "avg_best_grade": 66.667,
+        "tot_100": 2,
+        "tot_attempted": 3,
+        "avg_attempts": 5.0,
+        "avg_time_to_best_grade": 41.667,
+        "avg_days_since_beginning": -77.333
+    },
+    "D": {
+        "avg_best_grade": 100.0,
+        "tot_100": 2,
+        "tot_attempted": 2,
+        "avg_attempts": 3.5,
+        "avg_time_to_best_grade": 421.0,
+        "avg_days_since_beginning": 14.5
+    },
+    "mohandes": {
+        "avg_best_grade": 100.0,
+        "tot_100": 2,
+        "tot_attempted": 2,
+        "avg_attempts": 10.5,
+        "avg_time_to_best_grade": 713.5,
+        "avg_days_since_beginning": 44.0
+    },
+    "Adeline": {
+        "avg_best_grade": 28.571,
+        "tot_100": 2,
+        "tot_attempted": 7,
+        "avg_attempts": 6.286,
+        "avg_time_to_best_grade": 82.857,
+        "avg_days_since_beginning": 44.286
+    },
+    "gmaudoux": {
+        "avg_best_grade": 100.0,
+        "tot_100": 2,
+        "tot_attempted": 2,
+        "avg_attempts": 20.0,
+        "avg_time_to_best_grade": 2523.0,
+        "avg_days_since_beginning": 73.0
+    },
+    "AlexandrUsoltsev": {
+        "avg_best_grade": 48.75,
+        "tot_100": 1,
+        "tot_attempted": 4,
+        "avg_attempts": 2.5,
+        "avg_time_to_best_grade": 0.0,
+        "avg_days_since_beginning": 41.0
+    },
+    "obonaventure": {
+        "avg_best_grade": 72.22,
+        "tot_100": 1,
+        "tot_attempted": 2,
+        "avg_attempts": 1.5,
+        "avg_time_to_best_grade": 7.0,
+        "avg_days_since_beginning": 50.0
+    },
+    "cbureau": {
+        "avg_best_grade": 70.0,
+        "tot_100": 1,
+        "tot_attempted": 2,
+        "avg_attempts": 7.5,
+        "avg_time_to_best_grade": 195.5,
+        "avg_days_since_beginning": 52.5
+    },
+    "gelissennicolas": {
+        "avg_best_grade": 66.665,
+        "tot_100": 1,
+        "tot_attempted": 2,
+        "avg_attempts": 1.0,
+        "avg_time_to_best_grade": 0.0,
+        "avg_days_since_beginning": 9.0
+    },
+    "d": {
+        "avg_best_grade": 62.5,
+        "tot_100": 1,
+        "tot_attempted": 2,
+        "avg_attempts": 1.0,
+        "avg_time_to_best_grade": 0.0,
+        "avg_days_since_beginning": 12.5
+    },
+    "c": {
+        "avg_best_grade": 100.0,
+        "tot_100": 1,
+        "tot_attempted": 1,
+        "avg_attempts": 5.0,
+        "avg_time_to_best_grade": 288.0,
+        "avg_days_since_beginning": 7.0
+    },
+    "": {
+        "avg_best_grade": 100.0,
+        "tot_100": 1,
+        "tot_attempted": 1,
+        "avg_attempts": 2.0,
+        "avg_time_to_best_grade": 100.0,
+        "avg_days_since_beginning": 7.0
+    },
+    "a": {
+        "avg_best_grade": 100.0,
+        "tot_100": 1,
+        "tot_attempted": 1,
+        "avg_attempts": 3.0,
+        "avg_time_to_best_grade": 34.0,
+        "avg_days_since_beginning": 8.0
+    },
+    "cpenacampos": {
+        "avg_best_grade": 50.0,
+        "tot_100": 1,
+        "tot_attempted": 2,
+        "avg_attempts": 2.5,
+        "avg_time_to_best_grade": 50.5,
+        "avg_days_since_beginning": 40.0
+    },
+    "npatesson": {
+        "avg_best_grade": 50.0,
+        "tot_100": 1,
+        "tot_attempted": 2,
+        "avg_attempts": 3.5,
+        "avg_time_to_best_grade": 7.5,
+        "avg_days_since_beginning": 57.0
+    },
+    "sivilain": {
+        "avg_best_grade": 100.0,
+        "tot_100": 1,
+        "tot_attempted": 1,
+        "avg_attempts": 3.0,
+        "avg_time_to_best_grade": 102.0,
+        "avg_days_since_beginning": 117.0
+    },
+    "lderu": {
+        "avg_best_grade": 20.0,
+        "tot_100": 1,
+        "tot_attempted": 5,
+        "avg_attempts": 3.6,
+        "avg_time_to_best_grade": 42.0,
+        "avg_days_since_beginning": 99.4
+    },
+    "bbeseme": {
+        "avg_best_grade": 100.0,
+        "tot_100": 1,
+        "tot_attempted": 1,
+        "avg_attempts": 3.0,
+        "avg_time_to_best_grade": 17.0,
+        "avg_days_since_beginning": 154.0
+    },
+    "cellibert": {
+        "avg_best_grade": 100.0,
+        "tot_100": 1,
+        "tot_attempted": 1,
+        "avg_attempts": 2.0,
+        "avg_time_to_best_grade": 37.0,
+        "avg_days_since_beginning": 221.0
+    },
+    "mechevalier": {
+        "avg_best_grade": 50.0,
+        "tot_100": 1,
+        "tot_attempted": 2,
+        "avg_attempts": 2.5,
+        "avg_time_to_best_grade": 95.0,
+        "avg_days_since_beginning": 275.0
+    },
+    "thomas": {
+        "avg_best_grade": 100.0,
+        "tot_100": 1,
+        "tot_attempted": 1,
+        "avg_attempts": 2.0,
+        "avg_time_to_best_grade": 40.0,
+        "avg_days_since_beginning": 303.0
+    },
+    "clauxn": {
+        "avg_best_grade": 100.0,
+        "tot_100": 1,
+        "tot_attempted": 1,
+        "avg_attempts": 3.0,
+        "avg_time_to_best_grade": 51.0,
+        "avg_days_since_beginning": 324.0
+    },
+    "Arnauudk": {
+        "avg_best_grade": 100.0,
+        "tot_100": 1,
+        "tot_attempted": 1,
+        "avg_attempts": 2.0,
+        "avg_time_to_best_grade": 21.0,
+        "avg_days_since_beginning": 346.0
+    },
+    "TGautot": {
+        "avg_best_grade": 100.0,
+        "tot_100": 1,
+        "tot_attempted": 1,
+        "avg_attempts": 1.0,
+        "avg_time_to_best_grade": 0.0,
+        "avg_days_since_beginning": 366.0
+    },
+    "Zebson2": {
+        "avg_best_grade": 100.0,
+        "tot_100": 1,
+        "tot_attempted": 1,
+        "avg_attempts": 1.0,
+        "avg_time_to_best_grade": 0.0,
+        "avg_days_since_beginning": 366.0
+    },
+    "N": {
+        "avg_best_grade": 100.0,
+        "tot_100": 1,
+        "tot_attempted": 1,
+        "avg_attempts": 1.0,
+        "avg_time_to_best_grade": 0.0,
+        "avg_days_since_beginning": 8.0
+    },
+    "ncapone": {
+        "avg_best_grade": 33.333,
+        "tot_100": 1,
+        "tot_attempted": 3,
+        "avg_attempts": 18.0,
+        "avg_time_to_best_grade": 0.0,
+        "avg_days_since_beginning": 37.0
+    },
+    "bnothomb": {
+        "avg_best_grade": 50.0,
+        "tot_100": 1,
+        "tot_attempted": 2,
+        "avg_attempts": 1.5,
+        "avg_time_to_best_grade": 0.0,
+        "avg_days_since_beginning": 253.0
+    },
+    "taffin": {
+        "avg_best_grade": 100.0,
+        "tot_100": 1,
+        "tot_attempted": 1,
+        "avg_attempts": 2.0,
+        "avg_time_to_best_grade": 20.0,
+        "avg_days_since_beginning": -3.0
+    },
+    "mmellaerts": {
+        "avg_best_grade": 100.0,
+        "tot_100": 1,
+        "tot_attempted": 1,
+        "avg_attempts": 9.0,
+        "avg_time_to_best_grade": 0.0,
+        "avg_days_since_beginning": 36.0
+    },
+    "Samildanach": {
+        "avg_best_grade": 100.0,
+        "tot_100": 1,
+        "tot_attempted": 1,
+        "avg_attempts": 15.0,
+        "avg_time_to_best_grade": 905.0,
+        "avg_days_since_beginning": 52.0
+    },
+    "loucheur": {
+        "avg_best_grade": 100.0,
+        "tot_100": 1,
+        "tot_attempted": 1,
+        "avg_attempts": 1.0,
+        "avg_time_to_best_grade": 0.0,
+        "avg_days_since_beginning": 59.0
+    },
+    "aufievet": {
+        "avg_best_grade": 100.0,
+        "tot_100": 1,
+        "tot_attempted": 1,
+        "avg_attempts": 1.0,
+        "avg_time_to_best_grade": 0.0,
+        "avg_days_since_beginning": 58.0
+    },
+    "Bastron": {
+        "avg_best_grade": 66.67,
+        "tot_100": 0,
+        "tot_attempted": 1,
+        "avg_attempts": 1.0,
+        "avg_time_to_best_grade": 0.0,
+        "avg_days_since_beginning": 7.0
+    },
+    "vigrandjean": {
+        "avg_best_grade": 66.67,
+        "tot_100": 0,
+        "tot_attempted": 1,
+        "avg_attempts": 1.0,
+        "avg_time_to_best_grade": 0.0,
+        "avg_days_since_beginning": 8.0
+    },
+    "Luca": {
+        "avg_best_grade": 55.56,
+        "tot_100": 0,
+        "tot_attempted": 1,
+        "avg_attempts": 2.0,
+        "avg_time_to_best_grade": 6552532.0,
+        "avg_days_since_beginning": 103.0
+    },
+    "sdepauw": {
+        "avg_best_grade": 22.22,
+        "tot_100": 0,
+        "tot_attempted": 1,
+        "avg_attempts": 1.0,
+        "avg_time_to_best_grade": 0.0,
+        "avg_days_since_beginning": 358.0
+    },
+    "aldubray": {
+        "avg_best_grade": 0.0,
+        "tot_100": 0,
+        "tot_attempted": 1,
+        "avg_attempts": 1.0,
+        "avg_time_to_best_grade": 0.0,
+        "avg_days_since_beginning": 212.0
+    },
+    "Isaac": {
+        "avg_best_grade": 0.0,
+        "tot_100": 0,
+        "tot_attempted": 2,
+        "avg_attempts": 4.5,
+        "avg_time_to_best_grade": 0.0,
+        "avg_days_since_beginning": 178.5
+    },
+    "Mathieu": {
+        "avg_best_grade": 0.0,
+        "tot_100": 0,
+        "tot_attempted": 1,
+        "avg_attempts": 1.0,
+        "avg_time_to_best_grade": 0.0,
+        "avg_days_since_beginning": 13.0
+    },
+    "Boudabob": {
+        "avg_best_grade": 0.0,
+        "tot_100": 0,
+        "tot_attempted": 1,
+        "avg_attempts": 1.0,
+        "avg_time_to_best_grade": 0.0,
+        "avg_days_since_beginning": 49.0
+    }
+}
