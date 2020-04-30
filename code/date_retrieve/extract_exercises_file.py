@@ -41,10 +41,6 @@ def make_exercises_corpus(tasks_list=None, change_method=False):
 			}
 		))
 
-		# Make dir for task
-		path_by_task = '../../files/files_by_task/' + task['mission_name'] + '/' + task['ex_name']
-		# Path(path_by_task).mkdir(parents=True, exist_ok=True)
-
 		# Make dir for all files
 		path_all_files = '../../files/all_files/all/'
 		Path(path_all_files).mkdir(parents=True, exist_ok=True)
@@ -72,26 +68,14 @@ def make_exercises_corpus(tasks_list=None, change_method=False):
 		print('{}/{} - {:20s} - Stud: {}'.format(num + 1, len(tasks_list), task['ex_name'], len(students_files)))
 
 		for username, object in students_files.items():
-			# Make dir for students
-			path_by_student = '../../files/files_by_student/' + username
-			# Path(path_by_student).mkdir(parents=True, exist_ok=True)
-
-			# file_by_task = open(path_by_task + '/' + username + '.py', 'w')
-			# file_by_student = open(path_by_student + '/' + task['ex_name'] + '.py', 'w')
 			file_all_files = open(path_all_files + '/' + task['ex_name'] + '_' + username + '.py', 'w')
 			file_all_files_TF = open(path_all_files_TF + '/' + task['ex_name'] + '_' + username + '.py', 'w')
 
-
 			input_dict = bson.BSON.decode(fs.get(object['input']).read())
-			# f.write('"""\n')
-			# f.write(username + '\n')
-			# f.write('"""\n')
 
 			for key in sorted(input_dict):
 				if key.startswith('@'):
 					continue
-
-				# f.write('# ' + str(key) + '\n')
 
 				if type(input_dict[key]) is dict:
 					file = input_dict[key]['value'].decode('ISO-8859-1')
@@ -102,12 +86,8 @@ def make_exercises_corpus(tasks_list=None, change_method=False):
 					file_TF = change_method_name(username, file)
 					file_all_files_TF.write(file_TF)
 
-				# file_by_task.write(str(file))
-				# file_by_student.write(str(file))
 				file_all_files.write(str(file))
 
-			# file_by_task.close()
-			# file_by_student.close()
 			file_all_files.close()
 
 
