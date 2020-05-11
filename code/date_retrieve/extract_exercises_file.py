@@ -12,6 +12,7 @@ from utils import connect_to_db
 Script to extract exercise files submitted by students
 """
 
+
 def make_exercises_corpus(tasks_list=None, change_method=False):
 
 	db, collection, fs = connect_to_db()
@@ -77,6 +78,7 @@ def make_exercises_corpus(tasks_list=None, change_method=False):
 				if key.startswith('@'):
 					continue
 
+				# TODO Check this code section
 				if type(input_dict[key]) is dict:
 					file = input_dict[key]['value'].decode('ISO-8859-1')
 				else:
@@ -108,4 +110,4 @@ def change_method_name(student, file):
 
 
 if __name__ == '__main__':
-	make_exercises_corpus(change_method=True)
+	make_exercises_corpus(change_method=False)
