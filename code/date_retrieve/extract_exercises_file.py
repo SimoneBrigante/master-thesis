@@ -17,7 +17,7 @@ def make_exercises_corpus(tasks_list=None, change_method=False):
 	db, collection, fs = connect_to_db()
 
 	# Get tasks from JSON
-	with open('../data/missions_tasks.json', 'r') as file:
+	with open('../data/input/missions_tasks.json', 'r') as file:
 		missions = json.load(file)
 
 	if tasks_list is None:
@@ -32,6 +32,12 @@ def make_exercises_corpus(tasks_list=None, change_method=False):
 						'ex_name': ex_name
 					})
 
+	# Make dir for all files
+	path_all_files = '../../students_exercise_files/all_files/'
+	Path(path_all_files).mkdir(parents=True, exist_ok=True)
+	path_all_files_TF = '../../students_exercise_files/all_files_TF/'
+	Path(path_all_files_TF).mkdir(parents=True, exist_ok=True)
+
 	for num, task in enumerate(tasks_list):
 		submissions = dumps(db.submissions.find(
 			{
@@ -40,12 +46,6 @@ def make_exercises_corpus(tasks_list=None, change_method=False):
 				'grade': 100
 			}
 		))
-
-		# Make dir for all files
-		path_all_files = '../../files/all_files/all/'
-		Path(path_all_files).mkdir(parents=True, exist_ok=True)
-		path_all_files_TF = '../../files/all_files_TF/all/'
-		Path(path_all_files_TF).mkdir(parents=True, exist_ok=True)
 
 		submissions_string_list = json.loads(submissions)
 
@@ -92,7 +92,7 @@ def make_exercises_corpus(tasks_list=None, change_method=False):
 
 
 def change_method_name(student, file):
-	with open('../data/exam_TF.json', 'r') as exam_TF:
+	with open('../data/input/exam_TF.json', 'r') as exam_TF:
 		student_outcome = json.load(exam_TF)
 	if student not in student_outcome:
 		label = 'NOTPASSED'
@@ -102,11 +102,10 @@ def change_method_name(student, file):
 		else:
 			label = 'NOTPASSED'
 
-	file = re.sub(r'def .*\(', 'def ' + str(label) + '(', file)
+	file_TF = re.sub(r'def .*\(', 'def ' + str(label) + '(', file)
 
-	return file
+	return file_TF
 
 
 if __name__ == '__main__':
 	make_exercises_corpus(change_method=True)
-

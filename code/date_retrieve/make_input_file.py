@@ -5,7 +5,7 @@ import csv
 def make_input_file():
 	students = {}
 
-	with open('../data/exam_TF.json', 'r') as f:
+	with open('../data/input/exam_TF.json', 'r') as f:
 		stud_exam = json.load(f)
 
 	with open('../data/exercises.json', 'r') as f:
