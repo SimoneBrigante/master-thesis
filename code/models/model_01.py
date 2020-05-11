@@ -169,7 +169,7 @@ def important_features_in_k_attempts(X, y, k=10):
 def model(X, y, verbose=1):
 	X_train, X_test, y_train, y_test = preprocessing(X, y)
 
-	# Create model with best parameters according GridSearch
+	# Create models with best parameters according GridSearch
 	best_params = {
 		'loss': 'deviance',
 		'learning_rate': 0.2,
@@ -185,13 +185,13 @@ def model(X, y, verbose=1):
 		loss='deviance', learning_rate=0.2, n_estimators=15, subsample=0.5, criterion='friedman_mse',
 		min_samples_split=0.1, min_samples_leaf=0.1, max_depth=5, max_features=None, verbose=0)
 
-	# Fit the model
+	# Fit the models
 	gradient_boosting_clf.fit(X_train, y_train)
 
 	if verbose > 0:
 		# Cross Validation to compute score of estimator
 		accuracies = cross_val_score(estimator=gradient_boosting_clf, X=X_train, y=y_train, cv=10, n_jobs=-1)
-		print("\nCross Validation\n\tMean: {} - Std: {}".format(accuracies.mean(), accuracies.std()))
+		print("\nCross Validation\n\tMean: {:.4f} - Std: {:.4f}".format(accuracies.mean(), accuracies.std()))
 
 		# Confusion Matrix
 		y_pred = gradient_boosting_clf.predict(X_test)
@@ -249,7 +249,7 @@ if __name__ == '__main__':
 	# GridSearchCV for best hyper-parameters - NB: really long time
 	# grid_search(X, y)
 
-	# Compute best features by fitting the model k times
+	# Compute best features by fitting the models k times
 	important_features_in_k_attempts(X, y, 1)
 
 	model(X, y)
