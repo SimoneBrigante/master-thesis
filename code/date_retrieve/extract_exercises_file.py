@@ -13,7 +13,7 @@ Script to extract exercise files submitted by students
 """
 
 
-def make_exercises_corpus(tasks_list=None, change_method=False):
+def extract_exercises(tasks_list=None):
 
 	db, collection, fs = connect_to_db()
 
@@ -36,8 +36,6 @@ def make_exercises_corpus(tasks_list=None, change_method=False):
 	# Make dir for all files
 	path_all_files = '../../students_exercise_files/all_files/'
 	Path(path_all_files).mkdir(parents=True, exist_ok=True)
-	path_all_files_TF = '../../students_exercise_files/all_files_TF/'
-	Path(path_all_files_TF).mkdir(parents=True, exist_ok=True)
 
 	for num, task in enumerate(tasks_list):
 		submissions = dumps(db.submissions.find(
@@ -61,7 +59,7 @@ def make_exercises_corpus(tasks_list=None, change_method=False):
 			if username not in students_files:
 				students_files[username] = {'input': input_id, 'timestamp': timestamp, 'grade': grade}
 
-			if students_files[username]['timestamp'] > timestamp and students_files[username]['grade'] <= grade:
+			if students_files[username]['timestamp'] < timestamp:		# and students_files[username]['grade'] <= grade: # useless if only grade == 100
 				students_files[username]['input'] = input_id
 				students_files[username]['timestamp'] = timestamp
 				students_files[username]['grade'] = grade
@@ -69,45 +67,29 @@ def make_exercises_corpus(tasks_list=None, change_method=False):
 		print('{}/{} - {:20s} - Stud: {}'.format(num + 1, len(tasks_list), task['ex_name'], len(students_files)))
 
 		for username, object in students_files.items():
-			file_all_files = open(path_all_files + '/' + task['ex_name'] + '_' + username + '.py', 'w')
-			file_all_files_TF = open(path_all_files_TF + '/' + task['ex_name'] + '_' + username + '.py', 'w')
+			file_all_files = open(path_all_files + '/' + task['ex_name'] + '__' + username + '.py', 'w')
 
 			input_dict = bson.BSON.decode(fs.get(object['input']).read())
 
 			for key in sorted(input_dict):
 				if key.startswith('@'):
 					continue
-
-				# TODO Check this code section
-				if type(input_dict[key]) is dict:
-					file = input_dict[key]['value'].decode('ISO-8859-1')
-				else:
-					file = input_dict[key]
-
-				if change_method:
-					file_TF = change_method_name(username, file)
-					file_all_files_TF.write(file_TF)
-
-				file_all_files.write(str(file))
+				file = input_dict[key]
+				file_no_comments = remove_comments(file)
+				file_all_files.write(str(file_no_comments))
 
 			file_all_files.close()
 
 
-def change_method_name(student, file):
-	with open('../data/input/exam_TF.json', 'r') as exam_TF:
-		student_outcome = json.load(exam_TF)
-	if student not in student_outcome:
-		label = 'NOTPASSED'
-	else:
-		if student_outcome[student]:
-			label = 'PASSED'
-		else:
-			label = 'NOTPASSED'
+def remove_comments(file):
+	file_no_comments = str(file)
+	file_no_comments = re.sub(r'([\'\"])\1\1[\d\D]*?\1{3}', '', file_no_comments)
+	result = re.search(r'([\'\"]).*#.*\1', file)
+	if result is None:
+		file_no_comments = re.sub(r'#.*', '', file_no_comments)
 
-	file_TF = re.sub(r'def .*\(', 'def ' + str(label) + '(', file)
-
-	return file_TF
+	return file_no_comments
 
 
 if __name__ == '__main__':
-	make_exercises_corpus(change_method=False)
+	extract_exercises()
