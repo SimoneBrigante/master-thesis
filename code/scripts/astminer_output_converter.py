@@ -1,7 +1,5 @@
 import csv
 import sys
-from shutil import copyfile
-from pathlib import Path
 
 
 def import_tokens_csv_dictionary(path):
@@ -92,23 +90,26 @@ def make_paths_converted(paths_dictionary, node_types_dictionary):
 	return paths_with_node_types_dictionary
 
 
-def convert_files(code2vec_folder, dataset_name):
+def convert_astminer_files(code2vec_input_data_folder, dataset_name):
 	# code2vec_folder = '../../code2vec_input_data/'
 	# dataset_name = 'all_files'
-	path_tokens_csv = code2vec_folder + '/' + dataset_name + '/astminer_output/tokens.csv'
-	path_node_types_csv = code2vec_folder + '/' + dataset_name + '/astminer_output/node_types.csv'
-	path_paths_csv = code2vec_folder + '/' + dataset_name + '/astminer_output/paths.csv'
-	merged_path_contexts_txt = code2vec_folder + '/' + dataset_name + '/' + dataset_name + '_merged_path_contexts.txt'
+	path_tokens_csv = code2vec_input_data_folder + '/' + dataset_name + '/astminer_output/tokens.csv'
+	path_node_types_csv = code2vec_input_data_folder + '/' + dataset_name + '/astminer_output/node_types.csv'
+	path_paths_csv = code2vec_input_data_folder + '/' + dataset_name + '/astminer_output/paths.csv'
+	merged_path_contexts_txt = code2vec_input_data_folder + '/' + dataset_name + '/' + dataset_name + '_merged.txt'
+	merged_path_contexts_TF_txt = code2vec_input_data_folder + '/' + dataset_name + '/' + dataset_name + '_TF_merged.txt'
 
-	destination_dir = code2vec_folder + '/' + dataset_name
+	destination_dir = code2vec_input_data_folder + '/' + dataset_name
 
 	tokens_dictionary = import_tokens_csv_dictionary(path_tokens_csv)
 	node_types_dictionary = import_node_types_csv_dictionary(path_node_types_csv)
 	paths_dictionary = import_path_csv_dictionary(path_paths_csv)
 	path_context_list = import_path_context_all_txt_list(merged_path_contexts_txt)
+	path_context_TF_list = import_path_context_all_txt_list(merged_path_contexts_TF_txt)
 
 	# Replace tokens in path contexts
 	path_contexts_with_tokens = make_path_contexts_converted(path_context_list, tokens_dictionary)
+	path_contexts_TF_with_tokens = make_path_contexts_converted(path_context_TF_list, tokens_dictionary)
 
 	# Replace node_type ids with 'meaningful' string in paths
 	paths_with_node_types_dictionary = make_paths_converted(paths_dictionary, node_types_dictionary)
@@ -120,8 +121,17 @@ def convert_files(code2vec_folder, dataset_name):
 		print('{:3d}: {}'.format(path, tokens))
 	"""
 
-	with open(destination_dir + '/' + dataset_name + '_merged_path_contexts_converted.txt', 'w') as fp:
+	with open(destination_dir + '/' + dataset_name + '_merged_converted.txt', 'w') as fp:
 		for index, tup in enumerate(path_contexts_with_tokens):
+			line = '' + tup[0] + ' '
+			for triplet in tup[1]:
+				line += ','.join(str(t) for t in triplet) + ' '
+				fp.write(line)
+				line = ''
+			fp.write('\n')
+
+	with open(destination_dir + '/' + dataset_name + '_TF_merged_converted.txt', 'w') as fp:
+		for index, tup in enumerate(path_contexts_TF_with_tokens):
 			line = '' + tup[0] + ' '
 			for triplet in tup[1]:
 				line += ','.join(str(t) for t in triplet) + ' '
@@ -144,4 +154,4 @@ def convert_files(code2vec_folder, dataset_name):
 if __name__ == '__main__':
 	args = sys.argv
 	code2vec_input_data_folder, dataset_name = args[1], args[2]
-	convert_files(code2vec_input_data_folder, dataset_name)
+	convert_astminer_files(code2vec_input_data_folder, dataset_name)
