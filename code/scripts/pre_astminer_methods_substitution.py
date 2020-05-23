@@ -40,10 +40,10 @@ def pre_astminer_methods_substitution(input_data_folder, dataset_name, code2vec_
 
 	exam_TF_path = '../data/input/exam_TF.json'
 	exam_TF_fp = open(exam_TF_path, 'r')
-	output_file_path = code2vec_output_data_folder + '/method_keys_correspondeces.json'
+	output_file_path = code2vec_output_data_folder + '/method_keys_correspondences.json'
 
 	# Dictonary to load info, will be converted into .json file
-	method_keys_correspondeces = {}
+	method_keys_correspondences = {}
 	students_outcome = json.load(exam_TF_fp)
 
 	list_of_files = [name for name in os.listdir(input_path)]
@@ -90,7 +90,7 @@ def pre_astminer_methods_substitution(input_data_folder, dataset_name, code2vec_
 			else:
 				exam_outcome = 'notpassed'
 
-		method_keys_correspondeces[key_string] = {
+		method_keys_correspondences[key_string] = {
 			'method_name': method_name,
 			'student': student_username,
 			'task_name': task_name,
@@ -101,7 +101,7 @@ def pre_astminer_methods_substitution(input_data_folder, dataset_name, code2vec_
 		output_file.close()
 
 	with open(output_file_path, 'w') as fp:
-		json.dump(method_keys_correspondeces, fp, indent=4)
+		json.dump(method_keys_correspondences, fp, indent=4)
 
 
 if __name__ == '__main__':
