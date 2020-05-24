@@ -37,10 +37,10 @@ def import_path_csv_dictionary(path):
 if __name__ == '__main__':
 	code2vec_output_data_folder = '../../code2vec_output_data/'
 	code2vec_input_data_folder = '../../code2vec_input_data/'
-	dataset_name = 'all_files'
+	dataset_name = '0119_q1_all_grades'		# 'all_files'
 
 	output_dictionary_path = code2vec_output_data_folder + dataset_name + '_merged_output_dictionary.json'
-	method_keys_correspondences_path = code2vec_output_data_folder + 'method_keys_correspondences.json'
+	method_keys_correspondences_path = code2vec_output_data_folder + dataset_name + '_method_keys_correspondences.json'
 	path_converted_path = code2vec_input_data_folder + dataset_name + '/paths_converted.csv'
 	tokens_path = code2vec_input_data_folder + dataset_name + '/astminer_output/tokens.csv'
 

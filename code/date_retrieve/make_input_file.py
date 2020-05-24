@@ -5,7 +5,7 @@ import csv
 def make_input_file():
 	students = {}
 
-	with open('../data/input/exam_TF.json', 'r') as f:
+	with open('../data/students_exam_results.json', 'r') as f:
 		stud_exam = json.load(f)
 
 	with open('../data/exercises.json', 'r') as f:
@@ -17,7 +17,7 @@ def make_input_file():
 	for name in stud_exam.keys():
 		if name in stud_exer:
 			students[name] = stud_exer[name]
-			students[name]['exam'] = int(stud_exam[name])
+			students[name]['exam'] = int(stud_exam[name]['is_passed'])
 
 	print("Students: {}".format(len(students)))
 

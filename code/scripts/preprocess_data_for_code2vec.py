@@ -13,18 +13,18 @@ from pre_astminer_methods_substitution import pre_astminer_methods_substitution
 class StringKeyReplacer:
 
 	def __init__(self, code2vec_output_data_folder):
-		method_keys_correspondeces_path = code2vec_output_data_folder + '/method_keys_correspondeces.json'
-		method_keys_correspondeces_fp = open(method_keys_correspondeces_path, 'r')
+		method_keys_correspondences_path = code2vec_output_data_folder + '/' + dataset_name + '_method_keys_correspondences.json'
+		method_keys_correspondences_fp = open(method_keys_correspondences_path, 'r')
 
-		self.method_keys_correspondeces = json.load(method_keys_correspondeces_fp)
+		self.method_keys_correspondences = json.load(method_keys_correspondences_fp)
 
 	def substitute_key_string(self, line, sub_type='TF'):
 		key_string = line.split(' ')[0]
 
 		if sub_type == 'TF':
-			substitution = self.method_keys_correspondeces[key_string]['exam_outcome']
+			substitution = self.method_keys_correspondences[key_string]['exam_outcome']
 		elif sub_type == 'method_name':
-			substitution = self.method_keys_correspondeces[key_string]['method_name']
+			substitution = self.method_keys_correspondences[key_string]['method_name']
 
 		new_line = str(line).replace(key_string, substitution)
 		return new_line
@@ -113,16 +113,16 @@ if __name__ == '__main__':
 	input_data_folder = '../../students_exercise_files'
 	code2vec_input_data_folder = '../../code2vec_input_data'
 	code2vec_output_data_folder = '../../code2vec_output_data'
-	dataset_name = 'all_files'
+	dataset_name = '0119_q1_all_grades'
 
-	pre_astminer_methods_substitution(input_data_folder, dataset_name, code2vec_output_data_folder)
+	# pre_astminer_methods_substitution(input_data_folder, dataset_name, code2vec_output_data_folder)
 
 	# execute_astminer(input_data_folder, code2vec_input_data_folder, dataset_name)
 
 	# merging_path_contexts(code2vec_input_data_folder, code2vec_output_data_folder, dataset_name)
 
-	# conversion step - DO NOT USE IT ANYMORE
-	# convert_astminer_files(code2vec_input_data_folder, dataset_name)
+	# conversion step
+	convert_astminer_files(code2vec_input_data_folder, dataset_name)
 
 	# split_path_contexts(code2vec_input_data_folder, code2vec_output_data_folder, dataset_name)
 

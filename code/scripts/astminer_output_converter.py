@@ -136,7 +136,7 @@ def convert_astminer_files(code2vec_input_data_folder, dataset_name):
 		for path_id, tokens_list in paths_with_node_types_dictionary.items():
 			line = str(path_id) + ', '
 			for token in tokens_list:
-				token = token.replace(' UP', ')^' )
+				token = token.replace(' UP', ')^')
 				token = token.replace(' DOWN', ')_')
 				line += '(' + token
 			fp.write(line + '\n')

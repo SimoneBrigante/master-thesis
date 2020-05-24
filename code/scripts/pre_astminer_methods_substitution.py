@@ -38,13 +38,13 @@ def pre_astminer_methods_substitution(input_data_folder, dataset_name, code2vec_
 	# Create output directory
 	Path(output_path).mkdir(parents=True, exist_ok=True)
 
-	exam_TF_path = '../data/input/exam_TF.json'
-	exam_TF_fp = open(exam_TF_path, 'r')
-	output_file_path = code2vec_output_data_folder + '/method_keys_correspondences.json'
+	exam_results_path = '../data/students_exam_results.json'
+	exam_results_fp = open(exam_results_path, 'r')
+	output_file_path = code2vec_output_data_folder + '/' + dataset_name + '_method_keys_correspondences.json'
 
 	# Dictonary to load info, will be converted into .json file
 	method_keys_correspondences = {}
-	students_outcome = json.load(exam_TF_fp)
+	students_outcome = json.load(exam_results_fp)
 
 	list_of_files = [name for name in os.listdir(input_path)]
 	sc = StringCounter()
@@ -85,7 +85,7 @@ def pre_astminer_methods_substitution(input_data_folder, dataset_name, code2vec_
 		if student_username not in students_outcome:
 			exam_outcome = 'notpassed'
 		else:
-			if students_outcome[student_username]:
+			if students_outcome[student_username]['is_passed']:
 				exam_outcome = 'passed'
 			else:
 				exam_outcome = 'notpassed'
