@@ -31,14 +31,13 @@ class StringCounter:
 		return ''.join([chr(n + self.char_offset) for n in self.counter_array])
 
 
-def pre_astminer_methods_substitution(input_data_folder, dataset_name, code2vec_output_data_folder):
+def pre_astminer_methods_substitution(input_data_folder, dataset_name, code2vec_output_data_folder, exam_results_path):
 	input_path = input_data_folder + '/' + dataset_name
 	output_path = input_data_folder + '/' + dataset_name + '_keys_methods'
 
 	# Create output directory
 	Path(output_path).mkdir(parents=True, exist_ok=True)
 
-	exam_results_path = '../data/students_exam_results.json'
 	exam_results_fp = open(exam_results_path, 'r')
 	output_file_path = code2vec_output_data_folder + '/' + dataset_name + '_method_keys_correspondences.json'
 
@@ -109,5 +108,6 @@ if __name__ == '__main__':
 	input_data_folder = args[1]
 	dataset_name = args[2]
 	code2vec_output_data_folder = args[3]
+	exam_results_path = args[4]		# '../data/students_exam_results.json'
 
-	pre_astminer_methods_substitution(input_data_folder, dataset_name, code2vec_output_data_folder)
+	pre_astminer_methods_substitution(input_data_folder, dataset_name, code2vec_output_data_folder, exam_results_path)

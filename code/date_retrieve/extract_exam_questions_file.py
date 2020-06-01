@@ -67,21 +67,36 @@ def extract_exercises(folder_name, tasks_list=None):
 
 		print('{}/{} - {:15s} {:10s} - Stud: {}'.format(num + 1, len(tasks_list), task['exam_session'], task['question_id'], len(students_files)))
 
-		for username, object in students_files.items():
+		tmp_question_outcome = {}
+		tmp_count_passed = 0
+
+		for username, stud_object in students_files.items():
+
+			if username not in tmp_question_outcome:
+				tmp_question_outcome[username] = {
+					'grade': stud_object['grade'],
+					'is_passed': False
+				}
+
+			if stud_object['grade'] > 50:
+				tmp_question_outcome[username]['is_passed'] = True
+				tmp_count_passed += 1
+
 			try:
-				input_dict = bson.BSON.decode(fs.get(object['input']).read())
+				input_dict = bson.BSON.decode(fs.get(stud_object['input']).read())
+
+				file_all_files = open(path_all_files + '/' + task['exam_session'] + '_' + task['question_id'] + '__' + username + '.py', 'w')
 
 				for key in sorted(input_dict):
 					if key.startswith('test') or key.startswith('@'):
 						continue
-					file_all_files = open(path_all_files + '/' + task['exam_session'] + '_' + key + '__' + username + '.py', 'w')
 
 					file = input_dict[key]
 					file_no_comments = remove_comments(file)
 					file_like_method = add_method_declaration_and_indentation(file_no_comments, task['question_id'])
 					file_all_files.write(str(file_like_method))
 
-					file_all_files.close()
+				file_all_files.close()
 
 				count_good += 1
 
@@ -89,7 +104,11 @@ def extract_exercises(folder_name, tasks_list=None):
 				print('NO FILE - {:15s} {:10s} {:15s}'.format(task['exam_session'], task['question_id'], username))
 				count_bad += 1
 
-	print('Good: {} - Bad: {}'.format(count_good, count_bad))
+		with open('../data/' + task['exam_session'] + '__' + task['question_id'] + '_results.json', 'w') as file_summary:
+			json.dump(tmp_question_outcome, file_summary, indent=4)
+
+		print('Good: {} - Bad: {}'.format(count_good, count_bad))
+		print('Passed: {}'.format(tmp_count_passed))
 
 
 def remove_comments(file):

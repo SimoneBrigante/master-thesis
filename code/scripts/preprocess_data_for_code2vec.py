@@ -113,16 +113,19 @@ if __name__ == '__main__':
 	input_data_folder = '../../students_exercise_files'
 	code2vec_input_data_folder = '../../code2vec_input_data'
 	code2vec_output_data_folder = '../../code2vec_output_data'
+	# dataset_name = 'all_files'
 	dataset_name = '0119_q1_all_grades'
+	# exam_results_path = '../data/students_exam_results.json'
+	exam_results_path = '../data/LINFO1101-0119__q1_results.json'
 
-	# pre_astminer_methods_substitution(input_data_folder, dataset_name, code2vec_output_data_folder)
+	pre_astminer_methods_substitution(input_data_folder, dataset_name, code2vec_output_data_folder, exam_results_path)
 
-	# execute_astminer(input_data_folder, code2vec_input_data_folder, dataset_name)
+	execute_astminer(input_data_folder, code2vec_input_data_folder, dataset_name)
 
-	# merging_path_contexts(code2vec_input_data_folder, code2vec_output_data_folder, dataset_name)
+	merging_path_contexts(code2vec_input_data_folder, code2vec_output_data_folder, dataset_name)
 
 	# conversion step
 	convert_astminer_files(code2vec_input_data_folder, dataset_name)
 
-	# split_path_contexts(code2vec_input_data_folder, code2vec_output_data_folder, dataset_name)
+	split_path_contexts(code2vec_input_data_folder, code2vec_output_data_folder, dataset_name)
 
