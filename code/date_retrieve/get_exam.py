@@ -59,7 +59,7 @@ def make_json(students):
 			'grade': float('{:.1f}'.format(student.get_final_grade()))
 		}
 
-	with open('../data/students_exam_results.json', 'w') as fp:
+	with open('../data/results/students_all_exams_results.json', 'w') as fp:
 		json.dump(dictionary, fp, indent=4)
 
 
