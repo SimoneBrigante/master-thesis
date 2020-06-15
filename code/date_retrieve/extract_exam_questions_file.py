@@ -13,8 +13,7 @@ Script to extract exercise files submitted by students
 """
 
 
-def extract_exercises(folder_name, tasks_list=None):
-
+def extract_exercises(tasks_list=None):
 	db, collection, fs = connect_to_db()
 
 	# Get tasks from JSON
@@ -31,17 +30,18 @@ def extract_exercises(folder_name, tasks_list=None):
 					'question_score': question_score
 				})
 
-	# Make dir for all files
-	path_all_files = '../../students_exercise_files/' + folder_name + '/'
-	Path(path_all_files).mkdir(parents=True, exist_ok=True)
-
-	count_good = 0
-	count_bad = 0
-
 	for num, task in enumerate(tasks_list):
+
+		# Make dir for all files
+		path_all_files = '../../students_exercise_files/' + task['exam_session'] + '_' + task['question_id'] + '/'
+		Path(path_all_files).mkdir(parents=True, exist_ok=True)
+
+		count_good = 0
+		count_bad = 0
+
 		submissions = dumps(db.submissions.find(
 			{
-				'courseid': task['exam_session'],
+				'courseid': 'LINFO1101-' + task['exam_session'],
 				'taskid': task['question_id'],
 				# 'grade': 100
 			}
@@ -60,12 +60,14 @@ def extract_exercises(folder_name, tasks_list=None):
 			if username not in students_files:
 				students_files[username] = {'input': input_id, 'timestamp': timestamp, 'grade': grade}
 
-			if students_files[username]['timestamp'] < timestamp:		# and students_files[username]['grade'] <= grade: # useless if only grade == 100
+			if (students_files[username]['timestamp'] < timestamp and students_files[username]['grade'] <= grade) \
+					or students_files[username]['grade'] < grade:
 				students_files[username]['input'] = input_id
 				students_files[username]['timestamp'] = timestamp
 				students_files[username]['grade'] = grade
 
-		print('{}/{} - {:15s} {:10s} - Stud: {}'.format(num + 1, len(tasks_list), task['exam_session'], task['question_id'], len(students_files)))
+		print('{}/{} - {:15s} {:10s} - Stud: {}'.format(num + 1, len(tasks_list), task['exam_session'],
+														task['question_id'], len(students_files)))
 
 		tmp_question_outcome = {}
 		tmp_count_passed = 0
@@ -85,7 +87,9 @@ def extract_exercises(folder_name, tasks_list=None):
 			try:
 				input_dict = bson.BSON.decode(fs.get(stud_object['input']).read())
 
-				file_all_files = open(path_all_files + '/' + task['exam_session'] + '_' + task['question_id'] + '__' + username + '.py', 'w')
+				file_all_files = open(
+					path_all_files + '/' + task['exam_session'] + '_' + task['question_id'] + '__' + username + '.py',
+					'w')
 
 				for key in sorted(input_dict):
 					if key.startswith('test') or key.startswith('@'):
@@ -104,7 +108,8 @@ def extract_exercises(folder_name, tasks_list=None):
 				print('NO FILE - {:15s} {:10s} {:15s}'.format(task['exam_session'], task['question_id'], username))
 				count_bad += 1
 
-		with open('../data/' + task['exam_session'] + '__' + task['question_id'] + '_results.json', 'w') as file_summary:
+		with open('../data/results/' + task['exam_session'] + '_' + task['question_id'] + '_results.json',
+				  'w') as file_summary:
 			json.dump(tmp_question_outcome, file_summary, indent=4)
 
 		print('Good: {} - Bad: {}'.format(count_good, count_bad))
@@ -131,8 +136,20 @@ def add_method_declaration_and_indentation(file, question_id):
 if __name__ == '__main__':
 	tasks_list = [
 		{
-			'exam_session': 'LINFO1101-0119',
+			'exam_session': '0119',
 			'question_id': 'q1',
+		},
+		{
+			'exam_session': '0119',
+			'question_id': 'q2',
+		},
+		{
+			'exam_session': '0119',
+			'question_id': 'q3',
+		},
+		{
+			'exam_session': '0119',
+			'question_id': 'q4',
 		}
 	]
-	extract_exercises('0119_q1_all_grades', tasks_list)
+	extract_exercises(tasks_list)

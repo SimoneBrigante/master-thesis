@@ -34,7 +34,7 @@ def extract_exercises(tasks_list=None):
 					})
 
 	# Make dir for all files
-	path_all_files = '../../students_exercise_files/all_files/'
+	path_all_files = '../../students_exercise_files/exercises/'
 	Path(path_all_files).mkdir(parents=True, exist_ok=True)
 
 	for num, task in enumerate(tasks_list):
@@ -42,7 +42,6 @@ def extract_exercises(tasks_list=None):
 			{
 				'courseid': 'LINFO1101',
 				'taskid': task['ex_name'],
-				'grade': 100
 			}
 		))
 
@@ -59,17 +58,17 @@ def extract_exercises(tasks_list=None):
 			if username not in students_files:
 				students_files[username] = {'input': input_id, 'timestamp': timestamp, 'grade': grade}
 
-			if students_files[username]['timestamp'] < timestamp:		# and students_files[username]['grade'] <= grade: # useless if only grade == 100
+			if (students_files[username]['timestamp'] < timestamp and students_files[username]['grade'] <= grade) or students_files[username]['grade'] < grade:
 				students_files[username]['input'] = input_id
 				students_files[username]['timestamp'] = timestamp
 				students_files[username]['grade'] = grade
 
 		print('{}/{} - {:20s} - Stud: {}'.format(num + 1, len(tasks_list), task['ex_name'], len(students_files)))
 
-		for username, object in students_files.items():
+		for username, entry in students_files.items():
 			file_all_files = open(path_all_files + '/' + task['ex_name'] + '__' + username + '.py', 'w')
 
-			input_dict = bson.BSON.decode(fs.get(object['input']).read())
+			input_dict = bson.BSON.decode(fs.get(entry['input']).read())
 
 			for key in sorted(input_dict):
 				if key.startswith('@'):
