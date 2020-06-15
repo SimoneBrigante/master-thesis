@@ -131,3 +131,5 @@ articles
 /code2vec_input_data
 /code2vec_output_data
 /external_code
+
+*.csv
