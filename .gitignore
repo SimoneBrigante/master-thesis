@@ -133,3 +133,7 @@ articles
 /external_code
 
 *.csv
+
+code/data/results/
+
+code/data/students_exam_results.json
