@@ -91,12 +91,12 @@ def make_paths_converted(paths_dictionary, node_types_dictionary):
 
 
 def convert_astminer_files(code2vec_input_data_folder, dataset_name):
-	path_tokens_csv = code2vec_input_data_folder + '/' + dataset_name + '/astminer_output/tokens.csv'
-	path_node_types_csv = code2vec_input_data_folder + '/' + dataset_name + '/astminer_output/node_types.csv'
-	path_paths_csv = code2vec_input_data_folder + '/' + dataset_name + '/astminer_output/paths.csv'
-	merged_path_contexts_txt = code2vec_input_data_folder + '/' + dataset_name + '/' + dataset_name + '_merged.txt'
+	path_tokens_csv = code2vec_input_data_folder + dataset_name + '/astminer_output/tokens.csv'
+	path_node_types_csv = code2vec_input_data_folder + dataset_name + '/astminer_output/node_types.csv'
+	path_paths_csv = code2vec_input_data_folder + dataset_name + '/astminer_output/paths.csv'
+	merged_path_contexts_txt = code2vec_input_data_folder + dataset_name + '/final/' + dataset_name + '_merged.txt'
 
-	destination_dir = code2vec_input_data_folder + '/' + dataset_name
+	destination_dir = code2vec_input_data_folder + dataset_name + '/astminer_output/'
 
 	tokens_dictionary = import_tokens_csv_dictionary(path_tokens_csv)
 	node_types_dictionary = import_node_types_csv_dictionary(path_node_types_csv)
@@ -120,7 +120,7 @@ def convert_astminer_files(code2vec_input_data_folder, dataset_name):
 			fp.write('\n')
 	"""
 
-	with open(destination_dir + '/paths_converted.csv', 'w') as fp:
+	with open(destination_dir + 'paths_converted.csv', 'w') as fp:
 		fp.write('id, path\n')
 		"""
 		for path_id, tokens_list in paths_with_node_types_dictionary.items():

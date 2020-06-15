@@ -34,15 +34,10 @@ def import_path_csv_dictionary(path):
 	return paths_dictionary
 
 
-if __name__ == '__main__':
-	code2vec_output_data_folder = '../../code2vec_output_data/'
-	code2vec_input_data_folder = '../../code2vec_input_data/'
-	dataset_name = '0119_q1_all_grades'
-	# dataset_name = 'all_files'
-
-	output_dictionary_path = code2vec_output_data_folder + dataset_name + '_merged_output_dictionary.json'
+def post_process_code2vec_output_files(code2vec_input_data_folder, code2vec_output_data_folder, dataset_name):
+	output_dictionary_path = code2vec_output_data_folder + dataset_name + '_test_all_output_dictionary.json'
 	method_keys_correspondences_path = code2vec_output_data_folder + dataset_name + '_method_keys_correspondences.json'
-	path_converted_path = code2vec_input_data_folder + dataset_name + '/paths_converted.csv'
+	path_converted_path = code2vec_input_data_folder + dataset_name + '/astminer_output/paths_converted.csv'
 	tokens_path = code2vec_input_data_folder + dataset_name + '/astminer_output/tokens.csv'
 
 	with open(output_dictionary_path, 'r') as file:
@@ -60,6 +55,8 @@ if __name__ == '__main__':
 		output_dictionary[string_key]['method_name'] = method_keys_correspondences[string_key]['method_name']
 		output_dictionary[string_key]['exam_outcome'] = method_keys_correspondences[string_key]['exam_outcome']
 		for attention_obj in output_dictionary[string_key]['attentions']:
+			if attention_obj['path'] == '<PAD_OR_OOV>' or attention_obj['token1'] == '<PAD_OR_OOV>' or attention_obj['token2'] == '<PAD_OR_OOV>':
+				continue
 			path_id = int(attention_obj['path'])
 			token1_id = int(attention_obj['token1'])
 			token2_id = int(attention_obj['token2'])
@@ -70,3 +67,22 @@ if __name__ == '__main__':
 
 	with open(code2vec_output_data_folder + dataset_name + '_final_dictionary.json', 'w') as fp:
 		json.dump(output_dictionary, fp, indent=4)
+
+
+if __name__ == '__main__':
+	code2vec_input_data_folder = '../../code2vec_input_data/'
+	code2vec_output_data_folder = '../../code2vec_output_data/'
+
+	datasets = [
+		# '0119_q1',
+		# '0119_q2',
+		# '0119_q3',
+		# '0119_q4',
+		'exercises_q1',
+		'exercises_q2',
+		'exercises_q3',
+		'exercises_q4',
+	]
+
+	for dataset_name in datasets:
+		post_process_code2vec_output_files(code2vec_input_data_folder, code2vec_output_data_folder, dataset_name)

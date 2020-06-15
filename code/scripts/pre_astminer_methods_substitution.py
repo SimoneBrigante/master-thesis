@@ -32,8 +32,9 @@ class StringCounter:
 
 
 def pre_astminer_methods_substitution(input_data_folder, dataset_name, code2vec_output_data_folder, exam_results_path):
-	input_path = input_data_folder + '/' + dataset_name
-	output_path = input_data_folder + '/' + dataset_name + '_keys_methods'
+	input_path = input_data_folder + dataset_name
+	output_path = input_data_folder + dataset_name + '_keys_methods'
+	# exam_results_path = '../data/results/' + dataset_name + '_results.json'
 
 	# Create output directory
 	Path(output_path).mkdir(parents=True, exist_ok=True)
@@ -108,6 +109,6 @@ if __name__ == '__main__':
 	input_data_folder = args[1]
 	dataset_name = args[2]
 	code2vec_output_data_folder = args[3]
-	exam_results_path = args[4]		# '../data/students_exam_results.json'
+	exam_results_path = args[4]		# '../data/students_all_exams_results.json'
 
 	pre_astminer_methods_substitution(input_data_folder, dataset_name, code2vec_output_data_folder, exam_results_path)
